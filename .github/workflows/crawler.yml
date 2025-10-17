@@ -61,7 +61,16 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          # 添加这一行：先拉取远程更新
-          git pull origin main --rebase
+          
+          # 先拉取最新代码
+          git fetch origin
+          git reset --hard origin/main
+          
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)" && git push)
+          if git diff-index --quiet HEAD --; then
+            echo "📝 没有变更需要提交"
+          else
+            git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M:%S')"
+            git push origin main
+            echo "✅ 变更已提交并推送"
+          fi
