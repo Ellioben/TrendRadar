@@ -56,18 +56,12 @@ jobs:
           WEWORK_WEBHOOK_URL: ${{ secrets.WEWORK_WEBHOOK_URL }}
           GITHUB_ACTIONS: true
         run: python main.py
-
+        
       - name: Commit and push if changes
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
+          # 添加这一行：先拉取远程更新
+          git pull origin main --rebase
           git add -A
-          # 检查是否有变更
-          if git diff-index --quiet HEAD --; then
-            echo "没有变更需要提交"
-          else
-            git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M:%S')"
-            # 先拉取再推送，避免冲突
-            git pull --rebase origin main
-            git push origin main
-          fi
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)" && git push)
