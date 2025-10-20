@@ -1,2007 +1,351 @@
 {
-  "generated_at": "2025-10-17T22:14:59.906289+08:00",
-  "total_titles_processed": 2030,
+  "generated_at": "2025-10-20T14:18:39.608732+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "35 中年 男 女 失业 欠债 创业 失败 彩礼 结婚 离婚 生娃 丁克 恋爱 单身 996 独立 开发者 MACOS WINDOWS Mac MacBook 苹果笔记本 Apple iPhone 大厂 小厂 赚钱 擦边 线城市 线城市 奋斗 躺平",
-      "match_count": 159,
+      "keyword_group": "中年 男 女",
+      "match_count": 15,
       "titles": [
         {
-          "title": "苏州「我听交警的」事件迎来新进展，逆行且诬告的涉事女子被行拘，怎么评价小伙的教科书式操作？",
-          "url": "https://www.zhihu.com/question/1962186287193755710",
+          "title": "女儿五年级，今天下午有点冷，同学借给她一件衣服穿，说收两元，这件事怎么教育俩孩子，要不要告诉班主任?",
+          "url": "https://www.zhihu.com/question/1962280864101701480",
           "source": "知乎",
           "ranks": [
-            6,
-            4,
-            1,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时34分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时18分]"
         },
         {
-          "title": "镇长称走失女童在沟里获救脸上有伤",
-          "url": "https://www.toutiao.com/trending/7562059366439079474/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时38分 ~ 22时14分]"
-        },
-        {
-          "title": "辽宁失联4岁女童已找到",
-          "url": "https://www.toutiao.com/trending/7561748636502310931/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时06分 ~ 19时21分]"
-        },
-        {
-          "title": "酒后“智驾”也是酒驾，男子酒驾被查时正从驾驶位向后座转移",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791079",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 11时06分]"
-        },
-        {
-          "title": "辽宁失联4岁女童已找到",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E5%A4%B1%E8%81%944%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%B7%B2%E6%89%BE%E5%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时06分 ~ 16时34分]"
-        },
-        {
-          "title": "财晓得丨宗馥莉的“大女主”之路还能走多远？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31784198",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15,
-            10,
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时53分 ~ 22时14分]"
-        },
-        {
-          "title": "男子偷上万辆共享单车 每辆卖105元",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E4%B8%8A%E4%B8%87%E8%BE%86%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6+%E6%AF%8F%E8%BE%86%E5%8D%96105%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            20,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时38分 ~ 22时14分]"
-        },
-        {
-          "title": "男朋友见到我之前vs见到我之后",
-          "url": "https://www.douyin.com/hot/2271963",
-          "source": "抖音",
-          "ranks": [
-            12,
-            7,
-            8,
-            6,
-            9,
-            18,
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时54分]"
-        },
-        {
-          "title": "女子为改善睡眠踩指压板 20 分钟脚底喷血，踩指压板真的有用吗？有哪些注意事项？",
-          "url": "https://www.zhihu.com/question/1961355416597393962",
+          "title": "多男女在草原抛纸片，拍视频称「放肆地挥撒」，当地林草局介入，对当地生态有何影响？涉事者将承担什么责任？",
+          "url": "https://www.zhihu.com/question/1962817902597072258",
           "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            6,
-            8,
-            11,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "韩国财阀天价离婚案再生变数：老丈人给的300亿不能作数",
-          "url": "https://www.cls.cn/detail/2172052",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 15时26分]"
-        },
-        {
-          "title": "“我听交警的”事件涉事女子被行拘",
-          "url": "https://www.toutiao.com/trending/7561540860664430611/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            17,
-            15,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "27岁白俄女子被高薪模特招聘骗到缅北，家属被告知“已火化”",
-          "url": "https://news.ifeng.com/c/8nUxno8ZQSH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时24分]"
-        },
-        {
-          "title": "国行iPhone Air测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            9,
-            8,
-            15,
-            18,
-            10,
-            21,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时53分 ~ 22时14分]"
-        },
-        {
-          "title": "国乒女团横扫日本的秘诀",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%E7%9A%84%E7%A7%98%E8%AF%80",
-          "source": "bilibili 热搜",
           "ranks": [
             3,
-            21,
-            9,
-            18,
-            15,
-            19,
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时18分]"
         },
         {
-          "title": "辽宁朝阳：在面包车里失踪4岁女童已被找到，生命体征平稳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            13,
-            12,
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时26分 ~ 22时14分]"
-        },
-        {
-          "title": "当男生开始搞穿搭",
-          "url": "https://www.douyin.com/hot/2271745",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6,
-            7,
-            11,
-            12,
-            14,
-            9,
-            24,
-            22,
-            30,
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 17时27分]"
-        },
-        {
-          "title": "辽宁失联4岁女童已找到",
-          "url": "https://www.douyin.com/hot/2272772",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            14,
-            13,
-            12,
-            15,
-            17,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时30分 ~ 22时14分]"
-        },
-        {
-          "title": "国行iPhone Air上手体验",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            11,
-            13,
-            14,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时06分 ~ 22时14分]"
-        },
-        {
-          "title": "iPhone Air的eSIM办理教程",
-          "url": "https://www.douyin.com/hot/2272840",
-          "source": "抖音",
-          "ranks": [
-            24,
-            18,
-            17,
-            11,
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时26分 ~ 19时21分]"
-        },
-        {
-          "title": "女童车里睡觉失联 家属悬赏10万寻人",
-          "url": "https://www.toutiao.com/trending/7561683413657193993/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            29,
-            22,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "女子当众被性侵,众目睽睽无人救",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345885&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%BD%93%E4%BC%97%E8%A2%AB%E6%80%A7%E4%BE%B5%2C%E4%BC%97%E7%9B%AE%E7%9D%BD%E7%9D%BD%E6%97%A0%E4%BA%BA%E6%95%91",
+          "title": "农夫与蛇,男子救落水女反被举报",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345940&amp;topic_name=%E5%86%9C%E5%A4%AB%E4%B8%8E%E8%9B%87%2C%E7%94%B7%E5%AD%90%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%8F%8D%E8%A2%AB%E4%B8%BE%E6%8A%A5",
           "source": "贴吧",
           "ranks": [
-            4,
-            21,
-            24,
-            25,
-            26,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时34分 ~ 18时29分]"
-        },
-        {
-          "title": "女子酒后走捷径坠亡 同饮者不担责",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%8E%E8%B5%B0%E6%8D%B7%E5%BE%84%E5%9D%A0%E4%BA%A1+%E5%90%8C%E9%A5%AE%E8%80%85%E4%B8%8D%E6%8B%85%E8%B4%A3",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            22,
-            24,
-            18,
-            14,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "湖南一女主播收到炸弹包裹被炸伤，面部达深二度烧伤，犯罪嫌疑人已被刑拘，其将面临怎样的法律严惩？",
-          "url": "https://www.zhihu.com/question/1962211786209097501",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            10,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时37分 ~ 07时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时18分]"
         },
         {
-          "title": "辽宁失联4岁女童已找到",
-          "url": "https://news.ifeng.com/c/8nWKUpaRDrZ",
-          "source": "凤凰网",
+          "title": "男子应聘船员出海，严重晕船后自缢身亡，家属索赔两百万被驳回，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/1962478022939635761",
+          "source": "知乎",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时26分 ~ 16时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时18分]"
         },
         {
-          "title": "女主播被炸弹包裹炸伤面部，系恶意报复，警方介入",
-          "url": "https://v.ifeng.com/c/8nV9fsuoOyY",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "李亚鹏首谈离婚：真相比猜想更精彩",
-          "url": "https://www.toutiao.com/trending/7561381919133450286/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            24,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时53分 ~ 19时21分]"
-        },
-        {
-          "title": "逼员工卖淫女嫌犯因外貌在日本走红",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%80%BC%E5%91%98%E5%B7%A5%E5%8D%96%E6%B7%AB%E5%A5%B3%E5%AB%8C%E7%8A%AF%E5%9B%A0%E5%A4%96%E8%B2%8C%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%B5%B0%E7%BA%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26flag%3D1%26cate%3D5001%26pos%3D13%26q%3D%2523%25E9%2580%25BC%25E5%2591%2598%25E5%25B7%25A5%25E5%258D%2596%25E6%25B7%25AB%25E5%25A5%25B3%25E5%25AB%258C%25E7%258A%25AF%25E5%259B%25A0%25E5%25A4%2596%25E8%25B2%258C%25E5%259C%25A8%25E6%2597%25A5%25E6%259C%25AC%25E8%25B5%25B0%25E7%25BA%25A2%2523%26stream_entry_id%3D31%26realpos%3D12%26band_rank%3D12%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760666017%26pre_seqid%3D176066601707800676155",
-          "source": "微博",
-          "ranks": [
-            12,
-            14,
-            13,
-            17,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 15时26分]"
-        },
-        {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            21,
-            20,
-            25,
-            23,
-            19,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时30分 ~ 22时14分]"
-        },
-        {
-          "title": "四川省发现首例HIV-2女感染者",
-          "url": "https://www.toutiao.com/trending/7561019043101016083/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "每月攒一颗小金饰00后女生发声",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%8F%E6%9C%88%E6%94%92%E4%B8%80%E9%A2%97%E5%B0%8F%E9%87%91%E9%A5%B000%E5%90%8E%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D13%26q%3D%2523%25E6%25AF%258F%25E6%259C%2588%25E6%2594%2592%25E4%25B8%2580%25E9%25A2%2597%25E5%25B0%258F%25E9%2587%2591%25E9%25A5%25B000%25E5%2590%258E%25E5%25A5%25B3%25E7%2594%259F%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D14%26flag%3D0%26band_rank%3D14%26filter_type%3Drealtimehot%26c_type%3D31%26display_time%3D1760632482%26pre_seqid%3D1760632482593014383197",
-          "source": "微博",
-          "ranks": [
-            14,
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时54分]"
-        },
-        {
-          "title": "徐艺洋 谢彬彬我的男朋友",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BE%90%E8%89%BA%E6%B4%8B+%E8%B0%A2%E5%BD%AC%E5%BD%AC%E6%88%91%E7%9A%84%E7%94%B7%E6%9C%8B%E5%8F%8B&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D14%26q%3D%25E5%25BE%2590%25E8%2589%25BA%25E6%25B4%258B%2520%25E8%25B0%25A2%25E5%25BD%25AC%25E5%25BD%25AC%25E6%2588%2591%25E7%259A%2584%25E7%2594%25B7%25E6%259C%258B%25E5%258F%258B%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D15%26flag%3D0%26band_rank%3D15%26filter_type%3Drealtimehot%26c_type%3D31%26display_time%3D1760632482%26pre_seqid%3D1760632482593014383197",
-          "source": "微博",
-          "ranks": [
-            15,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时54分]"
-        },
-        {
-          "title": "日本一地铁站内老头涉嫌偷拍女性裙底被抓，五名女性合力将其按倒在地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31794296",
+          "title": "卢浮宫九件珠宝被抢，三名蒙面男子持械破窗而入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31807529",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            20,
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时30分 ~ 22时14分]"
-        },
-        {
-          "title": "余生有涯里的女性困境",
-          "url": "https://www.douyin.com/hot/2272895",
-          "source": "抖音",
-          "ranks": [
-            15,
-            19,
-            21,
-            20,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时26分 ~ 22时14分]"
-        },
-        {
-          "title": "颜丙燕和男友曾被误认是母子",
-          "url": "https://www.toutiao.com/trending/7561616519789248554/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            23,
-            19,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "一脚踢死哈基米,大陆男在港被判刑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345849&amp;topic_name=%E4%B8%80%E8%84%9A%E8%B8%A2%E6%AD%BB%E5%93%88%E5%9F%BA%E7%B1%B3%2C%E5%A4%A7%E9%99%86%E7%94%B7%E5%9C%A8%E6%B8%AF%E8%A2%AB%E5%88%A4%E5%88%91",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            17,
-            20,
-            21,
-            22,
-            24,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时34分 ~ 22时14分]"
-        },
-        {
-          "title": "男子拍到路边出租车集体“侧翻”",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%8D%E5%88%B0%E8%B7%AF%E8%BE%B9%E5%87%BA%E7%A7%9F%E8%BD%A6%E9%9B%86%E4%BD%93%E2%80%9C%E4%BE%A7%E7%BF%BB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            21,
-            23,
-            25,
-            28,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "4岁女童车内睡着后失踪超20小时",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%BD%A6%E5%86%85%E7%9D%A1%E7%9D%80%E5%90%8E%E5%A4%B1%E8%B8%AA%E8%B6%8520%E5%B0%8F%E6%97%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D27%26q%3D%25234%25E5%25B2%2581%25E5%25A5%25B3%25E7%25AB%25A5%25E8%25BD%25A6%25E5%2586%2585%25E7%259D%25A1%25E7%259D%2580%25E5%2590%258E%25E5%25A4%25B1%25E8%25B8%25AA%25E8%25B6%258520%25E5%25B0%258F%25E6%2597%25B6%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D28%26flag%3D0%26band_rank%3D28%26filter_type%3Drealtimehot%26c_type%3D31%26display_time%3D1760632482%26pre_seqid%3D1760632482593014383197",
-          "source": "微博",
-          "ranks": [
-            28,
-            29,
-            23,
-            25,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "男子应聘船员出海严重晕船自缢身亡",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%BA%94%E8%81%98%E8%88%B9%E5%91%98%E5%87%BA%E6%B5%B7%E4%B8%A5%E9%87%8D%E6%99%95%E8%88%B9%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D18%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%25BA%2594%25E8%2581%2598%25E8%2588%25B9%25E5%2591%2598%25E5%2587%25BA%25E6%25B5%25B7%25E4%25B8%25A5%25E9%2587%258D%25E6%2599%2595%25E8%2588%25B9%25E8%2587%25AA%25E7%25BC%25A2%25E8%25BA%25AB%25E4%25BA%25A1%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D19%26flag%3D0%26band_rank%3D19%26filter_type%3Drealtimehot%26c_type%3D31%26display_time%3D1760632482%26pre_seqid%3D1760632482593014383197",
-          "source": "微博",
-          "ranks": [
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "警方回应4岁女童田间走失",
-          "url": "https://www.douyin.com/hot/2271820",
-          "source": "抖音",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时54分]"
-        },
-        {
-          "title": "警方多地抓获24名卖淫女42名嫖客",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%AD%A6%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%8A%93%E8%8E%B724%E5%90%8D%E5%8D%96%E6%B7%AB%E5%A5%B342%E5%90%8D%E5%AB%96%E5%AE%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D24%26q%3D%2523%25E8%25AD%25A6%25E6%2596%25B9%25E5%25A4%259A%25E5%259C%25B0%25E6%258A%2593%25E8%258E%25B724%25E5%2590%258D%25E5%258D%2596%25E6%25B7%25AB%25E5%25A5%25B342%25E5%2590%258D%25E5%25AB%2596%25E5%25AE%25A2%2523%26dgr%3D0%26c_type%3D31%26flag%3D0%26cate%3D5001%26band_rank%3D24%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26pos%3D24%26lcate%3D5001%26display_time%3D1760635385%26pre_seqid%3D176063538551800721107",
-          "source": "微博",
-          "ranks": [
-            24,
-            25,
-            20,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 07时22分]"
-        },
-        {
-          "title": "双冠收官,国乒男女团亚锦赛登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345845&amp;topic_name=%E5%8F%8C%E5%86%A0%E6%94%B6%E5%AE%98%2C%E5%9B%BD%E4%B9%92%E7%94%B7%E5%A5%B3%E5%9B%A2%E4%BA%9A%E9%94%A6%E8%B5%9B%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 11时06分]"
-        },
-        {
-          "title": "辽宁失联4岁女童已找到",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%BE%BD%E5%AE%81%E5%A4%B1%E8%81%944%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%B7%B2%E6%89%BE%E5%88%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D5%26q%3D%2523%25E8%25BE%25BD%25E5%25AE%2581%25E5%25A4%25B1%25E8%2581%25944%25E5%25B2%2581%25E5%25A5%25B3%25E7%25AB%25A5%25E5%25B7%25B2%25E6%2589%25BE%25E5%2588%25B0%2523%26dgr%3D0%26c_type%3D31%26realpos%3D5%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26band_rank%3D5%26stream_entry_id%3D31%26display_time%3D1760670337%26pre_seqid%3D17606703371220195897142",
-          "source": "微博",
-          "ranks": [
-            5,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 13时27分]"
-        },
-        {
-          "title": "江西小伙回应彩礼视频爆火",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%BA%94%E5%BD%A9%E7%A4%BC%E8%A7%86%E9%A2%91%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            9,
-            10,
             8,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 21时56分]"
-        },
-        {
-          "title": "男子偷上万辆共享单车涉案超千万",
-          "url": "https://www.toutiao.com/trending/7561406365143744566/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 19时21分]"
-        },
-        {
-          "title": "种族歧视、反犹、厌女…青年共和党领袖群聊遭曝光，万斯辩护",
-          "url": "https://news.ifeng.com/c/8nWPswfkrIu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 16时34分]"
-        },
-        {
-          "title": "【每日收评】深成指与创业板指双双跌超3%，全市场仅600余股飘红，高位热门赛道全线退潮",
-          "url": "https://www.cls.cn/detail/2172800",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 22时14分]"
-        },
-        {
-          "title": "白俄外交部回应女子被骗至缅北后身亡",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%99%BD%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E5%8C%97%E5%90%8E%E8%BA%AB%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D4%26realpos%3D4%26flag%3D1%26q%3D%2523%25E7%2599%25BD%25E4%25BF%2584%25E5%25A4%2596%25E4%25BA%25A4%25E9%2583%25A8%25E5%259B%259E%25E5%25BA%2594%25E5%25A5%25B3%25E5%25AD%2590%25E8%25A2%25AB%25E9%25AA%2597%25E8%2587%25B3%25E7%25BC%2585%25E5%258C%2597%25E5%2590%258E%25E8%25BA%25AB%25E4%25BA%25A1%2523%26filter_type%3Drealtimehot%26dgr%3D0%26pos%3D4%26lcate%3D5001%26c_type%3D31%26display_time%3D1760649768%26pre_seqid%3D1760649768438016710813",
-          "source": "微博",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时24分 ~ 07时22分]"
-        },
-        {
-          "title": "警方通报51岁女子撞车致6伤",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A551%E5%B2%81%E5%A5%B3%E5%AD%90%E6%92%9E%E8%BD%A6%E8%87%B46%E4%BC%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D4%26flag%3D1%26stream_entry_id%3D31%26q%3D%2523%25E8%25AD%25A6%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A551%25E5%25B2%2581%25E5%25A5%25B3%25E5%25AD%2590%25E6%2592%259E%25E8%25BD%25A6%25E8%2587%25B46%25E4%25BC%25A4%2523%26dgr%3D0%26band_rank%3D4%26realpos%3D4%26display_time%3D1760689957%26pre_seqid%3D17606899575010273292336",
-          "source": "微博",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 18时29分]"
-        },
-        {
-          "title": "洪秀柱力挺郑丽文：女人不止撑起半边天！",
-          "url": "https://news.ifeng.com/c/8nWG2sc22DN",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 12时31分]"
-        },
-        {
-          "title": "找到走失女童时派出所所长哭了",
-          "url": "https://www.toutiao.com/trending/7561737908265664562/",
-          "source": "今日头条",
-          "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时14分]"
+          "time_info": "[12时28分 ~ 14时18分]"
         },
         {
-          "title": "新娘向摄影师发涉黄信息？警方：造谣男子被拘留",
-          "url": "https://news.ifeng.com/c/8nV5NZfejQy",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时24分]"
-        },
-        {
-          "title": "一个流量女歌手和她的幕后操控者",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%B5%81%E9%87%8F%E5%A5%B3%E6%AD%8C%E6%89%8B%E5%92%8C%E5%A5%B9%E7%9A%84%E5%B9%95%E5%90%8E%E6%93%8D%E6%8E%A7%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            15,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时29分]"
-        },
-        {
-          "title": "女童车内失踪 爷爷怀疑睡着时被抱走",
-          "url": "https://www.toutiao.com/trending/7561739473906716196/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
-        },
-        {
-          "title": "克拉拉官宣离婚",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%85%8B%E6%8B%89%E6%8B%89%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D28%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%2585%258B%25E6%258B%2589%25E6%258B%2589%25E5%25AE%2598%25E5%25AE%25A3%25E7%25A6%25BB%25E5%25A9%259A%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D27%26flag%3D1%26band_rank%3D27%26c_type%3D31%26filter_type%3Drealtimehot%26display_time%3D1760693257%26pre_seqid%3D17606932572840189966825",
-          "source": "微博",
-          "ranks": [
-            27,
-            11,
-            12,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 22时14分]"
-        },
-        {
-          "title": "女子住酒店发现落地窗室内看不到外面",
-          "url": "https://www.toutiao.com/trending/7562026389143076905/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 18时29分]"
-        },
-        {
-          "title": "辽宁失联四岁女童已找到",
-          "url": "https://www.douyin.com/hot/2272772",
+          "title": "石宇奇获丹麦赛男单亚军",
+          "url": "https://www.douyin.com/hot/2275967",
           "source": "抖音",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "演员克拉拉离婚",
-          "url": "https://www.toutiao.com/trending/7561995985908695082/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时14分]"
-        },
-        {
-          "title": "NYMEX 11月汽油期货收报1.8117美元/加仑，NYMEX 11月取暖油期货收报2.1535美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/2989155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "深成指、创业板指均跌超1%，沪指跌0.18%，电网设备、培育钻石、充电桩、液冷服务器等方向领跌，沪深京三市下跌个股超3800只。",
-          "url": "https://wallstreetcn.com/livenews/2989344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "赣锋锂业：拟引入战略投资人万鑫绿能，以人民币6.64亿元的交易对价向公司及其他部分原股东收购其持有的深圳易储注册资本人民币2.86亿元（即44.2361%股权），其中万鑫绿能以人民币4.43亿元收购公司持有深圳易储29.5355%股权。",
-          "url": "https://wallstreetcn.com/livenews/2989698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "据AXIOS网站：一项研究指出，特朗普的移民政策计划可能到2035年导致多达1500万个岗位消失。",
-          "url": "https://flash.jin10.com/detail/20251017172015809800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "找到走失4岁女童后派出所所长哭了",
-          "url": "https://www.baidu.com/s?wd=%E6%89%BE%E5%88%B0%E8%B5%B0%E5%A4%B14%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%90%8E%E6%B4%BE%E5%87%BA%E6%89%80%E6%89%80%E9%95%BF%E5%93%AD%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时14分]"
-        },
-        {
-          "title": "男子被同一只未拴绳狗咬2次",
-          "url": "https://www.toutiao.com/trending/7561057346421719083/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）上海金早盘价为990.35元/克，较国际金价(991.18元/克)，低0.83元/克",
-          "url": "https://flash.jin10.com/detail/20251017102909542800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "凤戏阳成为女帝",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%87%A4%E6%88%8F%E9%98%B3%E6%88%90%E4%B8%BA%E5%A5%B3%E5%B8%9D&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D20%26q%3D%25E5%2587%25A4%25E6%2588%258F%25E9%2598%25B3%25E6%2588%2590%25E4%25B8%25BA%25E5%25A5%25B3%25E5%25B8%259D%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D21%26flag%3D0%26band_rank%3D21%26filter_type%3Drealtimehot%26c_type%3D31%26display_time%3D1760632482%26pre_seqid%3D1760632482593014383197",
-          "source": "微博",
-          "ranks": [
-            21,
-            23,
+            7,
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时18分]"
         },
         {
-          "title": "拒绝录用35岁女子企业去年0人参保",
-          "url": "https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D%E5%BD%95%E7%94%A835%E5%B2%81%E5%A5%B3%E5%AD%90%E4%BC%81%E4%B8%9A%E5%8E%BB%E5%B9%B40%E4%BA%BA%E5%8F%82%E4%BF%9D",
-          "source": "百度热搜",
+          "title": "卧室衣柜里竟装了马桶？男子买二手房遇“奇葩”装修(图)",
+          "url": "https://news.ifeng.com/c/8nbOCHQM3Pa",
+          "source": "凤凰网",
           "ranks": [
-            28,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 18时29分]"
-        },
-        {
-          "title": "爸爸凌晨骑行300公里送女儿出嫁",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%87%8C%E6%99%A8%E9%AA%91%E8%A1%8C300%E5%85%AC%E9%87%8C%E9%80%81%E5%A5%B3%E5%84%BF%E5%87%BA%E5%AB%81",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 13时27分]"
-        },
-        {
-          "title": "男子偷上万辆共享单车每辆卖105元",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%81%B7%E4%B8%8A%E4%B8%87%E8%BE%86%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E6%AF%8F%E8%BE%86%E5%8D%96105%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D26%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%2581%25B7%25E4%25B8%258A%25E4%25B8%2587%25E8%25BE%2586%25E5%2585%25B1%25E4%25BA%25AB%25E5%258D%2595%25E8%25BD%25A6%25E6%25AF%258F%25E8%25BE%2586%25E5%258D%2596105%25E5%2585%2583%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D27%26flag%3D0%26band_rank%3D27%26filter_type%3Drealtimehot%26c_type%3D31%26display_time%3D1760632482%26pre_seqid%3D1760632482593014383197",
-          "source": "微博",
-          "ranks": [
-            27,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "34岁女歌手黄小玫因病去世",
-          "url": "https://www.toutiao.com/trending/7561375654949109770/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 07时22分]"
-        },
-        {
-          "title": "秘鲁男子遭自家斗鸡攻击致死",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%A7%98%E9%B2%81%E7%94%B7%E5%AD%90%E9%81%AD%E8%87%AA%E5%AE%B6%E6%96%97%E9%B8%A1%E6%94%BB%E5%87%BB%E8%87%B4%E6%AD%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26flag%3D1%26cate%3D5001%26pos%3D8%26q%3D%2523%25E7%25A7%2598%25E9%25B2%2581%25E7%2594%25B7%25E5%25AD%2590%25E9%2581%25AD%25E8%2587%25AA%25E5%25AE%25B6%25E6%2596%2597%25E9%25B8%25A1%25E6%2594%25BB%25E5%2587%25BB%25E8%2587%25B4%25E6%25AD%25BB%2523%26stream_entry_id%3D31%26realpos%3D7%26band_rank%3D7%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760666017%26pre_seqid%3D176066601707800676155",
-          "source": "微博",
-          "ranks": [
-            7,
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时06分]"
+          "time_info": "[12时28分 ~ 14时18分]"
         },
         {
-          "title": "辽宁朝阳失联女童找到后派出所所长泪流满面",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%BE%BD%E5%AE%81%E6%9C%9D%E9%98%B3%E5%A4%B1%E8%81%94%E5%A5%B3%E7%AB%A5%E6%89%BE%E5%88%B0%E5%90%8E%E6%B4%BE%E5%87%BA%E6%89%80%E6%89%80%E9%95%BF%E6%B3%AA%E6%B5%81%E6%BB%A1%E9%9D%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D7%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D7%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D7%26dgr%3D0%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E8%25BE%25BD%25E5%25AE%2581%25E6%259C%259D%25E9%2598%25B3%25E5%25A4%25B1%25E8%2581%2594%25E5%25A5%25B3%25E7%25AB%25A5%25E6%2589%25BE%25E5%2588%25B0%25E5%2590%258E%25E6%25B4%25BE%25E5%2587%25BA%25E6%2589%2580%25E6%2589%2580%25E9%2595%25BF%25E6%25B3%25AA%25E6%25B5%2581%25E6%25BB%25A1%25E9%259D%25A2%2523%26display_time%3D1760709611%26pre_seqid%3D176070961109603613148127",
-          "source": "微博",
+          "title": "女孩狂言炫父,泼饮料耍横被锁喉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345932&amp;topic_name=%E5%A5%B3%E5%AD%A9%E7%8B%82%E8%A8%80%E7%82%AB%E7%88%B6%2C%E6%B3%BC%E9%A5%AE%E6%96%99%E8%80%8D%E6%A8%AA%E8%A2%AB%E9%94%81%E5%96%89",
+          "source": "贴吧",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "苹果计划推出搭载触控屏和M6芯片的Mac电脑",
-          "url": "https://flash.jin10.com/detail/20251017024902777800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)划于2026年末或2027年初推出首款触摸屏Mac电脑。",
-          "url": "https://flash.jin10.com/detail/20251017024558862800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "创业板指跌3%，深成指跌2.77%，沪指跌1.77%。科创50指数跌3.4%。电网设备、培育钻石、可控核聚变、先进封装板块跌幅居前，全市场超4400只个股下跌。",
-          "url": "https://wallstreetcn.com/livenews/2989495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "iPhoneAir正式开售",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhoneAir%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D10%26q%3D%2523iPhoneAir%25E6%25AD%25A3%25E5%25BC%258F%25E5%25BC%2580%25E5%2594%25AE%2523%26dgr%3D0%26c_type%3D31%26realpos%3D9%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26band_rank%3D9%26stream_entry_id%3D31%26display_time%3D1760670337%26pre_seqid%3D17606703371220195897142",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "韩国9月失业率 2.5%，前值2.60%。",
-          "url": "https://flash.jin10.com/detail/20251017070002147800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "上期所原油期货2511合约夜盘收跌1.83%，报435.10元人民币/桶。 沪金夜盘收涨1.96%，沪银收涨1.72%。",
-          "url": "https://wallstreetcn.com/livenews/2989154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时24分]"
-        },
-        {
-          "title": "三花智控：拟将本次回购价格上限由人民币35.75元/股（含）调整为人民币60.00元/股（含）；拟对回购股份实施期限延长2个月，延期至2026年2月28日止。",
-          "url": "https://wallstreetcn.com/livenews/2989686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "美联储卡什卡利：两党领导人都相信美联储的独立性。",
-          "url": "https://flash.jin10.com/detail/20251017063740001800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时22分]"
-        },
-        {
-          "title": "搜救者讲述辽宁失联女童搜救过程",
-          "url": "https://www.toutiao.com/trending/7562064937460400166/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时21分]"
-        },
-        {
-          "title": "男女主浴池吻唇享60秒",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%B5%B4%E6%B1%A0%E5%90%BB%E5%94%87%E4%BA%AB60%E7%A7%92&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26q%3D%25E7%2594%25B7%25E5%25A5%25B3%25E4%25B8%25BB%25E6%25B5%25B4%25E6%25B1%25A0%25E5%2590%25BB%25E5%2594%2587%25E4%25BA%25AB60%25E7%25A7%2592%26stream_entry_id%3D31%26band_rank%3D26%26realpos%3D26%26pos%3D27%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760699405%26pre_seqid%3D176069940554202733365156",
-          "source": "微博",
-          "ranks": [
-            26,
-            16,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时14分]"
-        },
-        {
-          "title": "成都警方通报51岁女子撞车致6伤",
-          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A551%E5%B2%81%E5%A5%B3%E5%AD%90%E6%92%9E%E8%BD%A6%E8%87%B46%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            14,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时14分]"
-        },
-        {
-          "title": "成都部分青旅拒接“30+”女士、“40+”男士？律师：涉嫌双重歧视",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31797968",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时14分]"
-        },
-        {
-          "title": "丈母娘拒收彩礼称不是卖女儿，视频爆火后江西小伙回应非剧情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31797622",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时14分]"
-        },
-        {
-          "title": "女顾客刚进门就要给老板相亲",
-          "url": "https://www.toutiao.com/trending/7561700117406367780/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 01时24分]"
-        },
-        {
-          "title": "辽宁4岁女童失联 附近有近30米悬崖",
-          "url": "https://www.toutiao.com/trending/7561605124120952874/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 07时22分]"
-        },
-        {
-          "title": "梁淞何美延两个魔丸结婚了",
-          "url": "https://www.douyin.com/hot/2272608",
-          "source": "抖音",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 13时27分]"
-        },
-        {
-          "title": "女孩央企离职陪癌症妈妈走完最后一程",
-          "url": "https://www.toutiao.com/trending/7560918476023529514/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 01时24分]"
-        },
-        {
-          "title": "女子在台北车站大厅遭侵犯无人制止",
-          "url": "https://www.toutiao.com/trending/7560971255944446002/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 06时47分]"
-        },
-        {
-          "title": "35岁女子应聘人事岗被HR嫌年龄大",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2335%E5%B2%81%E5%A5%B3%E5%AD%90%E5%BA%94%E8%81%98%E4%BA%BA%E4%BA%8B%E5%B2%97%E8%A2%ABHR%E5%AB%8C%E5%B9%B4%E9%BE%84%E5%A4%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D0%26q%3D%252335%25E5%25B2%2581%25E5%25A5%25B3%25E5%25AD%2590%25E5%25BA%2594%25E8%2581%2598%25E4%25BA%25BA%25E4%25BA%258B%25E5%25B2%2597%25E8%25A2%25ABHR%25E5%25AB%258C%25E5%25B9%25B4%25E9%25BE%2584%25E5%25A4%25A7%2523%26dgr%3D0%26stream_entry_id%3D31%26pos%3D27%26realpos%3D27%26band_rank%3D27%26cate%3D5001%26display_time%3D1760654742%26pre_seqid%3D17606547421290066332",
-          "source": "微博",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 07时22分]"
-        },
-        {
-          "title": "洪秀柱挺郑丽文：女人不止撑起半边天",
-          "url": "https://www.toutiao.com/trending/7561955876035120690/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时06分]"
-        },
-        {
-          "title": "男孩偷卖姥姥13克黄金仅换4200元",
-          "url": "https://www.toutiao.com/trending/7560795346507513907/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时27分]"
-        },
-        {
-          "title": "女子诈骗2600万被捕3年7次怀孕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%AF%88%E9%AA%972600%E4%B8%87%E8%A2%AB%E6%8D%953%E5%B9%B47%E6%AC%A1%E6%80%80%E5%AD%95",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            21,
             14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时14分]"
+          "time_info": "[12时28分 ~ 14时18分]"
         },
         {
-          "title": "中国女篮现状问题怎么解决",
-          "url": "https://www.toutiao.com/trending/7561682450285150234/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时06分]"
-        },
-        {
-          "title": "女子卖26万结婚五金赚18.4万",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%90%E5%8D%9626%E4%B8%87%E7%BB%93%E5%A9%9A%E4%BA%94%E9%87%91%E8%B5%9A18.4%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D19%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%2590%25E5%258D%259626%25E4%25B8%2587%25E7%25BB%2593%25E5%25A9%259A%25E4%25BA%2594%25E9%2587%2591%25E8%25B5%259A18.4%25E4%25B8%2587%2523%26dgr%3D0%26c_type%3D31%26realpos%3D18%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26band_rank%3D18%26stream_entry_id%3D31%26display_time%3D1760670337%26pre_seqid%3D17606703371220195897142",
+          "title": "迪丽热巴大女主排面",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%A7%E5%A5%B3%E4%B8%BB%E6%8E%92%E9%9D%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26realpos%3D23%26q%3D%2523%25E8%25BF%25AA%25E4%25B8%25BD%25E7%2583%25AD%25E5%25B7%25B4%25E5%25A4%25A7%25E5%25A5%25B3%25E4%25B8%25BB%25E6%258E%2592%25E9%259D%25A2%2523%26stream_entry_id%3D31%26pos%3D23%26band_rank%3D23%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760934365%26pre_seqid%3D17609343651480273335334",
           "source": "微博",
           "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时06分 ~ 12时31分]"
-        },
-        {
-          "title": "男童掉进烧烤店炭堆全身烧伤",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E7%AB%A5%E6%8E%89%E8%BF%9B%E7%83%A7%E7%83%A4%E5%BA%97%E7%82%AD%E5%A0%86%E5%85%A8%E8%BA%AB%E7%83%A7%E4%BC%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26dgr%3D0%26pos%3D20%26band_rank%3D20%26realpos%3D20%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E7%2594%25B7%25E7%25AB%25A5%25E6%258E%2589%25E8%25BF%259B%25E7%2583%25A7%25E7%2583%25A4%25E5%25BA%2597%25E7%2582%25AD%25E5%25A0%2586%25E5%2585%25A8%25E8%25BA%25AB%25E7%2583%25A7%25E4%25BC%25A4%2523%26display_time%3D1760678737%26pre_seqid%3D1760678737121020497929",
-          "source": "微博",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时38分]"
-        },
-        {
-          "title": "外国人分享在华创业故事",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%88%86%E4%BA%AB%E5%9C%A8%E5%8D%8E%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
+            23,
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时27分]"
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
         },
         {
-          "title": "未来外版 iPhone 是否可以写入国内 eSIM？",
-          "url": "https://www.zhihu.com/question/1961461197447595662",
-          "source": "知乎",
+          "title": "X剧场首部女性罪案剧",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DX%E5%89%A7%E5%9C%BA%E9%A6%96%E9%83%A8%E5%A5%B3%E6%80%A7%E7%BD%AA%E6%A1%88%E5%89%A7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26realpos%3D28%26q%3DX%25E5%2589%25A7%25E5%259C%25BA%25E9%25A6%2596%25E9%2583%25A8%25E5%25A5%25B3%25E6%2580%25A7%25E7%25BD%25AA%25E6%25A1%2588%25E5%2589%25A7%26stream_entry_id%3D31%26pos%3D28%26band_rank%3D28%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760934365%26pre_seqid%3D17609343651480273335334",
+          "source": "微博",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
+        },
+        {
+          "title": "苏超赛场上的女鼓手太飒了",
+          "url": "https://www.toutiao.com/trending/7562803358642798642/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
+        },
+        {
+          "title": "佛山男子感染基孔肯雅热身亡？不实",
+          "url": "https://www.toutiao.com/trending/7562760552348287039/",
+          "source": "今日头条",
           "ranks": [
             11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
-          "title": "4岁女童失踪千人搜寻未果 家属发声",
-          "url": "https://www.baidu.com/s?wd=4%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%A4%B1%E8%B8%AA%E5%8D%83%E4%BA%BA%E6%90%9C%E5%AF%BB%E6%9C%AA%E6%9E%9C+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0",
+          "title": "女演员高空表演时不慎落水 乌镇回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%98%E9%AB%98%E7%A9%BA%E8%A1%A8%E6%BC%94%E6%97%B6%E4%B8%8D%E6%85%8E%E8%90%BD%E6%B0%B4+%E4%B9%8C%E9%95%87%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
-        },
-        {
-          "title": "男子坟头炸死3侄女被执行死刑",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%9D%9F%E5%A4%B4%E7%82%B8%E6%AD%BB3%E4%BE%84%E5%A5%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D12%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D12%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%259D%259F%25E5%25A4%25B4%25E7%2582%25B8%25E6%25AD%25BB3%25E4%25BE%2584%25E5%25A5%25B3%25E8%25A2%25AB%25E6%2589%25A7%25E8%25A1%258C%25E6%25AD%25BB%25E5%2588%2591%2523%26dgr%3D0%26pos%3D13%26cate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760705483%26pre_seqid%3D17607054830420362122057",
-          "source": "微博",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 21时56分]"
-        },
-        {
-          "title": "报道：苹果准备在2026年后期、或2027年年初发布首款触摸屏Mac",
-          "url": "https://wallstreetcn.com/livenews/2989159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时29分]"
-        },
-        {
-          "title": "日本央行行长植田和男：全球经济迄今仍然具有韧性。 地缘政治局势紧张和贸易关系紧张构成下行风险。 关税影响一直都具有滞后性，然后会陡然显现出来。",
-          "url": "https://wallstreetcn.com/livenews/2989178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时24分]"
-        },
-        {
-          "title": "演员克拉拉离婚",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%85%8B%E6%8B%89%E6%8B%89%E7%A6%BB%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时14分]"
-        },
-        {
-          "title": "诺基亚失败的本质原因是什么？",
-          "url": "https://www.zhihu.com/question/279795246",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
-        },
-        {
-          "title": "美国10月10日当周EIA原油库存变动 352.4万桶，预期 -120万桶，前值 371.5万桶。",
-          "url": "https://wallstreetcn.com/livenews/2989113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时24分]"
-        },
-        {
-          "title": "上证指数早盘收报3877.20点，跌1.00%。 深证成指早盘收报12825.85点，跌1.99%。 创业板指早盘收报2965.47点，跌2.37%。 沪深300早盘收报4559.93点，跌1.27%。 科创50早盘收报1379.46点，跌2.62%。 中证500早盘收报7100.73点，跌1.81%。 中证1000早盘收报7265.62点，跌1.84%。",
-          "url": "https://wallstreetcn.com/livenews/2989426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时27分]"
-        },
-        {
-          "title": "10月17日午间收评：创业板指半日跌2.37%，农业银行股价创新高",
-          "url": "https://wallstreetcn.com/livenews/2989425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时27分]"
-        },
-        {
-          "title": "男子用伪装快递报复女子致其烧伤",
-          "url": "https://www.toutiao.com/trending/7561787131707179046/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时24分]"
-        },
-        {
-          "title": "你所在地区有独生子女医保优惠政策吗",
-          "url": "https://www.toutiao.com/trending/7561970065487527990/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
-        },
-        {
-          "title": "据知情人士透露，Standard Lithium（SLI.US）寻求通过增发股票融资1.2亿美元。 该公司将美国发行价指导区间设在每股4.35-4.65美元，将提供最大19.3%的折扣。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2989214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时22分]"
-        },
-        {
-          "title": "欧洲央行管委内格尔：如果我们不保持央行的独立性，我们将知道通货膨胀的后果。",
-          "url": "https://flash.jin10.com/detail/20251017211941066800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时14分]"
-        },
-        {
-          "title": "卡戴珊透露与侃爷离婚原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%A1%E6%88%B4%E7%8F%8A%E9%80%8F%E9%9C%B2%E4%B8%8E%E4%BE%83%E7%88%B7%E7%A6%BB%E5%A9%9A%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%258D%25A1%25E6%2588%25B4%25E7%258F%258A%25E9%2580%258F%25E9%259C%25B2%25E4%25B8%258E%25E4%25BE%2583%25E7%2588%25B7%25E7%25A6%25BB%25E5%25A9%259A%25E5%258E%259F%25E5%259B%25A0%2523%26pos%3D21%26dgr%3D0%26band_rank%3D21%26display_time%3D1760656829%26pre_seqid%3D176065682977700549117",
-          "source": "微博",
           "ranks": [
             21
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
-          "title": "估算显示美国上周初请失业金人数降至约21.5万",
-          "url": "https://flash.jin10.com/detail/20251017211931037800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时14分]"
-        },
-        {
-          "title": "高市早苗自嘲当不上首相的可怜女人",
-          "url": "https://www.toutiao.com/trending/7560716147814285322/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
-        },
-        {
-          "title": "父亲送女儿出嫁时泪崩",
-          "url": "https://www.toutiao.com/trending/7561594494102421546/",
+          "title": "男子为狗窝开启“豪华升级模式”",
+          "url": "https://www.toutiao.com/trending/7563066166324035603/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
-          "title": "iPhone Air全颜色开箱",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E5%85%A8%E9%A2%9C%E8%89%B2%E5%BC%80%E7%AE%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "李亚鹏回应离婚质疑",
-          "url": "https://www.toutiao.com/trending/7561337507629088814/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时14分]"
-        },
-        {
-          "title": "美国知名女演员因病去世",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%9F%A5%E5%90%8D%E5%A5%B3%E6%BC%94%E5%91%98%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96",
+          "title": "患癌父亲教女儿直面别离：就当去旅行",
+          "url": "https://www.baidu.com/s?wd=%E6%82%A3%E7%99%8C%E7%88%B6%E4%BA%B2%E6%95%99%E5%A5%B3%E5%84%BF%E7%9B%B4%E9%9D%A2%E5%88%AB%E7%A6%BB%EF%BC%9A%E5%B0%B1%E5%BD%93%E5%8E%BB%E6%97%85%E8%A1%8C",
           "source": "百度热搜",
           "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时14分]"
-        },
-        {
-          "title": "李施嬅四次手术男友全程缺席",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%8E%E6%96%BD%E5%AC%85%E5%9B%9B%E6%AC%A1%E6%89%8B%E6%9C%AF%E7%94%B7%E5%8F%8B%E5%85%A8%E7%A8%8B%E7%BC%BA%E5%B8%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D29%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E6%259D%258E%25E6%2596%25BD%25E5%25AC%2585%25E5%259B%259B%25E6%25AC%25A1%25E6%2589%258B%25E6%259C%25AF%25E7%2594%25B7%25E5%258F%258B%25E5%2585%25A8%25E7%25A8%258B%25E7%25BC%25BA%25E5%25B8%25AD%2523%26pos%3D29%26dgr%3D0%26band_rank%3D29%26display_time%3D1760656829%26pre_seqid%3D176065682977700549117",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：尽管各央行货币政策立场将趋于分化，但各央行必须拥有独立性，以充分履行其职责。",
-          "url": "https://flash.jin10.com/detail/20251017210544948800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时14分]"
-        },
-        {
-          "title": "在5岁女孩视频留侮辱评论男子道歉",
-          "url": "https://www.toutiao.com/trending/7560739704124948531/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "BBVA股价上涨7%，此前尝试收购Sabadell失败。",
-          "url": "https://wallstreetcn.com/livenews/2989527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "京东：iPhone Air 成交额1秒钟破亿",
-          "url": "https://wallstreetcn.com/livenews/2989636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "瑞典统计局：瑞典9月经季调后失业率为8.7%。",
-          "url": "https://flash.jin10.com/detail/20251017140241085800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）：铜库存137225吨，减少225吨。铝库存491225吨，减少4100吨。镍库存250530吨，增加186吨。锌库存38025吨，减少275吨。铅库存250400吨，减少1600吨。锡库存2735吨，增加160吨。",
-          "url": "https://wallstreetcn.com/livenews/2989574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "供应扰动推高利润 全球金属交易商迎史上最赚钱一年",
-          "url": "https://flash.jin10.com/detail/20251017185404498800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "上证指数开盘报3912.04点，跌0.11%。 深证成指开盘报13060.24点，跌0.20%。 创业板指开盘报3026.40点，跌0.36%。 沪深300开盘报4610.70点，跌0.17%。 科创50开盘报1411.74点，跌0.34%。 中证500开盘报7226.42点，跌0.07%。 中证1000开盘报7395.87点，跌0.08%。",
-          "url": "https://wallstreetcn.com/livenews/2989320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "欧股集体低开，德国DAX指数跌1.64%，回落至24000点下方；欧洲斯托克50指数跌1.35%，法国CAC40指数、英国富时100指数均跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2989522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "以军逮捕至少35名巴勒斯坦人",
-          "url": "https://www.toutiao.com/trending/7561499525110857767/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "荣梓杉最喜欢的女性特质是漂亮",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E6%A2%93%E6%9D%89%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E6%80%A7%E7%89%B9%E8%B4%A8%E6%98%AF%E6%BC%82%E4%BA%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D16%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D16%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D16%26dgr%3D0%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E8%258D%25A3%25E6%25A2%2593%25E6%259D%2589%25E6%259C%2580%25E5%2596%259C%25E6%25AC%25A2%25E7%259A%2584%25E5%25A5%25B3%25E6%2580%25A7%25E7%2589%25B9%25E8%25B4%25A8%25E6%2598%25AF%25E6%25BC%2582%25E4%25BA%25AE%2523%26display_time%3D1760709611%26pre_seqid%3D176070961109603613148127",
-          "source": "微博",
-          "ranks": [
-            16
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
+          "time_info": "14时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "日本公用事业游说团体负责人：美国页岩气因其地缘政治风险低、储量丰富及价格稳定而颇具吸引力，但具体采购决策仍取决于各公司基于燃料多元化战略的独立判断。",
-          "url": "https://flash.jin10.com/detail/20251017135741067800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
-          "url": "https://wallstreetcn.com/livenews/2989137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "4岁女童在地头失踪超20小时家属发声",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%9C%B0%E5%A4%B4%E5%A4%B1%E8%B8%AA%E8%B6%8520%E5%B0%8F%E6%97%B6%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D18%26q%3D%25234%25E5%25B2%2581%25E5%25A5%25B3%25E7%25AB%25A5%25E5%259C%25A8%25E5%259C%25B0%25E5%25A4%25B4%25E5%25A4%25B1%25E8%25B8%25AA%25E8%25B6%258520%25E5%25B0%258F%25E6%2597%25B6%25E5%25AE%25B6%25E5%25B1%259E%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26c_type%3D31%26realpos%3D17%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D0%26band_rank%3D17%26stream_entry_id%3D31%26display_time%3D1760670337%26pre_seqid%3D17606703371220195897142",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "美国至10月10日当周EIA原油库存 352.4万桶，预期28.8万桶，前值371.5万桶。",
-          "url": "https://flash.jin10.com/detail/20251017000003296800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "前三季度全国铁路完成旅客发送量35.37亿人，同比增长6.0%",
-          "url": "https://wallstreetcn.com/livenews/2989386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "开售火爆！iPhoneAir首批售罄",
-          "url": "https://wallstreetcn.com/livenews/2989311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "有没有谁更新了 Windows11 25H2，好用不，稳定吗？",
-          "url": "https://www.zhihu.com/question/1960021085694165208",
+          "title": "iPhone17 播放《孤勇者》闪退什么原因？",
+          "url": "https://www.zhihu.com/question/1962703846389293137",
           "source": "知乎",
           "ranks": [
-            19
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时18分]"
         },
         {
-          "title": "巴克莱：将台积电(TSM.N)目标价上调至355美元，此前为330美元。",
-          "url": "https://flash.jin10.com/detail/20251017135216188800",
-          "source": "金十数据",
+          "title": "iPhone17pro天猫官旗首次降价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone17pro%E5%A4%A9%E7%8C%AB%E5%AE%98%E6%97%97%E9%A6%96%E6%AC%A1%E9%99%8D%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D0%26cate%3D5001%26realpos%3D9%26q%3D%2523iPhone17pro%25E5%25A4%25A9%25E7%258C%25AB%25E5%25AE%2598%25E6%2597%2597%25E9%25A6%2596%25E6%25AC%25A1%25E9%2599%258D%25E4%25BB%25B7%2523%26stream_entry_id%3D31%26pos%3D9%26band_rank%3D9%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760934365%26pre_seqid%3D17609343651480273335334",
+          "source": "微博",
           "ranks": [
-            19
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
         },
         {
-          "title": "巴克莱：将特斯拉(TSLA.O)目标价上调至350美元，原为275美元。",
-          "url": "https://flash.jin10.com/detail/20251017175140540800",
-          "source": "金十数据",
+          "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
+          "url": "https://wallstreetcn.com/articles/3757463",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "14时18分"
         },
         {
-          "title": "明晟公司MSCI北欧国家指数涨0.8%，连续第二个交易日走高，报358.68点，创10月8日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 运输和物流服务商DSV A/S涨4.0%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/2989106",
+          "title": "根据Counterpoint Research的数据，iPhone 17系列在美国和中国的销量，在其上市的头10天内，比iPhone 16系列高出14%。",
+          "url": "https://wallstreetcn.com/livenews/2990386",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "12时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "德媒称德国打算增购15架F35战机",
+          "url": "https://wallstreetcn.com/livenews/2990460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
-          "title": "现货黄金周五盘初涨势迅猛，升破4350美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251017060940720800",
+          "title": "中国财政部发行91天期债券，规模550亿元，发行利率1.2746%，边际利率1.3119%，预期1.3200%，投标倍数2.53倍，边际倍数1.55倍； 中国财政部发行10年期债券，规模1490亿元，发行利率1.8204%，边际利率1.8359%，预期1.8300%，投标倍数2.45倍，边际倍数1.60倍。",
+          "url": "https://wallstreetcn.com/livenews/2990406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "据德国《明镜周刊》：德国国防部长皮斯托里乌斯计划再订购15架美国产F-35战斗机。",
+          "url": "https://flash.jin10.com/detail/20251020133141286800",
           "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3866.09点，涨0.69%。 深证成指早盘收报12863.53点，涨1.38%。 创业板指早盘收报3008.56点，涨2.49%。 沪深300早盘收报4550.33点，涨0.80%。 科创50早盘收报1382.17点，涨1.39%。 中证500早盘收报7092.74点，涨1.09%。 中证1000早盘收报7260.26点，涨1.04%。",
+          "url": "https://wallstreetcn.com/livenews/2990397",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "12时29分"
         },
         {
-          "title": "周洁琼辟谣被甩归国女艺人",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%91%A8%E6%B4%81%E7%90%BC%E8%BE%9F%E8%B0%A3%E8%A2%AB%E7%94%A9%E5%BD%92%E5%9B%BD%E5%A5%B3%E8%89%BA%E4%BA%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D22%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D22%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D22%26dgr%3D0%26cate%3D5001%26lcate%3D5001%26q%3D%25E5%2591%25A8%25E6%25B4%2581%25E7%2590%25BC%25E8%25BE%259F%25E8%25B0%25A3%25E8%25A2%25AB%25E7%2594%25A9%25E5%25BD%2592%25E5%259B%25BD%25E5%25A5%25B3%25E8%2589%25BA%25E4%25BA%25BA%26display_time%3D1760709611%26pre_seqid%3D176070961109603613148127",
-          "source": "微博",
+          "title": "10月20日午间收评：创业板指半日涨2.49%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/2990396",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赚钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "线城市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "9 月各线城市房价环比下降，同比降幅总体持续收窄，如何看待这一趋势？",
+          "url": "https://www.zhihu.com/question/1963544211140862177",
+          "source": "知乎",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
+          "time_info": "14时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "奋斗 躺平",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "韩美尚未就3500亿美元投资基金相关的外汇问题达成一致",
-          "url": "https://flash.jin10.com/detail/20251017134649212800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "德国DAX30指数10月16日（周四）收盘上涨91.56点，涨幅0.38%，报24272.93点；<br/>英国富时100指数10月16日（周四）收盘上涨11.34点，涨幅0.12%，报9436.09点；<br/>法国CAC40指数10月16日（周四）收盘上涨110.36点，涨幅1.37%，报8187.36点；<br/>欧洲斯托克50指数10月16日（周四）收盘上涨44.20点，涨幅0.79%，报5649.23点；<br/>西班牙IBEX35指数10月16日（周四）收盘上涨55.00点，涨幅0.35%，报15625.30点；<br/>意大利富时MIB指数10月16日（周四）收盘上涨467.28点，涨幅1.12%，报42374.18点。",
-          "url": "https://flash.jin10.com/detail/20251016235115894800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "日本央行行长植田和男：如果预期前景实现，我们将收紧货币政策。",
-          "url": "https://flash.jin10.com/detail/20251017033848144800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "集体押注短故事，互联网大厂需要下一个短剧",
-          "url": "https://wallstreetcn.com/livenews/2989599",
+          "title": "新华社社评：在接续奋斗中谱写中国式现代化新篇章",
+          "url": "https://wallstreetcn.com/livenews/2990440",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "第五人格女王蜂",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%A5%B3%E7%8E%8B%E8%9C%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26q%3D%2523%25E7%25AC%25AC%25E4%25BA%2594%25E4%25BA%25BA%25E6%25A0%25BC%25E5%25A5%25B3%25E7%258E%258B%25E8%259C%2582%2523%26stream_entry_id%3D31%26band_rank%3D24%26realpos%3D24%26pos%3D25%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760699405%26pre_seqid%3D176069940554202733365156",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "日本央行行长植田和男：美国关税的影响可能会显现出来，我们在做出预测时必须考虑到这一点。",
-          "url": "https://flash.jin10.com/detail/20251017033844502800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1265，较上一交易日官方收盘价跌16点，较上日夜盘收盘跌35点。",
-          "url": "https://wallstreetcn.com/livenews/2989598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "日本央行行长植田和男：将根据经济、价格前景和风险以及我们的预测实现的可能性来决定政策。",
-          "url": "https://flash.jin10.com/detail/20251017033755024800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "欧股开盘普跌，德国DAX指数回落至24000点下方，日内跌1.64%；欧洲斯托克50指数跌1.35%，法国CAC40指数、英国富时100指数跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251017150134920800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "辽宁4岁女童翻车窗后失联 正搜救",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%814%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%BF%BB%E8%BD%A6%E7%AA%97%E5%90%8E%E5%A4%B1%E8%81%94+%E6%AD%A3%E6%90%9C%E6%95%91",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "日本央行行长植田和男：目前仍有与国际货币基金组织相关的会议，因此希望进一步收集信息。同时在决定政策时，也将充分考虑直至我们下次会议前将公布的数据。",
-          "url": "https://flash.jin10.com/detail/20251017033732875800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "沪指跌幅扩大至1%，深成指跌1.97%，创业板指跌2.46%，科创50指数跌近3%，电网设备、半导体芯片、光伏风电、核聚变等方向跌幅居前，沪深京三市下跌个股近4100只。",
-          "url": "https://wallstreetcn.com/livenews/2989372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "日本央行行长植田和男：将根据经济增长和通胀预期实现的可能性调整货币支持力度。",
-          "url": "https://flash.jin10.com/detail/20251017033548501800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "纽约期金盘初向上触及4350美元/盎司，续刷历史新高。",
-          "url": "https://flash.jin10.com/detail/20251017060114682800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "西班牙IBEX35指数日内跌幅达1.00%。",
-          "url": "https://flash.jin10.com/detail/20251017154046985800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "日本央行行长植田和男：关税对全球及美国经济的影响正在延后，这使经济增长保持韧性。",
-          "url": "https://flash.jin10.com/detail/20251017033340439800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "日本央行行长植田和男：我对全球经济及前景的看法，与我访美前相比并未有太大变化。",
-          "url": "https://flash.jin10.com/detail/20251017033300922800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "14时18分"
         }
       ]
     }
