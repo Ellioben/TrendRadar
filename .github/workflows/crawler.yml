@@ -76,6 +76,8 @@ jobs:
           if git diff-index --quiet HEAD --; then
             echo "📝 没有变更需要提交"
           else
+            echo "📁 更新的文件:"
+            git diff --cached --name-only
             git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M:%S')"
             git push origin main
             echo "✅ 变更已提交并推送"
