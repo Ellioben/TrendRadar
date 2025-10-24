@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T12:26:22.748098+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2025-10-24T18:14:55.090405+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年 男 女",
-      "match_count": 7,
+      "match_count": 17,
       "titles": [
         {
           "title": "摩托车司机急刹后座女子被甩飞",
@@ -19,6 +19,75 @@
           "time_info": "12时26分"
         },
         {
+          "title": "普京宣布提高全日制女学生孕产津贴",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E6%8F%90%E9%AB%98%E5%85%A8%E6%97%A5%E5%88%B6%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%AD%95%E4%BA%A7%E6%B4%A5%E8%B4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D4%26c_type%3D31%26q%3D%2523%25E6%2599%25AE%25E4%25BA%25AC%25E5%25AE%25A3%25E5%25B8%2583%25E6%258F%2590%25E9%25AB%2598%25E5%2585%25A8%25E6%2597%25A5%25E5%2588%25B6%25E5%25A5%25B3%25E5%25AD%25A6%25E7%2594%259F%25E5%25AD%2595%25E4%25BA%25A7%25E6%25B4%25A5%25E8%25B4%25B4%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D4%26pos%3D4%26display_time%3D1761300314%26pre_seqid%3D1761300313963033095295",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "普京宣布提高全日制女学生孕产津贴",
+          "url": "https://www.toutiao.com/trending/7564232883319373874/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "逆天!见义勇为男向被救女公开道歉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346129&amp;topic_name=%E9%80%86%E5%A4%A9%21%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E7%94%B7%E5%90%91%E8%A2%AB%E6%95%91%E5%A5%B3%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 18时14分]"
+        },
+        {
+          "title": "一击男假面篇还是被原作秒了?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346140&amp;topic_name=%E4%B8%80%E5%87%BB%E7%94%B7%E5%81%87%E9%9D%A2%E7%AF%87%E8%BF%98%E6%98%AF%E8%A2%AB%E5%8E%9F%E4%BD%9C%E7%A7%92%E4%BA%86%3F",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 18时14分]"
+        },
+        {
+          "title": "“四大天王”7个孩子均为女儿",
+          "url": "https://www.toutiao.com/trending/7564114514543853609/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 18时14分]"
+        },
+        {
+          "title": "普京宣布提高全日制女学生孕产津贴",
+          "url": "https://news.ifeng.com/c/8niHxOsJ4v4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "女子带宠物蛙就餐被店员误认是食材",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AE%A0%E7%89%A9%E8%9B%99%E5%B0%B1%E9%A4%90%E8%A2%AB%E5%BA%97%E5%91%98%E8%AF%AF%E8%AE%A4%E6%98%AF%E9%A3%9F%E6%9D%90",
           "source": "百度热搜",
@@ -30,37 +99,59 @@
           "time_info": "12时26分"
         },
         {
-          "title": "逆天!见义勇为男向被救女公开道歉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346129&amp;topic_name=%E9%80%86%E5%A4%A9%21%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E7%94%B7%E5%90%91%E8%A2%AB%E6%95%91%E5%A5%B3%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "一击男假面篇还是被原作秒了?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346140&amp;topic_name=%E4%B8%80%E5%87%BB%E7%94%B7%E5%81%87%E9%9D%A2%E7%AF%87%E8%BF%98%E6%98%AF%E8%A2%AB%E5%8E%9F%E4%BD%9C%E7%A7%92%E4%BA%86%3F",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "“四大天王”7个孩子均为女儿",
-          "url": "https://www.toutiao.com/trending/7564114514543853609/",
+          "title": "男童喝珍珠奶茶蹦床后窒息身亡",
+          "url": "https://www.toutiao.com/trending/7563905674988978185/",
           "source": "今日头条",
           "ranks": [
-            21
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "18时14分"
+        },
+        {
+          "title": "90后女孩称杨振宁是学生时代精神领袖",
+          "url": "https://www.toutiao.com/trending/7564609108347813938/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "普京宣布提高全日制女学生孕产津贴",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E6%8F%90%E9%AB%98%E5%85%A8%E6%97%A5%E5%88%B6%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%AD%95%E4%BA%A7%E6%B4%A5%E8%B4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "4岁男童喝珍珠奶茶后玩蹦床窒息身亡",
+          "url": "https://www.baidu.com/s?wd=4%E5%B2%81%E7%94%B7%E7%AB%A5%E5%96%9D%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6%E5%90%8E%E7%8E%A9%E8%B9%A6%E5%BA%8A%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "日本知名写真女星入选高市早苗内阁",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E7%9F%A5%E5%90%8D%E5%86%99%E7%9C%9F%E5%A5%B3%E6%98%9F%E5%85%A5%E9%80%89%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%85%E9%98%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D20%26c_type%3D31%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E7%259F%25A5%25E5%2590%258D%25E5%2586%2599%25E7%259C%259F%25E5%25A5%25B3%25E6%2598%259F%25E5%2585%25A5%25E9%2580%2589%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E5%2586%2585%25E9%2598%2581%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D20%26pos%3D21%26display_time%3D1761300314%26pre_seqid%3D1761300313963033095295",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "韩国女子赴柬应聘翻译被同胞卖掉",
@@ -74,11 +165,72 @@
           "time_info": "12时26分"
         },
         {
+          "title": "女子靠“代购骗局”赚外快养男友3年",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0%E2%80%9C%E4%BB%A3%E8%B4%AD%E9%AA%97%E5%B1%80%E2%80%9D%E8%B5%9A%E5%A4%96%E5%BF%AB%E5%85%BB%E7%94%B7%E5%8F%8B3%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "女子银行被VIP插队现场要说法",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%90%E9%93%B6%E8%A1%8C%E8%A2%ABVIP%E6%8F%92%E9%98%9F%E7%8E%B0%E5%9C%BA%E8%A6%81%E8%AF%B4%E6%B3%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%2590%25E9%2593%25B6%25E8%25A1%258C%25E8%25A2%25ABVIP%25E6%258F%2592%25E9%2598%259F%25E7%258E%25B0%25E5%259C%25BA%25E8%25A6%2581%25E8%25AF%25B4%25E6%25B3%2595%2523%26dgr%3D0%26realpos%3D22%26pos%3D22%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26flag%3D1%26band_rank%3D22%26stream_entry_id%3D31%26display_time%3D1761279848%26pre_seqid%3D176127984810903670917126",
           "source": "微博",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "女子10年前给儿子买三金转手赚20万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9010%E5%B9%B4%E5%89%8D%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%89%E9%87%91%E8%BD%AC%E6%89%8B%E8%B5%9A20%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
+          "url": "https://www.zhihu.com/question/1964293577816408687",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "苹果彻查iPhone17Pro褪色",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%BD%BB%E6%9F%A5iPhone17Pro%E8%A4%AA%E8%89%B2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%25BD%25BB%25E6%259F%25A5iPhone17Pro%25E8%25A4%25AA%25E8%2589%25B2%2523%26dgr%3D0%26realpos%3D17%26pos%3D17%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26flag%3D0%26band_rank%3D17%26stream_entry_id%3D31%26display_time%3D1761279848%26pre_seqid%3D176127984810903670917126",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "iPhone 17评测测评",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%2017%E8%AF%84%E6%B5%8B%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -115,30 +267,53 @@
       ]
     },
     {
-      "keyword_group": "Apple iPhone",
-      "match_count": 2,
+      "keyword_group": "35",
+      "match_count": 1,
       "titles": [
         {
-          "title": "苹果彻查iPhone17Pro褪色",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%BD%BB%E6%9F%A5iPhone17Pro%E8%A4%AA%E8%89%B2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%25BD%25BB%25E6%259F%25A5iPhone17Pro%25E8%25A4%25AA%25E8%2589%25B2%2523%26dgr%3D0%26realpos%3D17%26pos%3D17%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26flag%3D0%26band_rank%3D17%26stream_entry_id%3D31%26display_time%3D1761279848%26pre_seqid%3D176127984810903670917126",
-          "source": "微博",
+          "title": "35岁东北女生，干出1200亿",
+          "url": "https://wallstreetcn.com/articles/3757788",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
-        },
+          "time_info": "18时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "iPhone 17评测测评",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%2017%E8%AF%84%E6%B5%8B%E6%B5%8B%E8%AF%84",
+          "title": "UP主Helin和Eva结婚啦",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBHelin%E5%92%8CEva%E7%BB%93%E5%A9%9A%E5%95%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "18时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海51岁丁克立遗嘱 财产留给妻子",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B751%E5%B2%81%E4%B8%81%E5%85%8B%E7%AB%8B%E9%81%97%E5%98%B1+%E8%B4%A2%E4%BA%A7%E7%95%99%E7%BB%99%E5%A6%BB%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     }
