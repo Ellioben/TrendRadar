@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T12:33:48.475371+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-27T18:16:58.683512+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年 男 女",
-      "match_count": 14,
+      "match_count": 24,
       "titles": [
         {
           "title": "男子囤积 500 万枚 5 美分硬币对冲通胀，如何评价该男子的行为？",
@@ -13,17 +13,6 @@
           "source": "知乎",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "玩脱了!男大看A片寻刺激丧命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346233&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%21%E7%94%B7%E5%A4%A7%E7%9C%8BA%E7%89%87%E5%AF%BB%E5%88%BA%E6%BF%80%E4%B8%A7%E5%91%BD",
-          "source": "贴吧",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -39,6 +28,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "玩脱了!男大看A片寻刺激丧命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346233&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%21%E7%94%B7%E5%A4%A7%E7%9C%8BA%E7%89%87%E5%AF%BB%E5%88%BA%E6%BF%80%E4%B8%A7%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 18时16分]"
+        },
+        {
+          "title": "台州一男子伙同二人驾车撞死母亲骗保，一审两名主犯被判死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31784609",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 18时16分]"
+        },
+        {
+          "title": "颤抖吧,全女百合游戏震撼登场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346237&amp;topic_name=%E9%A2%A4%E6%8A%96%E5%90%A7%2C%E5%85%A8%E5%A5%B3%E7%99%BE%E5%90%88%E6%B8%B8%E6%88%8F%E9%9C%87%E6%92%BC%E7%99%BB%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 18时16分]"
+        },
+        {
+          "title": "净网：查处虚构“女技术黑客”案",
+          "url": "https://www.baidu.com/s?wd=%E5%87%80%E7%BD%91%EF%BC%9A%E6%9F%A5%E5%A4%84%E8%99%9A%E6%9E%84%E2%80%9C%E5%A5%B3%E6%8A%80%E6%9C%AF%E9%BB%91%E5%AE%A2%E2%80%9D%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "假冒首席女黑客卖课被罚20万",
@@ -63,15 +99,48 @@
           "time_info": "12时33分"
         },
         {
-          "title": "台州一男子伙同二人驾车撞死母亲骗保，一审两名主犯被判死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31784609",
-          "source": "澎湃新闻",
+          "title": "3个女孩2个月将房子住“包浆”跑路",
+          "url": "https://www.baidu.com/s?wd=3%E4%B8%AA%E5%A5%B3%E5%AD%A92%E4%B8%AA%E6%9C%88%E5%B0%86%E6%88%BF%E5%AD%90%E4%BD%8F%E2%80%9C%E5%8C%85%E6%B5%86%E2%80%9D%E8%B7%91%E8%B7%AF",
+          "source": "百度热搜",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "18时16分"
+        },
+        {
+          "title": "瓜来!相亲局竟遇女方前男友抢人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346268&amp;topic_name=%E7%93%9C%E6%9D%A5%21%E7%9B%B8%E4%BA%B2%E5%B1%80%E7%AB%9F%E9%81%87%E5%A5%B3%E6%96%B9%E5%89%8D%E7%94%B7%E5%8F%8B%E6%8A%A2%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "西交压抑病娇男跟踪女生还求捞",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346286&amp;topic_name=%E8%A5%BF%E4%BA%A4%E5%8E%8B%E6%8A%91%E7%97%85%E5%A8%87%E7%94%B7%E8%B7%9F%E8%B8%AA%E5%A5%B3%E7%94%9F%E8%BF%98%E6%B1%82%E6%8D%9E",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "刘欢33岁女儿结婚",
+          "url": "https://www.toutiao.com/trending/7565459986294390803/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "男孩考10分被爸爸扔椅子砸破头，爸爸冲到医院后悔狂扇自己",
@@ -85,15 +154,26 @@
           "time_info": "12时33分"
         },
         {
-          "title": "颤抖吧,全女百合游戏震撼登场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346237&amp;topic_name=%E9%A2%A4%E6%8A%96%E5%90%A7%2C%E5%85%A8%E5%A5%B3%E7%99%BE%E5%90%88%E6%B8%B8%E6%88%8F%E9%9C%87%E6%92%BC%E7%99%BB%E5%9C%BA",
-          "source": "贴吧",
+          "title": "你如何看男子持续多年朝商店扔钱",
+          "url": "https://www.toutiao.com/trending/7565462065646190655/",
+          "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "18时16分"
+        },
+        {
+          "title": "17岁少女差点被男友诱骗赴缅甸干电诈",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2317%E5%B2%81%E5%B0%91%E5%A5%B3%E5%B7%AE%E7%82%B9%E8%A2%AB%E7%94%B7%E5%8F%8B%E8%AF%B1%E9%AA%97%E8%B5%B4%E7%BC%85%E7%94%B8%E5%B9%B2%E7%94%B5%E8%AF%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26lcate%3D5001%26c_type%3D31%26pos%3D15%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%252317%25E5%25B2%2581%25E5%25B0%2591%25E5%25A5%25B3%25E5%25B7%25AE%25E7%2582%25B9%25E8%25A2%25AB%25E7%2594%25B7%25E5%258F%258B%25E8%25AF%25B1%25E9%25AA%2597%25E8%25B5%25B4%25E7%25BC%2585%25E7%2594%25B8%25E5%25B9%25B2%25E7%2594%25B5%25E8%25AF%2588%2523%26band_rank%3D14%26filter_type%3Drealtimehot%26realpos%3D14%26display_time%3D1761560054%26pre_seqid%3D176156005418001942583137",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "澳门女大学生被骗800万港元",
@@ -129,6 +209,28 @@
           "time_info": "12时33分"
         },
         {
+          "title": "女子被家暴 等民警来后狂扇丈夫",
+          "url": "https://www.toutiao.com/trending/7565246737364500521/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "马克龙妻子档案性别被改成男性",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E5%A6%BB%E5%AD%90%E6%A1%A3%E6%A1%88%E6%80%A7%E5%88%AB%E8%A2%AB%E6%94%B9%E6%88%90%E7%94%B7%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "女子救猫险坠楼,民警阻止反挨骂",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346225&amp;topic_name=%E5%A5%B3%E5%AD%90%E6%95%91%E7%8C%AB%E9%99%A9%E5%9D%A0%E6%A5%BC%2C%E6%B0%91%E8%AD%A6%E9%98%BB%E6%AD%A2%E5%8F%8D%E6%8C%A8%E9%AA%82",
           "source": "贴吧",
@@ -138,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "印度女医生遭警察多次性侵绝望自杀",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%8C%BB%E7%94%9F%E9%81%AD%E8%AD%A6%E5%AF%9F%E5%A4%9A%E6%AC%A1%E6%80%A7%E4%BE%B5%E7%BB%9D%E6%9C%9B%E8%87%AA%E6%9D%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26lcate%3D5001%26c_type%3D31%26pos%3D22%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%258D%25B0%25E5%25BA%25A6%25E5%25A5%25B3%25E5%258C%25BB%25E7%2594%259F%25E9%2581%25AD%25E8%25AD%25A6%25E5%25AF%259F%25E5%25A4%259A%25E6%25AC%25A1%25E6%2580%25A7%25E4%25BE%25B5%25E7%25BB%259D%25E6%259C%259B%25E8%2587%25AA%25E6%259D%2580%2523%26band_rank%3D21%26filter_type%3Drealtimehot%26realpos%3D21%26display_time%3D1761560054%26pre_seqid%3D176156005418001942583137",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "韩男赴柬寻高薪,命丧黑窝泪满襟",
@@ -172,11 +285,12 @@
           "url": "https://tech.ifeng.com/c/8nmeSFQlg6Y",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 18时16分]"
         },
         {
           "title": "上证指数早盘收报3991.35点，涨1.04%。 深证成指早盘收报13457.28点，涨1.26%。 创业板指早盘收报3220.52点，涨1.54%。 沪深300早盘收报4709.92点，涨1.06%。 科创50早盘收报1473.87点，涨0.80%。 中证500早盘收报7360.02点，涨1.40%。 中证1000早盘收报7486.07点，涨0.90%。",
@@ -188,6 +302,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【证监会将启动实施深化创业板改革】中国证监会主席吴清10月27日在2025金融街论坛年会上表示，将启动实施深化创业板改革，设置更加契合新兴领域和未来产业创新创业企业特征的上市标准，为新产业、新业态、新技术企业提供更加精准、包容的金融服务。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/2994195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
@@ -205,6 +336,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广东人生娃积极性第一名",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%94%9F%E5%A8%83%E7%A7%AF%E6%9E%81%E6%80%A7%E7%AC%AC%E4%B8%80%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "擦边",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "擦边cos玩过火,嫦娥仙子遭亵渎",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346258&amp;topic_name=%E6%93%A6%E8%BE%B9cos%E7%8E%A9%E8%BF%87%E7%81%AB%2C%E5%AB%A6%E5%A8%A5%E4%BB%99%E5%AD%90%E9%81%AD%E4%BA%B5%E6%B8%8E",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     }
