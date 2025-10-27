@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T18:16:58.683512+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2025-10-27T22:38:32.120042+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年 男 女",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "男子囤积 500 万枚 5 美分硬币对冲通胀，如何评价该男子的行为？",
@@ -30,28 +30,30 @@
           "time_info": "12时33分"
         },
         {
-          "title": "玩脱了!男大看A片寻刺激丧命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346233&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%21%E7%94%B7%E5%A4%A7%E7%9C%8BA%E7%89%87%E5%AF%BB%E5%88%BA%E6%BF%80%E4%B8%A7%E5%91%BD",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 18时16分]"
-        },
-        {
           "title": "台州一男子伙同二人驾车撞死母亲骗保，一审两名主犯被判死刑",
           "url": "https://m.thepaper.cn/newsDetail_forward_31784609",
           "source": "澎湃新闻",
           "ranks": [
             10,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 22时38分]"
+        },
+        {
+          "title": "玩脱了!男大看A片寻刺激丧命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346233&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%21%E7%94%B7%E5%A4%A7%E7%9C%8BA%E7%89%87%E5%AF%BB%E5%88%BA%E6%BF%80%E4%B8%A7%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 22时38分]"
         },
         {
           "title": "颤抖吧,全女百合游戏震撼登场",
@@ -59,11 +61,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 22时38分]"
         },
         {
           "title": "净网：查处虚构“女技术黑客”案",
@@ -72,20 +75,102 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时38分]"
         },
         {
           "title": "假冒首席女黑客卖课被罚20万",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%86%92%E9%A6%96%E5%B8%AD%E5%A5%B3%E9%BB%91%E5%AE%A2%E5%8D%96%E8%AF%BE%E8%A2%AB%E7%BD%9A20%E4%B8%87",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 22时38分]"
+        },
+        {
+          "title": "瓜来!相亲局竟遇女方前男友抢人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346268&amp;topic_name=%E7%93%9C%E6%9D%A5%21%E7%9B%B8%E4%BA%B2%E5%B1%80%E7%AB%9F%E9%81%87%E5%A5%B3%E6%96%B9%E5%89%8D%E7%94%B7%E5%8F%8B%E6%8A%A2%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时38分]"
+        },
+        {
+          "title": "西交压抑病娇男跟踪女生还求捞",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346286&amp;topic_name=%E8%A5%BF%E4%BA%A4%E5%8E%8B%E6%8A%91%E7%97%85%E5%A8%87%E7%94%B7%E8%B7%9F%E8%B8%AA%E5%A5%B3%E7%94%9F%E8%BF%98%E6%B1%82%E6%8D%9E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时38分]"
+        },
+        {
+          "title": "刘欢33岁女儿结婚",
+          "url": "https://www.toutiao.com/trending/7565459986294390803/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时38分]"
+        },
+        {
+          "title": "马克龙妻子档案性别被改成男性",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E5%A6%BB%E5%AD%90%E6%A1%A3%E6%A1%88%E6%80%A7%E5%88%AB%E8%A2%AB%E6%94%B9%E6%88%90%E7%94%B7%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时38分]"
+        },
+        {
+          "title": "你如何看男子持续多年朝商店扔钱",
+          "url": "https://www.toutiao.com/trending/7565462065646190655/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时38分]"
+        },
+        {
+          "title": "民俗恐怖游戏女吊Demo上线",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B0%91%E4%BF%97%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F%E5%A5%B3%E5%90%8ADemo%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "22时38分"
+        },
+        {
+          "title": "女子称误蹦蛇窝还遇2条蛇",
+          "url": "https://www.toutiao.com/trending/7565744939993448467/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "按摩店初中文凭小伙娶美国女博士",
@@ -105,42 +190,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
         {
-          "title": "瓜来!相亲局竟遇女方前男友抢人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346268&amp;topic_name=%E7%93%9C%E6%9D%A5%21%E7%9B%B8%E4%BA%B2%E5%B1%80%E7%AB%9F%E9%81%87%E5%A5%B3%E6%96%B9%E5%89%8D%E7%94%B7%E5%8F%8B%E6%8A%A2%E4%BA%BA",
-          "source": "贴吧",
+          "title": "春秋航空面向已婚已育女性开放客舱乘务员岗位，年龄放宽至四十岁，如何看待此举措？会有更多航司跟进吗？",
+          "url": "https://www.zhihu.com/question/1966151761791280555",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "22时38分"
         },
         {
-          "title": "西交压抑病娇男跟踪女生还求捞",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346286&amp;topic_name=%E8%A5%BF%E4%BA%A4%E5%8E%8B%E6%8A%91%E7%97%85%E5%A8%87%E7%94%B7%E8%B7%9F%E8%B8%AA%E5%A5%B3%E7%94%9F%E8%BF%98%E6%B1%82%E6%8D%9E",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "刘欢33岁女儿结婚",
-          "url": "https://www.toutiao.com/trending/7565459986294390803/",
-          "source": "今日头条",
+          "title": "喜人鬼畜 但是家有儿女",
+          "url": "https://search.bilibili.com/all?keyword=%E5%96%9C%E4%BA%BA%E9%AC%BC%E7%95%9C%20%E4%BD%86%E6%98%AF%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3",
+          "source": "bilibili 热搜",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "22时38分"
         },
         {
           "title": "男孩考10分被爸爸扔椅子砸破头，爸爸冲到医院后悔狂扇自己",
@@ -154,15 +228,15 @@
           "time_info": "12时33分"
         },
         {
-          "title": "你如何看男子持续多年朝商店扔钱",
-          "url": "https://www.toutiao.com/trending/7565462065646190655/",
-          "source": "今日头条",
+          "title": "女子徒步误将蛇窝当野生蹦床",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E8%AF%AF%E5%B0%86%E8%9B%87%E7%AA%9D%E5%BD%93%E9%87%8E%E7%94%9F%E8%B9%A6%E5%BA%8A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%2590%25E5%25BE%2592%25E6%25AD%25A5%25E8%25AF%25AF%25E5%25B0%2586%25E8%259B%2587%25E7%25AA%259D%25E5%25BD%2593%25E9%2587%258E%25E7%2594%259F%25E8%25B9%25A6%25E5%25BA%258A%2523%26band_rank%3D12%26pos%3D12%26cate%3D5001%26flag%3D2%26realpos%3D12%26dgr%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1761574213%26pre_seqid%3D176157421343801240723118",
+          "source": "微博",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "22时38分"
         },
         {
           "title": "17岁少女差点被男友诱骗赴缅甸干电诈",
@@ -171,7 +245,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -185,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "台州男子弑母骗保案细节：44岁母亲被撞死，父亲也被撞过一次",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31843385",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "男子持续两三年朝商店扔钱拒绝拿回",
@@ -209,24 +294,24 @@
           "time_info": "12时33分"
         },
         {
+          "title": "为了不被裁员硅谷科技男扎堆做医美",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%A2%AB%E8%A3%81%E5%91%98%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E7%94%B7%E6%89%8E%E5%A0%86%E5%81%9A%E5%8C%BB%E7%BE%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25B8%25BA%25E4%25BA%2586%25E4%25B8%258D%25E8%25A2%25AB%25E8%25A3%2581%25E5%2591%2598%25E7%25A1%2585%25E8%25B0%25B7%25E7%25A7%2591%25E6%258A%2580%25E7%2594%25B7%25E6%2589%258E%25E5%25A0%2586%25E5%2581%259A%25E5%258C%25BB%25E7%25BE%258E%2523%26band_rank%3D19%26pos%3D19%26cate%3D5001%26flag%3D1%26realpos%3D19%26dgr%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1761574213%26pre_seqid%3D176157421343801240723118",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "女子被家暴 等民警来后狂扇丈夫",
           "url": "https://www.toutiao.com/trending/7565246737364500521/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "马克龙妻子档案性别被改成男性",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E5%A6%BB%E5%AD%90%E6%A1%A3%E6%A1%88%E6%80%A7%E5%88%AB%E8%A2%AB%E6%94%B9%E6%88%90%E7%94%B7%E6%80%A7",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -248,7 +333,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -273,12 +358,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "内娱男艺人都防着黄景瑜",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%86%85%E5%A8%B1%E7%94%B7%E8%89%BA%E4%BA%BA%E9%83%BD%E9%98%B2%E7%9D%80%E9%BB%84%E6%99%AF%E7%91%9C&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E5%2586%2585%25E5%25A8%25B1%25E7%2594%25B7%25E8%2589%25BA%25E4%25BA%25BA%25E9%2583%25BD%25E9%2598%25B2%25E7%259D%2580%25E9%25BB%2584%25E6%2599%25AF%25E7%2591%259C%26band_rank%3D26%26pos%3D26%26cate%3D5001%26flag%3D1%26realpos%3D26%26dgr%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1761574213%26pre_seqid%3D176157421343801240723118",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "潘功胜、吴清等发言重点来了！事关央行国债买卖、创业板改革......",
+          "url": "https://www.cls.cn/detail/2182260",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "吴清：证监会将启动实施深化创业板改革",
+          "url": "https://www.cls.cn/detail/2182124",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "吴清：证监会将深化创业板改革、着力发挥中长期资金“压舱石”和“稳定器”作用",
+          "url": "https://wallstreetcn.com/articles/3757977",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "【数据看盘】多只创业板ETF上周份额大减 机构激烈博弈存储芯片概念股",
+          "url": "https://www.cls.cn/detail/2182099",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "芝加哥联储估算 美国失业率基本保持稳定",
+          "url": "https://flash.jin10.com/detail/20251027215837222800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "航新科技：控股股东广州恒贸创业投资合伙企业（有限合伙）正在筹划公司控制权变更相关事宜，该事项可能导致公司控股股东、实际控制人发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/2994391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "【证监会将启动实施深化创业板改革】中国证监会主席吴清10月27日在2025金融街论坛年会上表示，将启动实施深化创业板改革，设置更加契合新兴领域和未来产业创新创业企业特征的上市标准，为新产业、新业态、新技术企业提供更加精准、包容的金融服务。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/2994195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿里巴巴前董事会主席张勇，5354万港元买下香港半山豪宅",
@@ -291,6 +470,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 18时16分]"
+        },
+        {
+          "title": "纳斯达克综合指数日内涨幅达1.5%，报23556.99点。",
+          "url": "https://wallstreetcn.com/livenews/2994409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "标普500指数高开53.77点，涨幅0.79%，报6845.46点； 道琼斯工业平均指数高开205.68点，涨幅0.44%，报47412.80点； 纳斯达克综合指数高开332.45点，涨幅1.43%，报23537.32点。",
+          "url": "https://wallstreetcn.com/livenews/2994396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "上证指数早盘收报3991.35点，涨1.04%。 深证成指早盘收报13457.28点，涨1.26%。 创业板指早盘收报3220.52点，涨1.54%。 沪深300早盘收报4709.92点，涨1.06%。 科创50早盘收报1473.87点，涨0.80%。 中证500早盘收报7360.02点，涨1.40%。 中证1000早盘收报7486.07点，涨0.90%。",
@@ -306,19 +507,30 @@
       ]
     },
     {
-      "keyword_group": "失业 创业",
-      "match_count": 1,
+      "keyword_group": "Apple iPhone",
+      "match_count": 2,
       "titles": [
         {
-          "title": "【证监会将启动实施深化创业板改革】中国证监会主席吴清10月27日在2025金融街论坛年会上表示，将启动实施深化创业板改革，设置更加契合新兴领域和未来产业创新创业企业特征的上市标准，为新产业、新业态、新技术企业提供更加精准、包容的金融服务。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/2994195",
-          "source": "华尔街见闻-快讯",
+          "title": "iPhone 18发布或推迟",
+          "url": "https://www.douyin.com/hot/2284876",
+          "source": "抖音",
           "ranks": [
-            20
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "22时38分"
+        },
+        {
+          "title": "明年或将出最便宜iPhone",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E6%88%96%E5%B0%86%E5%87%BA%E6%9C%80%E4%BE%BF%E5%AE%9CiPhone",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     },
@@ -348,11 +560,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%94%9F%E5%A8%83%E7%A7%AF%E6%9E%81%E6%80%A7%E7%AC%AC%E4%B8%80%E5%90%8D",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时38分]"
         }
       ]
     },
@@ -367,9 +580,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时38分]"
         }
       ]
     }
