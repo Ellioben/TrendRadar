@@ -1,451 +1,44 @@
 {
-  "generated_at": "2025-10-28T22:23:42.467594+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2025-10-29T12:30:29.247156+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中年 男 女",
-      "match_count": 32,
+      "keyword_group": "35",
+      "match_count": 3,
       "titles": [
         {
-          "title": "女子进山徒步误将一处区域当「野生蹦床」蹦跳，网友提醒是蛇窝，这有多危险？野外怎么分辨蛇窝？",
-          "url": "https://www.zhihu.com/question/1966234472186868038",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 22时23分]"
-        },
-        {
-          "title": "大力女一拳打瘫男同学,玩笑变悲剧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346315&amp;topic_name=%E5%A4%A7%E5%8A%9B%E5%A5%B3%E4%B8%80%E6%8B%B3%E6%89%93%E7%98%AB%E7%94%B7%E5%90%8C%E5%AD%A6%2C%E7%8E%A9%E7%AC%91%E5%8F%98%E6%82%B2%E5%89%A7",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 22时23分]"
-        },
-        {
-          "title": "女子接触发霉玉米后肺部全白",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8E%A5%E8%A7%A6%E5%8F%91%E9%9C%89%E7%8E%89%E7%B1%B3%E5%90%8E%E8%82%BA%E9%83%A8%E5%85%A8%E7%99%BD",
+          "title": "拒绝35岁中年人的青旅 00后也不住了",
+          "url": "https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D35%E5%B2%81%E4%B8%AD%E5%B9%B4%E4%BA%BA%E7%9A%84%E9%9D%92%E6%97%85+00%E5%90%8E%E4%B9%9F%E4%B8%8D%E4%BD%8F%E4%BA%86",
           "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "官方通报男子在酸菜池吐痰：产品未流入市场，涉事企业接受调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31844661",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 22时23分]"
-        },
-        {
-          "title": "男子直播挖蛇被咬 没打血清失联至今",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E6%8C%96%E8%9B%87%E8%A2%AB%E5%92%AC+%E6%B2%A1%E6%89%93%E8%A1%80%E6%B8%85%E5%A4%B1%E8%81%94%E8%87%B3%E4%BB%8A",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 22时23分]"
-        },
-        {
-          "title": "吧友出手揪水军,数据女工秒滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346344&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%87%BA%E6%89%8B%E6%8F%AA%E6%B0%B4%E5%86%9B%2C%E6%95%B0%E6%8D%AE%E5%A5%B3%E5%B7%A5%E7%A7%92%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 22时23分]"
-        },
-        {
-          "title": "被蛇咬失联男子友人：他嫌贵没打血清",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E8%9B%87%E5%92%AC%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E5%8F%8B%E4%BA%BA%EF%BC%9A%E4%BB%96%E5%AB%8C%E8%B4%B5%E6%B2%A1%E6%89%93%E8%A1%80%E6%B8%85",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 22时23分]"
-        },
-        {
-          "title": "台州男子弑母骗保案细节：44岁母亲被撞死，父亲也被撞过一次",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31843385",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 18时15分]"
-        },
-        {
-          "title": "瓜来!相亲局竟遇女方前男友抢人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346268&amp;topic_name=%E7%93%9C%E6%9D%A5%21%E7%9B%B8%E4%BA%B2%E5%B1%80%E7%AB%9F%E9%81%87%E5%A5%B3%E6%96%B9%E5%89%8D%E7%94%B7%E5%8F%8B%E6%8A%A2%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 18时15分]"
-        },
-        {
-          "title": "女狱警与囚犯发生关系还有囚犯放风",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E7%8B%B1%E8%AD%A6%E4%B8%8E%E5%9B%9A%E7%8A%AF%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E8%BF%98%E6%9C%89%E5%9B%9A%E7%8A%AF%E6%94%BE%E9%A3%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25A5%25B3%25E7%258B%25B1%25E8%25AD%25A6%25E4%25B8%258E%25E5%259B%259A%25E7%258A%25AF%25E5%258F%2591%25E7%2594%259F%25E5%2585%25B3%25E7%25B3%25BB%25E8%25BF%2598%25E6%259C%2589%25E5%259B%259A%25E7%258A%25AF%25E6%2594%25BE%25E9%25A3%258E%2523%26dgr%3D0%26cate%3D5001%26realpos%3D21%26pos%3D22%26stream_entry_id%3D31%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D21%26c_type%3D31%26lcate%3D5001%26display_time%3D1761646419%26pre_seqid%3D1761646419503091328143",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 22时23分]"
-        },
-        {
-          "title": "新闻女王2",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26band_rank%3D7%26cate%3D5001%26q%3D%2523%25E6%2596%25B0%25E9%2597%25BB%25E5%25A5%25B3%25E7%258E%258B2%2523%26pos%3D7%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1761624603%26pre_seqid%3D17616246033700122575252",
-          "source": "微博",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "12时30分"
         },
         {
-          "title": "男生没认出订婚当天打扮漂亮的女友",
-          "url": "https://www.toutiao.com/trending/7565787005679157291/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "女生用尽全力救回欲跳河小朋友",
-          "url": "https://www.toutiao.com/trending/7566078935512563775/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "女明星ELLE出图",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E6%98%8E%E6%98%9FELLE%E5%87%BA%E5%9B%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25A5%25B3%25E6%2598%258E%25E6%2598%259FELLE%25E5%2587%25BA%25E5%259B%25BE%2523%26dgr%3D0%26cate%3D5001%26realpos%3D10%26pos%3D11%26stream_entry_id%3D31%26flag%3D0%26filter_type%3Drealtimehot%26band_rank%3D10%26c_type%3D31%26lcate%3D5001%26display_time%3D1761646419%26pre_seqid%3D1761646419503091328143",
-          "source": "微博",
+          "title": "上证指数早盘收报4002.83点，涨0.37%。 深证成指早盘收报13550.65点，涨0.90%。 创业板指早盘收报3273.28点，涨1.35%。 沪深300早盘收报4714.54点，涨0.48%。 科创50早盘收报1468.64点，跌0.21%。 中证500早盘收报7425.69点，涨1.15%。 中证1000早盘收报7513.86点，涨0.46%。",
+          "url": "https://wallstreetcn.com/livenews/2995576",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时30分"
         },
         {
-          "title": "你如何看男子持续多年朝商店扔钱",
-          "url": "https://www.toutiao.com/trending/7565462065646190655/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "辽宁葫芦岛一男子酸菜池中抽烟吐痰，省市两级市监局介入调查，涉事人员将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/1966221267502850609",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "14岁男生被女同学击中左胸后瘫痪",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2314%E5%B2%81%E7%94%B7%E7%94%9F%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D14%26filter_type%3Drealtimehot%26flag%3D2%26c_type%3D31%26band_rank%3D14%26cate%3D5001%26q%3D%252314%25E5%25B2%2581%25E7%2594%25B7%25E7%2594%259F%25E8%25A2%25AB%25E5%25A5%25B3%25E5%2590%258C%25E5%25AD%25A6%25E5%2587%25BB%25E4%25B8%25AD%25E5%25B7%25A6%25E8%2583%25B8%25E5%2590%258E%25E7%2598%25AB%25E7%2597%25AA%2523%26pos%3D14%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1761624603%26pre_seqid%3D17616246033700122575252",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "喜人鬼畜 但是家有儿女",
-          "url": "https://search.bilibili.com/all?keyword=%E5%96%9C%E4%BA%BA%E9%AC%BC%E7%95%9C%20%E4%BD%86%E6%98%AF%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "男子强奸嫂子再杀人案启动再审",
-          "url": "https://www.douyin.com/hot/2286048",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "男子盗窃后留字条“钱会还别报警”",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E5%90%8E%E7%95%99%E5%AD%97%E6%9D%A1%E2%80%9C%E9%92%B1%E4%BC%9A%E8%BF%98%E5%88%AB%E6%8A%A5%E8%AD%A6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "民俗恐怖游戏女吊Demo上线",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B0%91%E4%BF%97%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F%E5%A5%B3%E5%90%8ADemo%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "男子盗窃后留字条：钱会还别报警",
-          "url": "https://www.toutiao.com/trending/7566053671386906630/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "女老师晒工作四个月的变化",
-          "url": "https://www.toutiao.com/trending/7565421504775667754/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "西交压抑病娇男跟踪女生还求捞",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346286&amp;topic_name=%E8%A5%BF%E4%BA%A4%E5%8E%8B%E6%8A%91%E7%97%85%E5%A8%87%E7%94%B7%E8%B7%9F%E8%B8%AA%E5%A5%B3%E7%94%9F%E8%BF%98%E6%B1%82%E6%8D%9E",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "女子徒步误将蛇窝当野生蹦床",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E8%AF%AF%E5%B0%86%E8%9B%87%E7%AA%9D%E5%BD%93%E9%87%8E%E7%94%9F%E8%B9%A6%E5%BA%8A",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "白鹿跑男新疆要染限定发色",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%99%BD%E9%B9%BF%E8%B7%91%E7%94%B7%E6%96%B0%E7%96%86%E8%A6%81%E6%9F%93%E9%99%90%E5%AE%9A%E5%8F%91%E8%89%B2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D27%26q%3D%2523%25E7%2599%25BD%25E9%25B9%25BF%25E8%25B7%2591%25E7%2594%25B7%25E6%2596%25B0%25E7%2596%2586%25E8%25A6%2581%25E6%259F%2593%25E9%2599%2590%25E5%25AE%259A%25E5%258F%2591%25E8%2589%25B2%2523%26flag%3D1%26dgr%3D0%26pos%3D28%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26band_rank%3D27%26cate%3D5001%26display_time%3D1761661205%26pre_seqid%3D176166120563903459272154",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "女子花283万买翡翠原石 到货后傻眼",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1283%E4%B8%87%E4%B9%B0%E7%BF%A1%E7%BF%A0%E5%8E%9F%E7%9F%B3+%E5%88%B0%E8%B4%A7%E5%90%8E%E5%82%BB%E7%9C%BC",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "男子强奸嫂子再杀人案启动再审",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%BC%BA%E5%A5%B8%E5%AB%82%E5%AD%90%E5%86%8D%E6%9D%80%E4%BA%BA%E6%A1%88%E5%90%AF%E5%8A%A8%E5%86%8D%E5%AE%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%25BC%25BA%25E5%25A5%25B8%25E5%25AB%2582%25E5%25AD%2590%25E5%2586%258D%25E6%259D%2580%25E4%25BA%25BA%25E6%25A1%2588%25E5%2590%25AF%25E5%258A%25A8%25E5%2586%258D%25E5%25AE%25A1%2523%26dgr%3D0%26cate%3D5001%26realpos%3D28%26pos%3D29%26stream_entry_id%3D31%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D28%26c_type%3D31%26lcate%3D5001%26display_time%3D1761646419%26pre_seqid%3D1761646419503091328143",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "男子奔走近60万公里寻子30年终将团聚",
-          "url": "https://www.toutiao.com/trending/7566105761920024639/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "23岁美国女孩寻找中国亲生父母",
-          "url": "https://www.baidu.com/s?wd=23%E5%B2%81%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E5%AF%BB%E6%89%BE%E4%B8%AD%E5%9B%BD%E4%BA%B2%E7%94%9F%E7%88%B6%E6%AF%8D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "玩脱了!男大看A片寻刺激丧命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346233&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%21%E7%94%B7%E5%A4%A7%E7%9C%8BA%E7%89%87%E5%AF%BB%E5%88%BA%E6%BF%80%E4%B8%A7%E5%91%BD",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "关晓彤海边神女大片",
-          "url": "https://www.douyin.com/hot/2285930",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4005.44点，涨0.21%。 深证成指早盘收报13559.57点，涨0.52%。 创业板指早盘收报3277.97点，涨1.35%。 沪深300早盘收报4726.19点，涨0.22%。 科创50早盘收报1492.56点，涨0.56%。 中证500早盘收报7396.55点，涨0.23%。 中证1000早盘收报7524.73点，涨0.39%。",
-          "url": "https://wallstreetcn.com/livenews/2994742",
+          "title": "10月29日午间收评：创业板指半日涨1.35%，海南自贸区、券商股集体走强",
+          "url": "https://wallstreetcn.com/livenews/2995575",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "女子在单位值夜班离奇失踪35年",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%8D%95%E4%BD%8D%E5%80%BC%E5%A4%9C%E7%8F%AD%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA35%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "标普500指数高开22.58点，涨幅0.33%，报6897.74点； 道琼斯工业平均指数高开207.76点，涨幅0.44%，报47752.35点； 纳斯达克综合指数高开129.01点，涨幅0.55%，报23766.46点。",
-          "url": "https://wallstreetcn.com/livenews/2995180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "波罗的海干散货指数下跌1.35%，报1950点。",
-          "url": "https://wallstreetcn.com/livenews/2995173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "吴清：证监会将深化创业板改革、着力发挥中长期资金“压舱石”和“稳定器”作用",
-          "url": "https://wallstreetcn.com/articles/3757977",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "创业板指涨超1%，盘初一度跌近1%，沪指涨0.13%，深成指涨0.38%，福建自贸区、核聚变、量子科技、军工等方向涨幅居前，沪深京三市上涨个股近2900只。",
-          "url": "https://wallstreetcn.com/livenews/2994729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "12时30分"
         }
       ]
     },
@@ -454,26 +47,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "德国经济部长：美国在一封信中承认，俄罗斯石油公司在德国的业务与俄罗斯母公司完全独立。",
-          "url": "https://flash.jin10.com/detail/20251028180414895800",
+          "title": "新西兰联储主席霍克斯比：联储拥有并被视为拥有完全的运营独立性至关重要。",
+          "url": "https://flash.jin10.com/detail/20251029121121789800",
           "source": "金十数据",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时30分"
         },
         {
-          "title": "欧盟委员会主席冯德莱恩：安全关乎加强我们的国防能力，而且不仅如此，这也与建立我们的能源独立有关。",
-          "url": "https://flash.jin10.com/detail/20251028175315640800",
+          "title": "新西兰联储主席霍克斯比：无需远眺，便可见世界各地中央银行的独立性正遭受攻击。",
+          "url": "https://flash.jin10.com/detail/20251029120906974800",
           "source": "金十数据",
           "ranks": [
-            16
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "试图颠覆半导体产业链的高中毕业生 完成1亿美元创业融资",
+          "url": "https://www.cls.cn/detail/2184011",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         }
       ]
     },
@@ -482,34 +92,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "外交部：台当局“挟洋谋独”注定失败",
-          "url": "https://www.toutiao.com/trending/7565090130868961289/",
-          "source": "今日头条",
+          "title": "你认为最失败的标志（Logo）设计有哪些？",
+          "url": "https://www.zhihu.com/question/20454540",
+          "source": "知乎",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时30分"
         }
       ]
     },
     {
-      "keyword_group": "擦边",
+      "keyword_group": "生娃 丁克 恋爱 单身",
       "match_count": 1,
       "titles": [
         {
-          "title": "擦边cos玩过火,嫦娥仙子遭亵渎",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346258&amp;topic_name=%E6%93%A6%E8%BE%B9cos%E7%8E%A9%E8%BF%87%E7%81%AB%2C%E5%AB%A6%E5%A8%A5%E4%BB%99%E5%AD%90%E9%81%AD%E4%BA%B5%E6%B8%8E",
-          "source": "贴吧",
+          "title": "男子恋爱5年从130斤胖到260斤",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%81%8B%E7%88%B15%E5%B9%B4%E4%BB%8E130%E6%96%A4%E8%83%96%E5%88%B0260%E6%96%A4",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            24,
-            29
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 22时23分]"
+          "appearance_count": 1,
+          "time_info": "12时30分"
         }
       ]
     }
