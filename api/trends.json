@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T18:14:56.964722+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2025-10-31T22:23:02.301079+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "一个小县城普通家庭的35年",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时28分 ~ 18时14分]"
+        },
+        {
+          "title": "35 岁后，游戏人都去哪了？",
+          "url": "https://www.zhihu.com/question/1965065815230510027",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "上证指数早盘收报3961.62点，跌0.63%。 深证成指早盘收报13447.94点，跌0.62%。 创业板指早盘收报3214.48点，跌1.49%。 沪深300早盘收报4661.77点，跌1.02%。 科创50早盘收报1424.60点，跌2.51%。 中证500早盘收报7353.08点，跌0.44%。 中证1000早盘收报7521.87点，涨0.49%。",
@@ -37,7 +48,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
@@ -45,8 +56,19 @@
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "彩礼填坑?鼠鼠订婚遇小舅子巨额外债",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346588&amp;topic_name=%E5%BD%A9%E7%A4%BC%E5%A1%AB%E5%9D%91%3F%E9%BC%A0%E9%BC%A0%E8%AE%A2%E5%A9%9A%E9%81%87%E5%B0%8F%E8%88%85%E5%AD%90%E5%B7%A8%E9%A2%9D%E5%A4%96%E5%80%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
         {
           "title": "最高20万 多地发钱奖励结婚",
           "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%9820%E4%B8%87+%E5%A4%9A%E5%9C%B0%E5%8F%91%E9%92%B1%E5%A5%96%E5%8A%B1%E7%BB%93%E5%A9%9A",
@@ -76,16 +98,79 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
       ]
     },
     {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
+      "keyword_group": "Apple iPhone",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3758368",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 22时23分]"
+        },
+        {
+          "title": "网友称iPhone半夜自动拨号给陌生人",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0iPhone%E5%8D%8A%E5%A4%9C%E8%87%AA%E5%8A%A8%E6%8B%A8%E5%8F%B7%E7%BB%99%E9%99%8C%E7%94%9F%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "苹果第四财季业绩超预期 库克预告iPhone 17“爆表”热卖",
+          "url": "https://www.cls.cn/detail/2187057",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
+        },
+        {
+          "title": "必会的iPhone截图技巧",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BF%85%E4%BC%9A%E7%9A%84iPhone%E6%88%AA%E5%9B%BE%E6%8A%80%E5%B7%A7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D26%26pos%3D27%26dgr%3D0%26realpos%3D26%26filter_type%3Drealtimehot%26flag%3D1%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26q%3D%25E5%25BF%2585%25E4%25BC%259A%25E7%259A%2584iPhone%25E6%2588%25AA%25E5%259B%25BE%25E6%258A%2580%25E5%25B7%25A7%26stream_entry_id%3D31%26display_time%3D1761919374%26pre_seqid%3D176191937486203434537118&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "创业板跌超2%，光模块龙头“易中天”大跌，创新药反弹，恒科指跌超2%，华虹跌超7%",
+          "url": "https://wallstreetcn.com/articles/3758393",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
         {
           "title": "创业板跌超2%，光模块龙头“易中天”大跌，创新药逆势反弹，恒科指跌超2%，国债反弹，商品普跌",
           "url": "https://wallstreetcn.com/articles/3758393",
@@ -93,7 +178,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -107,35 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758368",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 18时14分]"
-        },
-        {
-          "title": "苹果第四财季业绩超预期 库克预告iPhone 17“爆表”热卖",
-          "url": "https://www.cls.cn/detail/2187057",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
         }
       ]
     },
