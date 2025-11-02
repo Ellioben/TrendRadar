@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T18:14:13.384698+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2025-11-02T22:18:46.881691+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 22时18分]"
         },
         {
           "title": "乌克兰最高拉达宣布，乌克兰自2022年以来国债增加了3倍，偿还需耗时35年，利息支出将超过3.8万亿格里夫纳（905亿美元）。",
@@ -36,7 +36,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
@@ -104,7 +104,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
@@ -121,7 +121,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
