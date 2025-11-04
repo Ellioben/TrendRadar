@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T12:28:50.574628+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-04T18:15:57.338209+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "上海一夜店可现场登记结婚",
@@ -69,6 +69,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "上海一夜店可现场登记结婚",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%A4%9C%E5%BA%97%E5%8F%AF%E7%8E%B0%E5%9C%BA%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "上海黄浦结婚登记再“出招”：夜间颁证，还是在年轻人浓度非常高的地方",
           "url": "https://m.thepaper.cn/newsDetail_forward_31883000",
           "source": "澎湃新闻",
@@ -78,6 +89,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "民政局回应夜店登记结婚争议",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A4%9C%E5%BA%97%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%E4%BA%89%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D28%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D28%26q%3D%2523%25E6%25B0%2591%25E6%2594%25BF%25E5%25B1%2580%25E5%259B%259E%25E5%25BA%2594%25E5%25A4%259C%25E5%25BA%2597%25E7%2599%25BB%25E8%25AE%25B0%25E7%25BB%2593%25E5%25A9%259A%25E4%25BA%2589%25E8%25AE%25AE%2523%26cate%3D5001%26dgr%3D0%26flag%3D1%26realpos%3D28%26display_time%3D1762250669%26pre_seqid%3D176225066907703424959143&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美政府停摆35天追平历史纪录",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8635%E5%A4%A9%E8%BF%BD%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "英国律师告别350年假发传统？从一场持续百年的拉锯战说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31879862",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欠债 失败",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩流西拓失败了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%B5%81%E8%A5%BF%E6%8B%93%E5%A4%B1%E8%B4%A5%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "天地剑心反恋爱脑",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E5%8F%8D%E6%81%8B%E7%88%B1%E8%84%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "WINDOWS",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国产 CPU 目前有没有能运行 Windows 系统的？",
+          "url": "https://www.zhihu.com/question/657531239",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
