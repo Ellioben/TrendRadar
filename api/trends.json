@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-05T18:15:44.565710+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2025-11-05T22:23:00.888610+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
+          "url": "https://www.cls.cn/detail/2191989",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
         {
           "title": "上证指数早盘收报3962.04点，涨0.05%。 深证成指早盘收报13155.62点，跌0.15%。 创业板指早盘收报3139.53点，涨0.17%。 沪深300早盘收报4615.33点，跌0.07%。 科创50早盘收报1379.94点，跌0.53%。 中证500早盘收报7205.24点，跌0.08%。 中证1000早盘收报7440.96点，涨0.07%。",
           "url": "https://wallstreetcn.com/livenews/2999598",
@@ -43,9 +54,59 @@
       ]
     },
     {
+      "keyword_group": "35",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机构：预计2035年全球固态电池需求量将达到740GWh",
+          "url": "https://wallstreetcn.com/livenews/2999838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "香港、台湾冻结“太子集团”资产，总值超35亿元",
+          "url": "https://news.ifeng.com/c/8o2FADVstGN",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "英国10月官方储备变动 13.35亿美元，前值46.18亿美元。",
+          "url": "https://flash.jin10.com/detail/20251105173107644800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "欠债 失败",
       "match_count": 3,
       "titles": [
+        {
+          "title": "拨款法案再次“闯关”失败，美政府即将刷新“停摆”纪录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31896186",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 22时23分]"
+        },
         {
           "title": "林北退赛失败又返祖了",
           "url": "https://www.douyin.com/hot/2294555",
@@ -67,17 +128,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "拨款法案再次“闯关”失败，美政府即将刷新“停摆”纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31896186",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         }
       ]
     },
@@ -115,35 +165,46 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
       ]
     },
     {
-      "keyword_group": "35",
-      "match_count": 2,
+      "keyword_group": "Apple iPhone",
+      "match_count": 3,
       "titles": [
         {
-          "title": "机构：预计2035年全球固态电池需求量将达到740GWh",
-          "url": "https://wallstreetcn.com/livenews/2999838",
-          "source": "华尔街见闻-快讯",
+          "title": "iPhone17会成为新的钉子户神机吗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone17%E4%BC%9A%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E9%92%89%E5%AD%90%E6%88%B7%E7%A5%9E%E6%9C%BA%E5%90%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26band_rank%3D6%26stream_entry_id%3D31%26realpos%3D6%26pos%3D5%26q%3DiPhone17%25E4%25BC%259A%25E6%2588%2590%25E4%25B8%25BA%25E6%2596%25B0%25E7%259A%2584%25E9%2592%2589%25E5%25AD%2590%25E6%2588%25B7%25E7%25A5%259E%25E6%259C%25BA%25E5%2590%2597%26dgr%3D0%26flag%3D0%26display_time%3D1762352352%26pre_seqid%3D1762352352009012922591&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            2
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
-          "title": "英国10月官方储备变动 13.35亿美元，前值46.18亿美元。",
-          "url": "https://flash.jin10.com/detail/20251105173107644800",
-          "source": "金十数据",
+          "title": "苹果回应iPhone面容解锁不用摄像头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone%E9%9D%A2%E5%AE%B9%E8%A7%A3%E9%94%81%E4%B8%8D%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26band_rank%3D9%26stream_entry_id%3D31%26realpos%3D9%26pos%3D9%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%259B%259E%25E5%25BA%2594iPhone%25E9%259D%25A2%25E5%25AE%25B9%25E8%25A7%25A3%25E9%2594%2581%25E4%25B8%258D%25E7%2594%25A8%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%2523%26dgr%3D0%26flag%3D0%26display_time%3D1762352352%26pre_seqid%3D1762352352009012922591&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            8
+            9
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "iPhone面容解锁不需要摄像头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E9%9D%A2%E5%AE%B9%E8%A7%A3%E9%94%81%E4%B8%8D%E9%9C%80%E8%A6%81%E6%91%84%E5%83%8F%E5%A4%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3DiPhone%25E9%259D%25A2%25E5%25AE%25B9%25E8%25A7%25A3%25E9%2594%2581%25E4%25B8%258D%25E9%259C%2580%25E8%25A6%2581%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%26stream_entry_id%3D31%26realpos%3D18%26cate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D0%26c_type%3D31%26lcate%3D5001%26pos%3D18%26band_rank%3D18%26display_time%3D1762337572%26pre_seqid%3D176233757234103414814115&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
@@ -158,11 +219,12 @@
           "url": "https://www.zhihu.com/question/1969057301433390390",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 22时23分]"
         }
       ]
     },
@@ -184,19 +246,19 @@
       ]
     },
     {
-      "keyword_group": "Apple iPhone",
+      "keyword_group": "独立",
       "match_count": 1,
       "titles": [
         {
-          "title": "iPhone面容解锁不需要摄像头",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E9%9D%A2%E5%AE%B9%E8%A7%A3%E9%94%81%E4%B8%8D%E9%9C%80%E8%A6%81%E6%91%84%E5%83%8F%E5%A4%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3DiPhone%25E9%259D%25A2%25E5%25AE%25B9%25E8%25A7%25A3%25E9%2594%2581%25E4%25B8%258D%25E9%259C%2580%25E8%25A6%2581%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%26stream_entry_id%3D31%26realpos%3D18%26cate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D0%26c_type%3D31%26lcate%3D5001%26pos%3D18%26band_rank%3D18%26display_time%3D1762337572%26pre_seqid%3D176233757234103414814115&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "A股走出独立上涨行情",
+          "url": "https://www.toutiao.com/trending/7569201319139872283/",
+          "source": "今日头条",
           "ranks": [
-            18
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         }
       ]
     }
