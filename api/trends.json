@@ -1,12 +1,45 @@
 {
-  "generated_at": "2025-11-06T12:29:23.157837+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2025-11-06T18:16:28.943345+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "国务院批复《成渝地区双城经济圈国土空间规划（2021—2035年）》",
+          "url": "https://wallstreetcn.com/livenews/3000469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "港交所文件显示，中国石油化工股份(00386.HK)于11月6日在其他交易所斥资1350万人民币回购了240万股A股。",
+          "url": "https://flash.jin10.com/detail/20251106171925923800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "贵州茅台王莉：茅台1935酒在9月、10月终端动销明显增长",
+          "url": "https://wallstreetcn.com/livenews/3000461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
         {
           "title": "进出口行发行15月期债券，规模100亿元，发行利率1.3811%，预期1.3500%，投标倍数3.05倍，边际倍数1.36倍。",
           "url": "https://wallstreetcn.com/livenews/3000281",
@@ -34,6 +67,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果喊话iPhone13和14用户换新机",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%2596%258A%25E8%25AF%259DiPhone13%25E5%2592%258C14%25E7%2594%25A8%25E6%2588%25B7%25E6%258D%25A2%25E6%2596%25B0%25E6%259C%25BA%2523%26band_rank%3D14%26flag%3D0%26cate%3D5001%26realpos%3D14%26c_type%3D31%26stream_entry_id%3D31%26pos%3D15%26lcate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762423620%26pre_seqid%3D176242362020309959115&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     }
