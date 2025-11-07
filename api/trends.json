@@ -1,51 +1,40 @@
 {
-  "generated_at": "2025-11-06T22:23:32.181018+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2025-11-07T12:29:19.369506+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "35",
-      "match_count": 4,
+      "keyword_group": "失业 创业",
+      "match_count": 3,
       "titles": [
         {
-          "title": "国务院批复《成渝地区双城经济圈国土空间规划（2021—2035年）》",
-          "url": "https://wallstreetcn.com/livenews/3000469",
-          "source": "华尔街见闻-快讯",
+          "title": "AH股强势收涨，沪指重返4000点，创业板涨1.8%，算力硬件产业链爆发，恒指涨超2%，机械、有色金属、半导体领涨",
+          "url": "https://wallstreetcn.com/articles/3758777",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "12时29分"
         },
         {
-          "title": "港交所文件显示，中国石油化工股份(00386.HK)于11月6日在其他交易所斥资1350万人民币回购了240万股A股。",
-          "url": "https://flash.jin10.com/detail/20251106171925923800",
-          "source": "金十数据",
+          "title": "上证指数早盘收报4001.24点，跌0.16%。 深证成指早盘收报13431.09点，跌0.16%。 创业板指早盘收报3212.70点，跌0.37%。 沪深300早盘收报4683.66点，跌0.21%。 科创50早盘收报1426.03点，跌0.75%。 中证500早盘收报7341.93点，跌0.05%。 中证1000早盘收报7555.76点，涨0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3000939",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "12时29分"
         },
         {
-          "title": "贵州茅台王莉：茅台1935酒在9月、10月终端动销明显增长",
-          "url": "https://wallstreetcn.com/livenews/3000461",
+          "title": "A股三大指数全线转涨，此前创业板一度跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3000920",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "进出口行发行15月期债券，规模100亿元，发行利率1.3811%，预期1.3500%，投标倍数3.05倍，边际倍数1.36倍。",
-          "url": "https://wallstreetcn.com/livenews/3000281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -58,61 +47,33 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "苹果喊话iPhone13和14用户换新机",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%2596%258A%25E8%25AF%259DiPhone13%25E5%2592%258C14%25E7%2594%25A8%25E6%2588%25B7%25E6%258D%25A2%25E6%2596%25B0%25E6%259C%25BA%2523%26band_rank%3D14%26flag%3D0%26cate%3D5001%26realpos%3D14%26c_type%3D31%26stream_entry_id%3D31%26pos%3D15%26lcate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762423620%26pre_seqid%3D176242362020309959115&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "市场消息：苹果表示正在调查APPLE TV的问题。",
+          "url": "https://flash.jin10.com/detail/20251107120411653800",
+          "source": "金十数据",
           "ranks": [
-            14
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "12时29分"
         },
         {
-          "title": "网友反映遮挡摄像头仍能解锁 iPhone，苹果客服称「解锁是通过深感摄像头」，这是什么原理？如何理解？",
-          "url": "https://www.zhihu.com/question/1969525122005164073",
-          "source": "知乎",
+          "title": "据网络状况监测网站DownDetector：截至美国东部时间晚上10:34，美国有14,907名用户报告Apple TV服务中断。",
+          "url": "https://flash.jin10.com/detail/20251107115143059800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector：用户报告Apple TV在美国出现故障。",
+          "url": "https://flash.jin10.com/detail/20251107114903648800",
+          "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "苹果喊话iPhone13和14用户换新机",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AH股强势收涨，沪指重返4000点，创业板涨1.8%，算力硬件产业链爆发，恒指涨超2%，机械、有色金属、半导体领涨",
-          "url": "https://wallstreetcn.com/articles/3758777",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "上证指数早盘收报4004.25点，涨0.88%。 深证成指早盘收报13407.30点，涨1.39%。 创业板指早盘收报3210.15点，涨1.39%。 沪深300早盘收报4686.45点，涨1.28%。 科创50早盘收报1429.66点，涨2.82%。 中证500早盘收报7329.90点，涨1.39%。 中证1000早盘收报7534.79点，涨0.94%。",
-          "url": "https://wallstreetcn.com/livenews/3000294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -121,58 +82,64 @@
       ]
     },
     {
-      "keyword_group": "彩礼 结婚 离婚",
+      "keyword_group": "35",
       "match_count": 2,
       "titles": [
         {
-          "title": "结婚登记增40.5万对",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%A2%9E40.5%E4%B8%87%E5%AF%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%25BB%2593%25E5%25A9%259A%25E7%2599%25BB%25E8%25AE%25B0%25E5%25A2%259E40.5%25E4%25B8%2587%25E5%25AF%25B9%2523%26dgr%3D0%26band_rank%3D6%26pos%3D6%26filter_type%3Drealtimehot%26realpos%3D6%26c_type%3D31%26flag%3D0%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762438764%26pre_seqid%3D17624387642230343773311&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "中国10月进口天然气977.6 万吨，9月1,105 万吨。 中国10月成品油进口351.4万吨， 9月395万吨。 中国10月进口原油4,835.7万吨， 9月4,725万吨。",
+          "url": "https://wallstreetcn.com/livenews/3000936",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "12时29分"
         },
         {
-          "title": "结婚登记增40.5万对",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%A2%9E40.5%E4%B8%87%E5%AF%B9",
-          "source": "百度热搜",
+          "title": "隔夜SHIBOR报1.3270%，上涨1.40个基点。 7天SHIBOR报1.4220%，上涨0.10个基点。 3个月SHIBOR报1.5840%，下降0.35个基点。",
+          "url": "https://wallstreetcn.com/livenews/3000917",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "12时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开发者",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里巴巴CEO吴泳铭：“魔搭”两成开发者来自50人以下小组织",
+          "url": "https://wallstreetcn.com/livenews/3000906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         }
       ]
     },
     {
       "keyword_group": "线城市",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
           "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D26%26pos%3D27%26filter_type%3Drealtimehot%26realpos%3D26%26c_type%3D31%26flag%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762438764%26pre_seqid%3D17624387642230343773311&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "12时29分"
         }
       ]
     }
