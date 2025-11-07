@@ -1,61 +1,11 @@
 {
-  "generated_at": "2025-11-07T18:16:41.659015+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2025-11-07T22:22:12.696458+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "35",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中国10月进口天然气977.6 万吨，9月1,105 万吨。 中国10月成品油进口351.4万吨， 9月395万吨。 中国10月进口原油4,835.7万吨， 9月4,725万吨。",
-          "url": "https://wallstreetcn.com/livenews/3000936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "2人因想改命 1天在泰山涂写35处文物",
-          "url": "https://www.baidu.com/s?wd=2%E4%BA%BA%E5%9B%A0%E6%83%B3%E6%94%B9%E5%91%BD+1%E5%A4%A9%E5%9C%A8%E6%B3%B0%E5%B1%B1%E6%B6%82%E5%86%9935%E5%A4%84%E6%96%87%E7%89%A9",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "隔夜SHIBOR报1.3270%，上涨1.40个基点。 7天SHIBOR报1.4220%，上涨0.10个基点。 3个月SHIBOR报1.5840%，下降0.35个基点。",
-          "url": "https://wallstreetcn.com/livenews/3000917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）：铜库存135900吨，增加1425吨。 铝库存549225吨，增加850吨。 镍库存253104吨，持平。",
-          "url": "https://wallstreetcn.com/livenews/3001117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "失业 创业",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美政府“停摆”，超3万名联邦雇员持续申领失业救济",
@@ -64,9 +14,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 22时22分]"
         },
         {
           "title": "AH股强势收涨，沪指重返4000点，创业板涨1.8%，算力硬件产业链爆发，恒指涨超2%，机械、有色金属、半导体领涨",
@@ -91,6 +41,39 @@
           "time_info": "12时29分"
         },
         {
+          "title": "美元兑加元短线走低逾30点，加拿大10月新增就业超预期，失业率小幅降至6.9%",
+          "url": "https://wallstreetcn.com/livenews/3001266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "加拿大10月失业率 6.9%，预期 7.1%，前值 7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3001263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "加拿大10月失业率 6.9%，预期7.1%，前值7.10%。",
+          "url": "https://flash.jin10.com/detail/20251107213002943800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "A股三大指数全线转涨，此前创业板一度跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3000920",
           "source": "华尔街见闻-快讯",
@@ -100,6 +83,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国10月进口天然气977.6 万吨，9月1,105 万吨。 中国10月成品油进口351.4万吨， 9月395万吨。 中国10月进口原油4,835.7万吨， 9月4,725万吨。",
+          "url": "https://wallstreetcn.com/livenews/3000936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "2人因想改命 1天在泰山涂写35处文物",
+          "url": "https://www.baidu.com/s?wd=2%E4%BA%BA%E5%9B%A0%E6%83%B3%E6%94%B9%E5%91%BD+1%E5%A4%A9%E5%9C%A8%E6%B3%B0%E5%B1%B1%E6%B6%82%E5%86%9935%E5%A4%84%E6%96%87%E7%89%A9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3270%，上涨1.40个基点。 7天SHIBOR报1.4220%，上涨0.10个基点。 3个月SHIBOR报1.5840%，下降0.35个基点。",
+          "url": "https://wallstreetcn.com/livenews/3000917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）：铜库存135900吨，增加1425吨。 铝库存549225吨，增加850吨。 镍库存253104吨，持平。",
+          "url": "https://wallstreetcn.com/livenews/3001117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
@@ -125,7 +158,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
