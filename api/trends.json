@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T12:25:06.803509+08:00",
-  "total_titles_processed": 320,
+  "generated_at": "2025-11-08T18:13:00.581228+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,29 @@
           "url": "https://www.zhihu.com/question/1969125876550599924",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 18时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "林肯中国总裁：中国豪车用户平均35岁",
+          "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%82%AF%E4%B8%AD%E5%9B%BD%E6%80%BB%E8%A3%81%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%B1%AA%E8%BD%A6%E7%94%A8%E6%88%B7%E5%B9%B3%E5%9D%8735%E5%B2%81",
+          "source": "百度热搜",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
+          "time_info": "[18时12分 ~ 18时13分]"
         }
       ]
     },
@@ -45,6 +63,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 12时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大厂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“杭州六小龙”聚首乌镇对话 接棒互联网大厂成新主角",
+          "url": "https://www.cls.cn/detail/2194910",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赚钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亲妈误入赚钱坑,执迷不悟急坏娃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346890&amp;topic_name=%E4%BA%B2%E5%A6%88%E8%AF%AF%E5%85%A5%E8%B5%9A%E9%92%B1%E5%9D%91%2C%E6%89%A7%E8%BF%B7%E4%B8%8D%E6%82%9F%E6%80%A5%E5%9D%8F%E5%A8%83",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         }
       ]
     }
