@@ -1,12 +1,73 @@
 {
-  "generated_at": "2025-11-10T12:30:01.246131+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-11-10T18:16:37.175508+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
+      "keyword_group": "35",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "两部门：到2035年，适配高比例新能源的新型电力系统基本建成",
+          "url": "https://www.cls.cn/detail/2195982",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "上证指数早盘收报3996.26点，跌0.03%。 深证成指早盘收报13325.35点，跌0.59%。 创业板指早盘收报3139.88点，跌2.13%。 沪深300早盘收报4667.62点，跌0.24%。 科创50早盘收报1390.89点，跌1.75%。 中证500早盘收报7293.50点，跌0.47%。 中证1000早盘收报7520.16点，跌0.29%。",
+          "url": "https://wallstreetcn.com/livenews/3001904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
+          "title": "女孩为减肥参加海岛求生35天减28斤",
+          "url": "https://www.toutiao.com/trending/7570804644935647241/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1175，较上一交易日官方收盘价涨50点，较上日夜盘收盘涨35点。",
+          "url": "https://wallstreetcn.com/livenews/3002050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【午报】创业板指跌超2%，大消费方向集体爆发，算力硬件股再遭调整",
+          "url": "https://www.cls.cn/detail/2195675",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
         {
           "title": "11月10日午间收评：创业板指半日跌超2%，大消费板块逆势走强",
           "url": "https://wallstreetcn.com/livenews/3001903",
@@ -14,7 +75,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         },
@@ -25,24 +86,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3996.26点，跌0.03%。 深证成指早盘收报13325.35点，跌0.59%。 创业板指早盘收报3139.88点，跌2.13%。 沪深300早盘收报4667.62点，跌0.24%。 科创50早盘收报1390.89点，跌1.75%。 中证500早盘收报7293.50点，跌0.47%。 中证1000早盘收报7520.16点，跌0.29%。",
-          "url": "https://wallstreetcn.com/livenews/3001904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         }
@@ -66,6 +110,23 @@
       ]
     },
     {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "杭州一男子结婚 兄弟随礼极氪9X",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A+%E5%85%84%E5%BC%9F%E9%9A%8F%E7%A4%BC%E6%9E%81%E6%B0%AA9X",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "赚钱",
       "match_count": 1,
       "titles": [
@@ -79,6 +140,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 12时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "擦边",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "胸部设计擦边,小鹏机器人被批媚男",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     }
