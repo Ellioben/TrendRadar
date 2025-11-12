@@ -1,8 +1,70 @@
 {
-  "generated_at": "2025-11-12T12:28:01.738757+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2025-11-12T18:16:15.086175+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "35",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
+          "url": "https://wallstreetcn.com/articles/3759159",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 18时16分]"
+        },
+        {
+          "title": "俄罗斯农业部长：仍将2025年粮食作物产量预测维持在超1.35亿吨。",
+          "url": "https://flash.jin10.com/detail/20251112173843548800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
+          "url": "https://wallstreetcn.com/livenews/3003320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "上证指数早盘收报3993.35点，跌0.23%。 深证成指早盘收报13146.42点，跌1.07%。 创业板指早盘收报3084.70点，跌1.58%。 沪深300早盘收报4632.15点，跌0.43%。 科创50早盘收报1364.64点，跌1.65%。 中证500早盘收报7207.90点，跌1.15%。 中证1000早盘收报7437.80点，跌1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3003143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1172，较上一交易日官方收盘价涨35点，较上日夜盘收盘涨6点。",
+          "url": "https://wallstreetcn.com/livenews/3003299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "失业 创业",
       "match_count": 3,
@@ -25,7 +87,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -36,35 +98,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
-          "title": "上证指数早盘收报3993.35点，跌0.23%。 深证成指早盘收报13146.42点，跌1.07%。 创业板指早盘收报3084.70点，跌1.58%。 沪深300早盘收报4632.15点，跌0.43%。 科创50早盘收报1364.64点，跌1.65%。 中证500早盘收报7207.90点，跌1.15%。 中证1000早盘收报7437.80点，跌1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3003143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
@@ -72,18 +106,30 @@
     },
     {
       "keyword_group": "Apple iPhone",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
           "url": "https://www.zhihu.com/question/1971675577204306494",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 18时16分]"
+        },
+        {
+          "title": "iPhone可以检测针孔摄像头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%8F%AF%E4%BB%A5%E6%A3%80%E6%B5%8B%E9%92%88%E5%AD%94%E6%91%84%E5%83%8F%E5%A4%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3DiPhone%25E5%258F%25AF%25E4%25BB%25A5%25E6%25A3%2580%25E6%25B5%258B%25E9%2592%2588%25E5%25AD%2594%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%26realpos%3D16%26stream_entry_id%3D31%26pos%3D15%26band_rank%3D16%26flag%3D2%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26display_time%3D1762942200%26pre_seqid%3D176294220040801130158142&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "iPhone Pocket被吐槽像保温水瓶套",
@@ -100,8 +146,19 @@
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "离婚证后面有囍字",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%A6%BB%E5%A9%9A%E8%AF%81%E5%90%8E%E9%9D%A2%E6%9C%89%E5%9B%8D%E5%AD%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E7%25A6%25BB%25E5%25A9%259A%25E8%25AF%2581%25E5%2590%258E%25E9%259D%25A2%25E6%259C%2589%25E5%259B%258D%25E5%25AD%2597%26realpos%3D11%26stream_entry_id%3D31%26pos%3D10%26band_rank%3D11%26flag%3D2%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26display_time%3D1762942200%26pre_seqid%3D176294220040801130158142&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
         {
           "title": "“优质”男友在结婚登记前夜被带走",
           "url": "https://news.ifeng.com/c/8oDLyCp5mgg",
@@ -117,7 +174,7 @@
     },
     {
       "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "7省份已率先实现生娃基本不花钱",
@@ -129,6 +186,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 12时28分]"
+        },
+        {
+          "title": "恋爱要从一束花和告白开始",
+          "url": "https://www.douyin.com/hot/2303486",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "有没有一种可能，被忽略的大量中年玩家群体才是贡献游戏收入的真正主力军？",
+          "url": "https://www.zhihu.com/question/1969053510147510420",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         }
       ]
     },
@@ -158,11 +243,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346948&amp;topic_name=%E5%8A%A0%E7%8F%AD%E8%B5%9A%E9%92%B1%E7%BB%99%E8%80%81%E5%A9%86%E8%8A%B1%2C%E4%B8%93%E5%AE%B6%E5%8F%88%E5%87%BA%E7%A5%9E%E5%BB%BA%E8%AE%AE",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 18时16分]"
         }
       ]
     },
