@@ -1,8 +1,81 @@
 {
-  "generated_at": "2025-11-12T18:16:15.086175+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2025-11-12T22:24:25.256225+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "离婚证背面有“囍”字",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E8%AF%81%E8%83%8C%E9%9D%A2%E6%9C%89%E2%80%9C%E5%9B%8D%E2%80%9D%E5%AD%97",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "民政部门回应离婚证背面有囍字",
+          "url": "https://www.toutiao.com/trending/7571657135214510099/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "离婚证后面有囍字",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%A6%BB%E5%A9%9A%E8%AF%81%E5%90%8E%E9%9D%A2%E6%9C%89%E5%9B%8D%E5%AD%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E7%25A6%25BB%25E5%25A9%259A%25E8%25AF%2581%25E5%2590%258E%25E9%259D%25A2%25E6%259C%2589%25E5%259B%258D%25E5%25AD%2597%26realpos%3D11%26stream_entry_id%3D31%26pos%3D10%26band_rank%3D11%26flag%3D2%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26display_time%3D1762942200%26pre_seqid%3D176294220040801130158142&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 22时24分]"
+        },
+        {
+          "title": "“优质”男友在结婚登记前夜被带走",
+          "url": "https://news.ifeng.com/c/8oDLyCp5mgg",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
+        },
+        {
+          "title": "民政局回应薅结婚券羊毛传闻",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94%E8%96%85%E7%BB%93%E5%A9%9A%E5%88%B8%E7%BE%8A%E6%AF%9B%E4%BC%A0%E9%97%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26flag%3D1%26pos%3D21%26band_rank%3D20%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E6%25B0%2591%25E6%2594%25BF%25E5%25B1%2580%25E5%259B%259E%25E5%25BA%2594%25E8%2596%2585%25E7%25BB%2593%25E5%25A9%259A%25E5%2588%25B8%25E7%25BE%258A%25E6%25AF%259B%25E4%25BC%25A0%25E9%2597%25BB%2523%26dgr%3D0%26display_time%3D1762957442%26pre_seqid%3D17629574427520114689697&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "梅尼耶要结婚了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%A2%85%E5%B0%BC%E8%80%B6%E8%A6%81%E7%BB%93%E5%A9%9A%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D22%26flag%3D1%26pos%3D23%26band_rank%3D22%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%25E6%25A2%2585%25E5%25B0%25BC%25E8%2580%25B6%25E8%25A6%2581%25E7%25BB%2593%25E5%25A9%259A%25E4%25BA%2586%26dgr%3D0%26display_time%3D1762957442%26pre_seqid%3D17629574427520114689697&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        }
+      ]
+    },
     {
       "keyword_group": "35",
       "match_count": 5,
@@ -13,11 +86,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 22时24分]"
         },
         {
           "title": "俄罗斯农业部长：仍将2025年粮食作物产量预测维持在超1.35亿吨。",
@@ -26,7 +100,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -37,7 +111,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -59,7 +133,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -117,8 +191,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 22时24分]"
         },
         {
           "title": "iPhone可以检测针孔摄像头",
@@ -137,34 +211,6 @@
           "source": "百度热搜",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "离婚证后面有囍字",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%A6%BB%E5%A9%9A%E8%AF%81%E5%90%8E%E9%9D%A2%E6%9C%89%E5%9B%8D%E5%AD%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E7%25A6%25BB%25E5%25A9%259A%25E8%25AF%2581%25E5%2590%258E%25E9%259D%25A2%25E6%259C%2589%25E5%259B%258D%25E5%25AD%2597%26realpos%3D11%26stream_entry_id%3D31%26pos%3D10%26band_rank%3D11%26flag%3D2%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26display_time%3D1762942200%26pre_seqid%3D176294220040801130158142&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "“优质”男友在结婚登记前夜被带走",
-          "url": "https://news.ifeng.com/c/8oDLyCp5mgg",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -192,11 +238,12 @@
           "url": "https://www.douyin.com/hot/2303486",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 22时24分]"
         }
       ]
     },
