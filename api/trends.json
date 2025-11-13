@@ -1,123 +1,15 @@
 {
-  "generated_at": "2025-11-12T22:24:25.256225+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2025-11-13T12:28:43.165249+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 6,
+      "keyword_group": "失业 创业",
+      "match_count": 3,
       "titles": [
         {
-          "title": "离婚证背面有“囍”字",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E8%AF%81%E8%83%8C%E9%9D%A2%E6%9C%89%E2%80%9C%E5%9B%8D%E2%80%9D%E5%AD%97",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "民政部门回应离婚证背面有囍字",
-          "url": "https://www.toutiao.com/trending/7571657135214510099/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "离婚证后面有囍字",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%A6%BB%E5%A9%9A%E8%AF%81%E5%90%8E%E9%9D%A2%E6%9C%89%E5%9B%8D%E5%AD%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E7%25A6%25BB%25E5%25A9%259A%25E8%25AF%2581%25E5%2590%258E%25E9%259D%25A2%25E6%259C%2589%25E5%259B%258D%25E5%25AD%2597%26realpos%3D11%26stream_entry_id%3D31%26pos%3D10%26band_rank%3D11%26flag%3D2%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26display_time%3D1762942200%26pre_seqid%3D176294220040801130158142&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 22时24分]"
-        },
-        {
-          "title": "“优质”男友在结婚登记前夜被带走",
-          "url": "https://news.ifeng.com/c/8oDLyCp5mgg",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
-          "title": "民政局回应薅结婚券羊毛传闻",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94%E8%96%85%E7%BB%93%E5%A9%9A%E5%88%B8%E7%BE%8A%E6%AF%9B%E4%BC%A0%E9%97%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26flag%3D1%26pos%3D21%26band_rank%3D20%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E6%25B0%2591%25E6%2594%25BF%25E5%25B1%2580%25E5%259B%259E%25E5%25BA%2594%25E8%2596%2585%25E7%25BB%2593%25E5%25A9%259A%25E5%2588%25B8%25E7%25BE%258A%25E6%25AF%259B%25E4%25BC%25A0%25E9%2597%25BB%2523%26dgr%3D0%26display_time%3D1762957442%26pre_seqid%3D17629574427520114689697&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "梅尼耶要结婚了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%A2%85%E5%B0%BC%E8%80%B6%E8%A6%81%E7%BB%93%E5%A9%9A%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D22%26flag%3D1%26pos%3D23%26band_rank%3D22%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%25E6%25A2%2585%25E5%25B0%25BC%25E8%2580%25B6%25E8%25A6%2581%25E7%25BB%2593%25E5%25A9%259A%25E4%25BA%2586%26dgr%3D0%26display_time%3D1762957442%26pre_seqid%3D17629574427520114689697&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 22时24分]"
-        },
-        {
-          "title": "俄罗斯农业部长：仍将2025年粮食作物产量预测维持在超1.35亿吨。",
-          "url": "https://flash.jin10.com/detail/20251112173843548800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
-          "url": "https://wallstreetcn.com/livenews/3003320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "上证指数早盘收报3993.35点，跌0.23%。 深证成指早盘收报13146.42点，跌1.07%。 创业板指早盘收报3084.70点，跌1.58%。 沪深300早盘收报4632.15点，跌0.43%。 科创50早盘收报1364.64点，跌1.65%。 中证500早盘收报7207.90点，跌1.15%。 中证1000早盘收报7437.80点，跌1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3003143",
+          "title": "上证指数早盘收报4017.94点，涨0.44%。 深证成指早盘收报13478.83点，涨1.80%。 创业板指早盘收报3205.76点，涨2.68%。 沪深300早盘收报4690.71点，涨0.96%。 科创50早盘收报1404.08点，涨1.79%。 中证500早盘收报7363.44点，涨1.66%。 中证1000早盘收报7601.88点，涨1.54%。",
+          "url": "https://wallstreetcn.com/livenews/3003845",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
@@ -127,36 +19,8 @@
           "time_info": "12时28分"
         },
         {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1172，较上一交易日官方收盘价涨35点，较上日夜盘收盘涨6点。",
-          "url": "https://wallstreetcn.com/livenews/3003299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
-          "url": "https://wallstreetcn.com/articles/3759102",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
-          "title": "11月12日午间收评：创业板指半日跌1.58%，农行、工行双双创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3003142",
+          "title": "11月13日午间收评：创业板指半日涨2.68%，锂电池板块掀涨停潮",
+          "url": "https://wallstreetcn.com/livenews/3003843",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
@@ -166,9 +30,37 @@
           "time_info": "12时28分"
         },
         {
-          "title": "澳洲联储副主席Hauser：我们的最佳预测是货币政策仍具限制性，委员会正在讨论这个问题。 如果货币政策不再具备温和的限制性，将对未来的政策产生重要影响。 消费数据有涨有跌，但整体态势是逐步温和复苏。 没有哪个失业率水平会让央行满意。",
-          "url": "https://wallstreetcn.com/livenews/3003132",
+          "title": "创业板指涨幅扩大至2%，宁德时代涨超7%。沪指涨0.37%，深成指涨1.29%，锂电、有机硅、贵金属、光伏等方向领涨，沪深京三市上涨个股近3400只。",
+          "url": "https://wallstreetcn.com/livenews/3003821",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待怀孕超 35 周孕妇登机后要求特殊照顾，被劝下飞机？孕妇乘机是怎样规定的？有哪些风险？",
+          "url": "https://www.zhihu.com/question/1971554753654789642",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "沪银主力合约涨超5%，现报12535元/千克，续创历史新高。",
+          "url": "https://flash.jin10.com/detail/20251113112245283800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
@@ -179,88 +71,36 @@
       ]
     },
     {
-      "keyword_group": "Apple iPhone",
-      "match_count": 3,
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
       "titles": [
         {
-          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
-          "url": "https://www.zhihu.com/question/1971675577204306494",
-          "source": "知乎",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 22时24分]"
-        },
-        {
-          "title": "iPhone可以检测针孔摄像头",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%8F%AF%E4%BB%A5%E6%A3%80%E6%B5%8B%E9%92%88%E5%AD%94%E6%91%84%E5%83%8F%E5%A4%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3DiPhone%25E5%258F%25AF%25E4%25BB%25A5%25E6%25A3%2580%25E6%25B5%258B%25E9%2592%2588%25E5%25AD%2594%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%26realpos%3D16%26stream_entry_id%3D31%26pos%3D15%26band_rank%3D16%26flag%3D2%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26display_time%3D1762942200%26pre_seqid%3D176294220040801130158142&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "iPhone Pocket被吐槽像保温水瓶套",
-          "url": "https://www.baidu.com/s?wd=iPhone+Pocket%E8%A2%AB%E5%90%90%E6%A7%BD%E5%83%8F%E4%BF%9D%E6%B8%A9%E6%B0%B4%E7%93%B6%E5%A5%97",
+          "title": "离婚证背面有“囍”字",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E8%AF%81%E8%83%8C%E9%9D%A2%E6%9C%89%E2%80%9C%E5%9B%8D%E2%80%9D%E5%AD%97",
           "source": "百度热搜",
           "ranks": [
-            21
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     },
     {
       "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "7省份已率先实现生娃基本不花钱",
-          "url": "https://www.baidu.com/s?wd=7%E7%9C%81%E4%BB%BD%E5%B7%B2%E7%8E%87%E5%85%88%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        },
         {
           "title": "恋爱要从一束花和告白开始",
           "url": "https://www.douyin.com/hot/2303486",
           "source": "抖音",
           "ranks": [
-            6,
-            5
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 22时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "有没有一种可能，被忽略的大量中年玩家群体才是贡献游戏收入的真正主力军？",
-          "url": "https://www.zhihu.com/question/1969053510147510420",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     },
@@ -269,50 +109,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "UP主自制版Mac Pro",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%89%88Mac%20Pro",
-          "source": "bilibili 热搜",
+          "title": "如何看待 Valve 最新推出的 Steam Machine 和 Steam Controller?",
+          "url": "https://www.zhihu.com/question/1972140495577806389",
+          "source": "知乎",
           "ranks": [
-            30
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赚钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "加班赚钱给老婆花,专家又出神建议",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346948&amp;topic_name=%E5%8A%A0%E7%8F%AD%E8%B5%9A%E9%92%B1%E7%BB%99%E8%80%81%E5%A9%86%E8%8A%B1%2C%E4%B8%93%E5%AE%B6%E5%8F%88%E5%87%BA%E7%A5%9E%E5%BB%BA%E8%AE%AE",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 18时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "擦边",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "胸部设计擦边,小鹏机器人被批媚男",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     }
