@@ -1,8 +1,48 @@
 {
-  "generated_at": "2025-11-13T12:28:43.165249+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-11-13T18:15:51.983627+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "35",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何看待怀孕超 35 周孕妇登机后要求特殊照顾，被劝下飞机？孕妇乘机是怎样规定的？有哪些风险？",
+          "url": "https://www.zhihu.com/question/1971554753654789642",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 18时15分]"
+        },
+        {
+          "title": "京东集团第三季度净营收2,990.6亿元人民币，同比增长15%，市场预估2,944亿元人民币。 第三季度调整后每ADS收益 3.73元人民币，市场预估2.70元人民币。 第三季度调整后EBITDA 25亿元人民币，同比下降83%，市场预估34.1亿元人民币。 第三季度执行费用220.0亿元人民币，同比增长35%，预估196.8亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3004074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "沪银主力合约涨超5%，现报12535元/千克，续创历史新高。",
+          "url": "https://flash.jin10.com/detail/20251113112245283800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "失业 创业",
       "match_count": 3,
@@ -43,37 +83,20 @@
       ]
     },
     {
-      "keyword_group": "35",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待怀孕超 35 周孕妇登机后要求特殊照顾，被劝下飞机？孕妇乘机是怎样规定的？有哪些风险？",
-          "url": "https://www.zhihu.com/question/1971554753654789642",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "沪银主力合约涨超5%，现报12535元/千克，续创历史新高。",
-          "url": "https://flash.jin10.com/detail/20251113112245283800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "体制大冤种遭彩礼刺客硬逼下乡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347072&amp;topic_name=%E4%BD%93%E5%88%B6%E5%A4%A7%E5%86%A4%E7%A7%8D%E9%81%AD%E5%BD%A9%E7%A4%BC%E5%88%BA%E5%AE%A2%E7%A1%AC%E9%80%BC%E4%B8%8B%E4%B9%A1",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
         {
           "title": "离婚证背面有“囍”字",
           "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E8%AF%81%E8%83%8C%E9%9D%A2%E6%9C%89%E2%80%9C%E5%9B%8D%E2%80%9D%E5%AD%97",
@@ -84,12 +107,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "亲哥的女儿结婚，我随礼金一万，说了句「酒店也忒远了」，亲哥回「你可以选择不去」，我该如何回复？",
+          "url": "https://www.zhihu.com/question/1902464471538041551",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
     {
       "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "恋爱要从一束花和告白开始",
@@ -101,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "他为什么依然单身定档",
+          "url": "https://www.douyin.com/hot/2304483",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
@@ -118,6 +163,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赚钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
+          "url": "https://wallstreetcn.com/articles/3759220",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     }
