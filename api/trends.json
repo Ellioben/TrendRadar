@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-11-16T12:28:34.847984+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-11-16T18:13:02.600912+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "恋爱脑叛国,跪舔洋人泄密求欢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347120&amp;topic_name=%E6%81%8B%E7%88%B1%E8%84%91%E5%8F%9B%E5%9B%BD%2C%E8%B7%AA%E8%88%94%E6%B4%8B%E4%BA%BA%E6%B3%84%E5%AF%86%E6%B1%82%E6%AC%A2",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 18时13分]"
+        },
+        {
+          "title": "左航 恋爱",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B7%A6%E8%88%AA+%E6%81%8B%E7%88%B1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D2%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D25%26c_type%3D31%26q%3D%25E5%25B7%25A6%25E8%2588%25AA%2520%25E6%2581%258B%25E7%2588%25B1%26cate%3D5001%26dgr%3D0%26pos%3D25%26band_rank%3D25%26stream_entry_id%3D31%26display_time%3D1763287053%26pre_seqid%3D176328705383003317006156&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
         {
           "title": "易烊千玺称谈恋爱看缘分",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%A7%B0%E8%B0%88%E6%81%8B%E7%88%B1%E7%9C%8B%E7%BC%98%E5%88%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26flag%3D2%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D15%26cate%3D5001%26pos%3D15%26q%3D%2523%25E6%2598%2593%25E7%2583%258A%25E5%258D%2583%25E7%258E%25BA%25E7%25A7%25B0%25E8%25B0%2588%25E6%2581%258B%25E7%2588%25B1%25E7%259C%258B%25E7%25BC%2598%25E5%2588%2586%2523%26band_rank%3D15%26display_time%3D1763267303%26pre_seqid%3D17632673030680121117644&launchid=10000360-page_H5",
@@ -17,17 +40,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "欠债 失败",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "恋爱脑叛国,跪舔洋人泄密求欢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347120&amp;topic_name=%E6%81%8B%E7%88%B1%E8%84%91%E5%8F%9B%E5%9B%BD%2C%E8%B7%AA%E8%88%94%E6%B4%8B%E4%BA%BA%E6%B3%84%E5%AF%86%E6%B1%82%E6%AC%A2",
-          "source": "贴吧",
+          "title": "11 月 16 日 UFC322，张伟丽放弃腰带升重挑战蝇量级冠军舍甫琴科失败，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1973351581995988701",
+          "source": "知乎",
           "ranks": [
-            22
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "Zeus拉扯失败,HLE全员续约",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347151&amp;topic_name=Zeus%E6%8B%89%E6%89%AF%E5%A4%B1%E8%B4%A5%2CHLE%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 18时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美媒爆：以色列不反对美政府向沙特出售F-35战斗机，但要以实现沙以关系正常化为条件",
+          "url": "https://wallstreetcn.com/livenews/3005274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "18时13分"
         }
       ]
     },
@@ -41,23 +99,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Zeus拉扯失败,HLE全员续约",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347151&amp;topic_name=Zeus%E6%8B%89%E6%89%AF%E5%A4%B1%E8%B4%A5%2CHLE%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6",
-          "source": "贴吧",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
