@@ -1,8 +1,47 @@
 {
-  "generated_at": "2025-11-17T18:16:24.328103+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2025-11-17T22:23:04.276982+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "当你以旧换新新iPhone",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BD%A0%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%96%B0iPhone",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "曝iPhone17 Pro Max被湿巾擦掉色",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%9B%9DiPhone17+Pro+Max%E8%A2%AB%E6%B9%BF%E5%B7%BE%E6%93%A6%E6%8E%89%E8%89%B2&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25E6%259B%259DiPhone17%2520Pro%2520Max%25E8%25A2%25AB%25E6%25B9%25BF%25E5%25B7%25BE%25E6%2593%25A6%25E6%258E%2589%25E8%2589%25B2%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D25%26pos%3D25%26c_type%3D31%26band_rank%3D25%26display_time%3D1763389352%26pre_seqid%3D17633893523060280582598&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "曝iPhone17 Pro Max被湿巾擦掉色",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DiPhone17+Pro+Max%E8%A2%AB%E6%B9%BF%E5%B7%BE%E6%93%A6%E6%8E%89%E8%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "35",
       "match_count": 2,
@@ -25,7 +64,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -70,7 +109,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -81,7 +120,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -114,28 +153,29 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 22时23分]"
         }
       ]
     },
     {
-      "keyword_group": "Apple iPhone",
+      "keyword_group": "开发者",
       "match_count": 1,
       "titles": [
         {
-          "title": "曝iPhone17 Pro Max被湿巾擦掉色",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9DiPhone17+Pro+Max%E8%A2%AB%E6%B9%BF%E5%B7%BE%E6%93%A6%E6%8E%89%E8%89%B2",
-          "source": "百度热搜",
+          "title": "游戏开发者感谢中国玩家",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%8E%A9%E5%AE%B6",
+          "source": "bilibili 热搜",
           "ranks": [
-            25
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         }
       ]
     },
