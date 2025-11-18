@@ -1,100 +1,44 @@
 {
-  "generated_at": "2025-11-17T22:23:04.276982+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2025-11-18T12:27:47.080144+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "Apple iPhone",
+      "keyword_group": "35",
       "match_count": 3,
       "titles": [
         {
-          "title": "当你以旧换新新iPhone",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BD%A0%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%96%B0iPhone",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
-        },
-        {
-          "title": "曝iPhone17 Pro Max被湿巾擦掉色",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%9B%9DiPhone17+Pro+Max%E8%A2%AB%E6%B9%BF%E5%B7%BE%E6%93%A6%E6%8E%89%E8%89%B2&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25E6%259B%259DiPhone17%2520Pro%2520Max%25E8%25A2%25AB%25E6%25B9%25BF%25E5%25B7%25BE%25E6%2593%25A6%25E6%258E%2589%25E8%2589%25B2%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D25%26pos%3D25%26c_type%3D31%26band_rank%3D25%26display_time%3D1763389352%26pre_seqid%3D17633893523060280582598&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
-        },
-        {
-          "title": "曝iPhone17 Pro Max被湿巾擦掉色",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9DiPhone17+Pro+Max%E8%A2%AB%E6%B9%BF%E5%B7%BE%E6%93%A6%E6%8E%89%E8%89%B2",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3973.31点，跌0.43%。 深证成指早盘收报13169.37点，跌0.35%。 创业板指早盘收报3086.67点，跌0.80%。 沪深300早盘收报4596.15点，跌0.69%。 科创50早盘收报1351.31点，跌0.73%。 中证500早盘收报7220.73点，跌0.20%。 中证1000早盘收报7509.66点，涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3005542",
+          "title": "贵州发行10年期一般债地方债，规模2.9138亿元，发行利率1.8900%，边际倍数2.19倍，倍数预期1.95； 贵州发行10年期一般债地方债，规模36.9820亿元，发行利率1.9600%，边际倍数1.09倍，倍数预期1.95； 贵州发行10年期一般债地方债，规模31.6835亿元，发行利率1.9600%，边际倍数1.11倍，倍数预期1.95； 贵州发行30年期普通专项地方债，规模190.0623亿元，发行利率2.3800%，边际倍数7.97倍，倍数预期2.36。",
+          "url": "https://wallstreetcn.com/livenews/3006224",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "12时27分"
         },
         {
-          "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3005756",
+          "title": "中国10月份氧化铝出口18万吨，同比增3.2%。 1-10月累计氧化铝出口217万吨，同比增54.7%。 10月份未锻轧铝及铝材进口35万吨，同比增10.4%。 1-10月累计未锻轧铝及铝材进口336万吨，同比增6.1%。 10月份钢材进口50万吨，同比降6.2%。 1-10月累计钢材进口504万吨，同比降11.9%。 10月份铝矿砂及其精矿进口1377万吨，同比增12.5%。 1-10月累计铝矿砂及其精矿进口17096万吨，同比增30.1%。",
+          "url": "https://wallstreetcn.com/livenews/3006223",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "张伟丽挑战蝇量级冠军舍甫琴科失败，但她的未来依然不可限量",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31977386",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "12时27分"
         },
         {
-          "title": "Zeus拉扯失败,HLE全员续约",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347151&amp;topic_name=Zeus%E6%8B%89%E6%89%AF%E5%A4%B1%E8%B4%A5%2CHLE%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6",
-          "source": "贴吧",
+          "title": "特朗普称计划向沙特出售F-35战机",
+          "url": "https://wallstreetcn.com/livenews/3006205",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "12时27分"
         }
       ]
     },
@@ -103,26 +47,54 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "生育津贴无需结婚证直发个人",
-          "url": "https://www.baidu.com/s?wd=%E7%94%9F%E8%82%B2%E6%B4%A5%E8%B4%B4%E6%97%A0%E9%9C%80%E7%BB%93%E5%A9%9A%E8%AF%81%E7%9B%B4%E5%8F%91%E4%B8%AA%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "子阳结婚",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%AD%90%E9%98%B3%E7%BB%93%E5%A9%9A&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D24%26cate%3D5001%26realpos%3D24%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D24%26q%3D%25E5%25AD%2590%25E9%2598%25B3%25E7%25BB%2593%25E5%25A9%259A%26display_time%3D1763439838%26pre_seqid%3D17634398380650281270199&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "12时27分"
         },
         {
-          "title": "何洁前夫回应离婚",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%95%E6%B4%81%E5%89%8D%E5%A4%AB%E5%9B%9E%E5%BA%94%E7%A6%BB%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D25%26flag%3D0%26band_rank%3D25%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E4%25BD%2595%25E6%25B4%2581%25E5%2589%258D%25E5%25A4%25AB%25E5%259B%259E%25E5%25BA%2594%25E7%25A6%25BB%25E5%25A9%259A%2523%26dgr%3D0%26pos%3D26%26display_time%3D1763373959%26pre_seqid%3D17633739593180281380178&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "霍建华新剧说结婚是传销吗",
+          "url": "https://www.douyin.com/hot/2308855",
+          "source": "抖音",
           "ranks": [
-            25
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "12时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "网友曝 iPhone 17 Pro 被湿巾擦掉色，什么情况？苹果这款手机漆面真的这么脆弱吗？",
+          "url": "https://www.zhihu.com/question/1974027806913553776",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "当你以旧换新新iPhone",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BD%A0%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%96%B0iPhone",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     },
@@ -131,68 +103,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "11月17日午间收评：创业板指半日跌0.8%，福建、AI应用方向集体走强",
-          "url": "https://wallstreetcn.com/livenews/3005541",
+          "title": "上证指数早盘收报3949.83点，跌0.56%。 深证成指早盘收报13145.00点，跌0.43%。 创业板指早盘收报3091.87点，跌0.43%。 沪深300早盘收报4587.80点，跌0.22%。 科创50早盘收报1366.61点，涨0.93%。 中证500早盘收报7178.15点，跌0.79%。 中证1000早盘收报7466.41点，跌0.75%。",
+          "url": "https://wallstreetcn.com/livenews/3006233",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "分手信写出恋爱的感觉",
-          "url": "https://search.bilibili.com/all?keyword=%E5%88%86%E6%89%8B%E4%BF%A1%E5%86%99%E5%87%BA%E6%81%8B%E7%88%B1%E7%9A%84%E6%84%9F%E8%A7%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 22时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开发者",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "游戏开发者感谢中国玩家",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%8E%A9%E5%AE%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "奋斗 躺平",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "你会参加躺平大赛吗",
-          "url": "https://www.toutiao.com/trending/7573093653485289498/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "12时27分"
         }
       ]
     }
