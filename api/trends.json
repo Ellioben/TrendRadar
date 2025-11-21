@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-21T12:27:03.299337+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-11-21T18:14:35.037144+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国9月非农新增就业11.9万人大超预期，失业率意外升至4.4%创四年来最高纪录",
           "url": "https://wallstreetcn.com/articles/3759821",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 18时14分]"
         },
         {
           "title": "美国9月非农大超预期 失业率升至4.4% 美联储12月决策更趋复杂",
@@ -37,8 +38,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 18时14分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超4%，全市场不足400股飘红，近百股跌停",
+          "url": "https://www.cls.cn/detail/2207410",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "上证指数早盘收报3857.24点，跌1.88%。 深证成指早盘收报12627.85点，跌2.72%。 创业板指早盘收报2945.61点，跌3.18%。 沪深300早盘收报4476.40点，跌1.94%。 科创50早盘收报1293.51点，跌2.61%。 中证500早盘收报6873.56点，跌2.67%。 中证1000早盘收报7132.86点，跌2.83%。",
@@ -47,9 +59,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "【午报】创业板指低开低走跌超3%，全市场近5000股下跌，农业种植板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2207122",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "沪指跌幅扩大至2%，深成指跌2.88%，创业板指跌3.27%，锂电产业链、算力硬件、光伏、存储芯片等方向跌幅居前，沪深京三市下跌个股近5100只。",
@@ -58,9 +81,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "创业板指跌超4% 全市场近百股跌停",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%854%25+%E5%85%A8%E5%B8%82%E5%9C%BA%E8%BF%91%E7%99%BE%E8%82%A1%E8%B7%8C%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "创业板指跌超3%，沪指跌1.81%，深成指跌3.12%，锂电产业链、算力硬件、光伏、存储芯片等方向跌幅居前，沪深京三市下跌个股近5000只。",
@@ -69,7 +103,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -86,7 +120,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -97,7 +131,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -140,11 +174,29 @@
           "url": "https://news.ifeng.com/c/8oSMGUfmYMu",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 18时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "《光与影：33 号远征队》进入独立游戏 TGA 奖池评判，很多人持反对态度，如何界定独立游戏？",
+          "url": "https://www.zhihu.com/question/1973731372788127531",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     },
@@ -157,11 +209,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347350&amp;topic_name=%E7%8B%BC%E9%98%9F%E9%81%93%E5%B4%BD%E5%A5%B3%E5%8F%8B%E7%96%91%E4%BC%BC%E5%94%AE%E5%8D%96%E6%93%A6%E8%BE%B9%E5%9B%BE",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 18时14分]"
         }
       ]
     }
