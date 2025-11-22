@@ -1,208 +1,22 @@
 {
-  "generated_at": "2025-11-21T22:22:08.566711+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2025-11-22T12:25:46.892828+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美国9月非农新增就业11.9万人大超预期，失业率意外升至4.4%创四年来最高纪录",
-          "url": "https://wallstreetcn.com/articles/3759821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 22时22分]"
-        },
-        {
-          "title": "美国9月非农大超预期 失业率升至4.4% 美联储12月决策更趋复杂",
-          "url": "https://www.cls.cn/detail/2206712",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超4%，全市场不足400股飘红，近百股跌停",
-          "url": "https://www.cls.cn/detail/2207410",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 22时22分]"
-        },
-        {
-          "title": "古代的谋士那么聪明，为何甘心要给自己找个主公辅佐，自己创业不好吗？",
-          "url": "https://www.zhihu.com/question/1972775766417761706",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 18时14分]"
-        },
-        {
-          "title": "上证指数早盘收报3857.24点，跌1.88%。 深证成指早盘收报12627.85点，跌2.72%。 创业板指早盘收报2945.61点，跌3.18%。 沪深300早盘收报4476.40点，跌1.94%。 科创50早盘收报1293.51点，跌2.61%。 中证500早盘收报6873.56点，跌2.67%。 中证1000早盘收报7132.86点，跌2.83%。",
-          "url": "https://wallstreetcn.com/livenews/3008390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "【午报】创业板指低开低走跌超3%，全市场近5000股下跌，农业种植板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2207122",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "美国波士顿联储主席Susan Collins：9月份就业数据表现不一。 9月份失业率上升并不令人意外。 9月份的就业报告并没有改变其看法。 目前来看，尽管数据有限，经济活动依然保持韧性。 就业市场显然已经走弱。 预计今年晚些时候经济增速会有所放缓。 采取温和或适度从紧的政策是合适的。 对于下次政策会议持谨慎态度。",
-          "url": "https://wallstreetcn.com/livenews/3008737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "沪指跌幅扩大至2%，深成指跌2.88%，创业板指跌3.27%，锂电产业链、算力硬件、光伏、存储芯片等方向跌幅居前，沪深京三市下跌个股近5100只。",
-          "url": "https://wallstreetcn.com/livenews/3008368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "创业板指跌超4% 全市场近百股跌停",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%854%25+%E5%85%A8%E5%B8%82%E5%9C%BA%E8%BF%91%E7%99%BE%E8%82%A1%E8%B7%8C%E5%81%9C",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "创业板指跌超3%，沪指跌1.81%，深成指跌3.12%，锂电产业链、算力硬件、光伏、存储芯片等方向跌幅居前，沪深京三市下跌个股近5000只。",
-          "url": "https://wallstreetcn.com/livenews/3008356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "他为什么依然单身",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%96%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BE%9D%E7%84%B6%E5%8D%95%E8%BA%AB&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "如何评价霍建华、朱珠主演的都市剧《他为什么依然单身》？",
-          "url": "https://www.zhihu.com/question/1973710777312634873",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "他为什么依然单身上头",
-          "url": "https://www.douyin.com/hot/2312137",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "重庆发行20年期其他专项地方债，规模46.3500亿元，发行利率2.3800%，边际倍数11.43倍，倍数预期2.36； 重庆发行30年期其他专项地方债，规模33.7600亿元，发行利率2.3700%，边际倍数1.56倍，倍数预期2.36； 重庆发行5年期土储专项地方债，规模78.2100亿元，发行利率1.7100%，边际倍数2.09倍，倍数预期1.75； 重庆发行10年期一般债地方债，规模43.0000亿元，发行利率1.9700%，边际倍数6.76倍，倍数预期1.98； 重庆发行20年期普通专项地方债，规模16.0000亿元，发行利率2.3800%，边际倍数5.70倍，倍数预期2.36。",
-          "url": "https://wallstreetcn.com/livenews/3008386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "日本内阁批准了21.3万亿日元（1354亿美元）的经济刺激计划。",
-          "url": "https://flash.jin10.com/detail/20251121114018644800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
       "match_count": 1,
       "titles": [
         {
-          "title": "解放军报：日方若武力介入台海将比80年前失败得更彻底",
-          "url": "https://news.ifeng.com/c/8oSMGUfmYMu",
-          "source": "凤凰网",
+          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
+          "url": "https://wallstreetcn.com/articles/3759852",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 18时14分]"
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     },
@@ -211,32 +25,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待霸王茶姬创始人张俊杰将和天合光能联席董事长高海纯结婚？商界「联姻」中感情和利益可以兼得吗？",
-          "url": "https://www.zhihu.com/question/1974860032370820006",
-          "source": "知乎",
+          "title": "结婚7年发现妻子精神病史要求退彩礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A7%E5%B9%B4%E5%8F%91%E7%8E%B0%E5%A6%BB%E5%AD%90%E7%B2%BE%E7%A5%9E%E7%97%85%E5%8F%B2%E8%A6%81%E6%B1%82%E9%80%80%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "《光与影：33 号远征队》进入独立游戏 TGA 奖池评判，很多人持反对态度，如何界定独立游戏？",
-          "url": "https://www.zhihu.com/question/1973731372788127531",
-          "source": "知乎",
-          "ranks": [
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "12时25分"
         }
       ]
     },
@@ -249,13 +46,28 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347350&amp;topic_name=%E7%8B%BC%E9%98%9F%E9%81%93%E5%B4%BD%E5%A5%B3%E5%8F%8B%E7%96%91%E4%BC%BC%E5%94%AE%E5%8D%96%E6%93%A6%E8%BE%B9%E5%9B%BE",
           "source": "贴吧",
           "ranks": [
-            2,
-            3,
-            6
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 22时22分]"
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "奋斗 躺平",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "言短意长｜四校同贺张玲玲高票当选背后是对奋斗者的礼赞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32014811",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     }
