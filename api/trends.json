@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T18:13:10.811949+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-11-23T22:19:15.847693+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2207990",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 18时13分]"
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 22时19分]"
         },
         {
           "title": "如何看待《哪吒之魔童闹海》未能入选 2026 年奥斯卡 35 部符合资格的动画长片名单?",
@@ -37,7 +38,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -48,7 +49,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         }
@@ -66,19 +67,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 22时19分]"
         },
         {
           "title": "央媒：日本“夺岛”方案，注定出动即失败",
           "url": "https://m.thepaper.cn/newsDetail_forward_32025481",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 22时19分]"
         },
         {
           "title": "日本“夺岛”方案注定出动即失败",
@@ -176,11 +178,12 @@
           "url": "https://www.zhihu.com/question/1975281776659301352",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 22时19分]"
         }
       ]
     },
