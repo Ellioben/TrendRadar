@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T18:16:01.856088+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2025-11-24T22:24:06.812091+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -71,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 22时24分]"
         },
         {
           "title": "结婚登记同比增加超40万对",
@@ -100,8 +100,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 22时24分]"
         },
         {
           "title": "CNN终止与Apple News的内容共享协议",
