@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T22:24:06.812091+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2025-11-25T12:29:09.766087+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "中国财政部发行182天期债券，规模600亿元，发行利率1.3568%，边际利率1.4036%，预期1.4000%，投标倍数2.44倍，边际倍数3.36倍； 中国财政部发行3年期债券，规模970亿元，发行利率1.4000%，边际利率1.4200%，预期1.4300%，投标倍数2.87倍，边际倍数1.04倍。",
-          "url": "https://wallstreetcn.com/livenews/3009335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "港交所文件显示：腾讯控股于11月24日回购了100万股股票，耗资6.357亿港元。",
-          "url": "https://flash.jin10.com/detail/20251124173632357800",
+          "title": "伍德赛德：首批液化天然气最早可能于2032至2035年实现生产。",
+          "url": "https://flash.jin10.com/detail/20251125121023773800",
           "source": "金十数据",
           "ranks": [
-            10
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
+          "url": "https://www.zhihu.com/question/1976013755256153204",
+          "source": "知乎",
+          "ranks": [
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
         }
       ]
     },
@@ -36,134 +36,60 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "上证指数早盘收报3821.68点，跌0.34%。 深证成指早盘收报12463.79点，跌0.59%。 创业板指早盘收报2897.68点，跌0.77%。 沪深300早盘收报4427.55点，跌0.59%。 科创50早盘收报1280.64点，跌0.40%。 中证500早盘收报6804.37点，跌0.19%。 中证1000早盘收报7071.44点，涨0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3009330",
+          "title": "上证指数早盘收报3880.22点，涨1.13%。 深证成指早盘收报12841.60点，涨2.04%。 创业板指早盘收报3005.23点，涨2.60%。 沪深300早盘收报4504.16点，涨1.26%。 科创50早盘收报1314.21点，涨1.36%。 中证500早盘收报6999.07点，涨1.89%。 中证1000早盘收报7293.96点，涨1.92%。",
+          "url": "https://wallstreetcn.com/livenews/3009948",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "12时29分"
         },
         {
-          "title": "11月24日午间收评：创业板指高开低走跌0.77%，商业航天概念逆势爆发",
-          "url": "https://wallstreetcn.com/livenews/3009329",
+          "title": "11月25日午间收评：创业板指半日涨2.6%，算力硬件股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3009947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "12时29分"
         }
       ]
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "巩立姣谈退役生活，称结婚生子已提上日程：先减50斤变漂亮",
-          "url": "https://news.ifeng.com/c/8oXlcZ10aLg",
+          "title": "台湾欲放宽近亲结婚，以解决少子化危机",
+          "url": "https://news.ifeng.com/c/8oYevmGZP0o",
           "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "陈百祥：中国一讲琉球独立日本就脚软",
+          "url": "https://www.toutiao.com/trending/7575651677886251071/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 22时24分]"
-        },
-        {
-          "title": "结婚登记同比增加超40万对",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%90%8C%E6%AF%94%E5%A2%9E%E5%8A%A0%E8%B6%8540%E4%B8%87%E5%AF%B9%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
-          "url": "https://www.zhihu.com/question/1972673210345608850",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 22时24分]"
-        },
-        {
-          "title": "CNN终止与Apple News的内容共享协议",
-          "url": "https://flash.jin10.com/detail/20251124110743774800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央媒：日本“夺岛”方案，注定出动即失败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025481",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄一鸣谈恋爱了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B8%80%E9%B8%A3%E8%B0%88%E6%81%8B%E7%88%B1%E4%BA%86%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Mac MacBook 苹果笔记本",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息称苹果已基本放弃 Mac Pro，Pro 一度是苹果最受追捧的 Mac 机型，这背后有哪些原因？",
-          "url": "https://www.zhihu.com/question/1974221875245782073",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "[12时28分 ~ 12时29分]"
         }
       ]
     }
