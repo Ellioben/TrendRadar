@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T18:15:33.155912+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2025-11-28T22:23:03.678821+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
@@ -77,8 +77,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 22时23分]"
+        },
+        {
+          "title": "跟不爱的人结婚是种怎样的体验？",
+          "url": "https://www.zhihu.com/question/28209296",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 22时23分]"
         },
         {
           "title": "何美延在考虑离婚了",
@@ -91,17 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 18时15分]"
-        },
-        {
-          "title": "跟不爱的人结婚是种怎样的体验？",
-          "url": "https://www.zhihu.com/question/28209296",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         }
       ]
     }
