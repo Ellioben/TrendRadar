@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T12:27:46.124080+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2025-11-28T18:15:33.155912+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
@@ -39,34 +39,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "德国11月失业人数变动 0.1万人，预期 0.45万人，前值 -0.1万人。",
+          "url": "https://wallstreetcn.com/livenews/3012087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "德国11月失业率 6.3%，预期 6.3%，前值 6.3%。",
+          "url": "https://wallstreetcn.com/livenews/3012086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "同居即家人,没结婚也能分财产?",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347518&amp;topic_name=%E5%90%8C%E5%B1%85%E5%8D%B3%E5%AE%B6%E4%BA%BA%2C%E6%B2%A1%E7%BB%93%E5%A9%9A%E4%B9%9F%E8%83%BD%E5%88%86%E8%B4%A2%E4%BA%A7%3F",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 18时15分]"
         },
         {
           "title": "何美延在考虑离婚了",
           "url": "https://www.douyin.com/hot/2319965",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 18时15分]"
+        },
+        {
+          "title": "跟不爱的人结婚是种怎样的体验？",
+          "url": "https://www.zhihu.com/question/28209296",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "18时15分"
         }
       ]
     }
