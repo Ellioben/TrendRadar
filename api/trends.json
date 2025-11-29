@@ -1,8 +1,47 @@
 {
-  "generated_at": "2025-11-29T18:13:49.452765+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2025-11-29T22:19:57.823526+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "35",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国要求台湾地区在美投资 3500 亿至 5500 亿美元，此举会对台湾地区经济造成怎样的打击？",
+          "url": "https://www.zhihu.com/question/1974489488651747509",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 22时19分]"
+        },
+        {
+          "title": "券商副总裁老鼠仓曝光，罚没1.35亿，8年市场禁入",
+          "url": "https://www.cls.cn/detail/2214761",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "马来西亚一能源中心寻求吸引350亿美元投资",
+          "url": "https://flash.jin10.com/detail/20251129164431688800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        }
+      ]
+    },
     {
       "keyword_group": "彩礼 结婚 离婚",
       "match_count": 3,
@@ -35,45 +74,18 @@
           "url": "https://www.douyin.com/hot/2321319",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马来西亚一能源中心寻求吸引350亿美元投资",
-          "url": "https://flash.jin10.com/detail/20251129164431688800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "美国要求台湾地区在美投资 3500 亿至 5500 亿美元，此举会对台湾地区经济造成怎样的打击？",
-          "url": "https://www.zhihu.com/question/1974489488651747509",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 22时19分]"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "在编妻死磕创业,丈夫崩溃怕败家",
@@ -84,8 +96,70 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 22时19分]"
+        },
+        {
+          "title": "为什么连线勇哥说餐饮里的创业者，开杂牌奶茶就倒闭，开杂牌餐馆就能活下去?",
+          "url": "https://www.zhihu.com/question/1976201216729035902",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欠债 失败",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "俄罗斯洲际弹道导弹试射失败，导弹升空后爆炸，可能是出现了什么问题？目前俄罗斯洲际弹道导弹技术水平如何？",
+          "url": "https://www.zhihu.com/question/1978006351088202441",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开发者",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025全球开发者先锋大会暨国际具身智能技能大赛12月举行，将首次引入机器人裁判",
+          "url": "https://wallstreetcn.com/livenews/3012470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "王自如测评iPhone17",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B5%8B%E8%AF%84iPhone17",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     }
