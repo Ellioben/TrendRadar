@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T18:15:53.709870+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2025-12-02T22:26:10.008291+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
@@ -138,6 +138,46 @@
       ]
     },
     {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“龟龟”成功上岸,小明剑魔官宣结婚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347669&amp;topic_name=%E2%80%9C%E9%BE%9F%E9%BE%9F%E2%80%9D%E6%88%90%E5%8A%9F%E4%B8%8A%E5%B2%B8%2C%E5%B0%8F%E6%98%8E%E5%89%91%E9%AD%94%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
+        },
+        {
+          "title": "马上评｜妻子出轨判赔8000元，离婚赔偿为何难让人满意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32085060",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 22时26分]"
+        },
+        {
+          "title": "汶川地震被救女孩与施救军人结婚",
+          "url": "https://www.toutiao.com/trending/7578112690292326436/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "35",
       "match_count": 2,
       "titles": [
@@ -148,7 +188,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -159,37 +199,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
       ]
     },
     {
-      "keyword_group": "彩礼 结婚 离婚",
+      "keyword_group": "大厂",
       "match_count": 2,
       "titles": [
         {
-          "title": "汶川地震被救女孩与施救军人结婚",
-          "url": "https://www.toutiao.com/trending/7578112690292326436/",
-          "source": "今日头条",
+          "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
+          "url": "https://wallstreetcn.com/articles/3760506",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
-          "title": "马上评｜妻子出轨判赔8000元，离婚赔偿为何难让人满意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32085060",
-          "source": "澎湃新闻",
+          "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
+          "url": "https://wallstreetcn.com/articles/3760517",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         }
       ]
     },
@@ -220,11 +260,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 22时26分]"
         }
       ]
     }
