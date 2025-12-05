@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:32:38.441143+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2025-12-05T18:15:00.622577+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,56 @@
           "source": "微博",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "碧桂园开启“二次创业”",
+          "url": "https://wallstreetcn.com/articles/3760780",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2221133",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        },
+        {
+          "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3015576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "12月5日午间收评：创业板指半日涨0.47%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3015575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -104,30 +154,36 @@
       ]
     },
     {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
       "titles": [
         {
-          "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
-          "url": "https://wallstreetcn.com/livenews/3015576",
-          "source": "华尔街见闻-快讯",
+          "title": "吞彩礼还诬告!男出狱杀女方四口",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347745&amp;topic_name=%E5%90%9E%E5%BD%A9%E7%A4%BC%E8%BF%98%E8%AF%AC%E5%91%8A%21%E7%94%B7%E5%87%BA%E7%8B%B1%E6%9D%80%E5%A5%B3%E6%96%B9%E5%9B%9B%E5%8F%A3",
+          "source": "贴吧",
           "ranks": [
-            12
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大厂",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "12月5日午间收评：创业板指半日涨0.47%，算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3015575",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待周鸿祎「豆包手机助手拿捏所有 App，直击互联网大厂的护城河」的观点？",
+          "url": "https://www.zhihu.com/question/1980210536189748299",
+          "source": "知乎",
           "ranks": [
-            13
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
         }
       ]
     }
