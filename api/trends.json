@@ -1,201 +1,50 @@
 {
-  "generated_at": "2025-12-05T22:24:24.937196+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2025-12-06T12:26:08.523170+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
-          "title": "就业强劲反弹压低失业率 加拿大央行降息周期或已告终",
-          "url": "https://flash.jin10.com/detail/20251205215847208800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "碧桂园开启“二次创业”",
-          "url": "https://wallstreetcn.com/articles/3760780",
+          "title": "AH股走高，创业板、深成指涨超1%，百度涨超5%，保险、券商领涨，CPO、商业航天走强，摩尔线程上市首日大涨，稀土拉升",
+          "url": "https://wallstreetcn.com/articles/3760769",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 22时24分]"
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
-          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2221133",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 22时24分]"
-        },
-        {
-          "title": "加拿大失业率降至16个月新低 兼职岗位持续增长",
-          "url": "https://flash.jin10.com/detail/20251205213503154800",
+          "title": "经济学家：加拿大GDP掩盖真实闲置产能 失业率才是核心指标",
+          "url": "https://flash.jin10.com/detail/20251206092602655800",
           "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
-          "url": "https://wallstreetcn.com/livenews/3015576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "12月5日午间收评：创业板指半日涨0.47%，算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3015575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "加拿大11月失业率 6.5%，预期7%，前值6.90%。",
-          "url": "https://flash.jin10.com/detail/20251205213002903800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "加拿大11月失业率 6.5%，预期 7%，前值 6.9%。",
-          "url": "https://wallstreetcn.com/livenews/3015983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "体育总局：到2035年国家男篮稳定获奥运参赛资格，女篮稳定保持世界前列",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102270",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "奥本海默：将博通(AVGO.O)目标价从400美元上调至435美元。",
-          "url": "https://flash.jin10.com/detail/20251205120745760800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "国家发展改革委全年下达以工代赈中央投资355亿元",
-          "url": "https://wallstreetcn.com/livenews/3015570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "四年被石昊惊艳了35次",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B9%B4%E8%A2%AB%E7%9F%B3%E6%98%8A%E6%83%8A%E8%89%B3%E4%BA%8635%E6%AC%A1&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赚钱",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
-          "url": "https://www.cls.cn/detail/2220443",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "摩尔线程会成为史上最赚钱新股吗",
-          "url": "https://www.toutiao.com/trending/7580185093029760548/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "我赚钱方式的组成",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%B5%9A%E9%92%B1%E6%96%B9%E5%BC%8F%E7%9A%84%E7%BB%84%E6%88%90&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "刘嘉玲问时代峰峻怎么赚钱",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%98%89%E7%8E%B2%E9%97%AE%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E6%80%8E%E4%B9%88%E8%B5%9A%E9%92%B1&t=31&band_rank=27&Refer=top",
-          "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "《雍正王朝》中年羹尧身为四川提督，为啥见到张廷玉要给他行礼？不都是一品官吗？",
+          "url": "https://www.zhihu.com/question/5285228016",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         }
       ]
     },
@@ -204,15 +53,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "小伙缅北逃跑失败被掰断手指脚趾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%BC%85%E5%8C%97%E9%80%83%E8%B7%91%E5%A4%B1%E8%B4%A5%E8%A2%AB%E6%8E%B0%E6%96%AD%E6%89%8B%E6%8C%87%E8%84%9A%E8%B6%BE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "奈飞以720亿美元收购华纳兄弟探索公司的交易中包含了一项创纪录的“分手费”条款：如果交易因故失败或未能获得监管批准，奈飞同意向收购目标华纳兄弟探索公司支付58亿美元的违约金。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3016212",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "12时26分"
         }
       ]
     },
@@ -225,47 +74,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347745&amp;topic_name=%E5%90%9E%E5%BD%A9%E7%A4%BC%E8%BF%98%E8%AF%AC%E5%91%8A%21%E7%94%B7%E5%87%BA%E7%8B%B1%E6%9D%80%E5%A5%B3%E6%96%B9%E5%9B%9B%E5%8F%A3",
           "source": "贴吧",
           "ranks": [
-            5,
-            7
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 22时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宁德时代：鉴于赵丰刚先生申请辞去公司董事、董事会战略委员会委员职务，经公司董事会提名委员会资格审核，董事会同意提名吴映明先生为公司第四届董事会非独立董事候选人，同时补选吴映明先生为公司第四届董事会战略委员会委员，任期自股东会审议通过之日起至第四届董事会任期届满之日止。",
-          "url": "https://wallstreetcn.com/livenews/3016000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大厂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待周鸿祎「豆包手机助手拿捏所有 App，直击互联网大厂的护城河」的观点？",
-          "url": "https://www.zhihu.com/question/1980210536189748299",
-          "source": "知乎",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 22时24分]"
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         }
       ]
     }
