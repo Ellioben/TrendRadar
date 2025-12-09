@@ -1,12 +1,45 @@
 {
-  "generated_at": "2025-12-09T12:31:46.350335+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-09T18:16:47.334113+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "60岁已婚男追赶35岁暧昧对象时摔死",
+          "url": "https://www.toutiao.com/trending/7581720710033178670/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "腾讯控股：12月9日以6.357亿港元回购110万股股份。",
+          "url": "https://wallstreetcn.com/livenews/3017573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "腾讯控股(00700.HK)12月9日以6.357亿港元回购110万股股份。",
+          "url": "https://flash.jin10.com/detail/20251209173212790800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
         {
           "title": "J35在鞍山附近坠毁系谣言",
           "url": "https://www.douyin.com/hot/2331018",
@@ -41,6 +74,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "60岁已婚男追赶35岁暧昧对象时摔死",
+          "url": "https://s.weibo.com/weibo?q=%2360%E5%B2%81%E5%B7%B2%E5%A9%9A%E7%94%B7%E8%BF%BD%E8%B5%B635%E5%B2%81%E6%9A%A7%E6%98%A7%E5%AF%B9%E8%B1%A1%E6%97%B6%E6%91%94%E6%AD%BB%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.12%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/3017349",
           "source": "华尔街见闻-快讯",
@@ -66,7 +110,7 @@
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
@@ -78,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "澳洲联储声明：政策决定获得一致通过。 月度数据显示整体通胀出现回升迹象，通胀风险已转向上行，但评估通胀压力的持续性还需要一段时间。 过去一年失业率逐步上升。 劳动力市场状况似乎仍略显紧张，但预计将进一步适度缓解。 委员会将密切关注数据和不断变化的前景及风险评估，以指导其决策。 委员会判断，近期基础通胀的某些上升是由于临时性因素造成的。 委员会专注于实现物价稳定和充分就业的使命，并将采取其认为必要的措施来实现这一目标。 经济活动持续复苏。 围绕国内经济活动和通胀的前景存在不确定性，货币政策保持限制性的程度也存在不确定性。 全球经济的不确定性仍然很大，但到目前为止，对澳大利亚主要贸易伙伴的整体增长和贸易影响甚微。",
@@ -108,22 +163,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "女子狂攀彩礼,七年情遭男方退订",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347808&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%8B%82%E6%94%80%E5%BD%A9%E7%A4%BC%2C%E4%B8%83%E5%B9%B4%E6%83%85%E9%81%AD%E7%94%B7%E6%96%B9%E9%80%80%E8%AE%A2",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 18时16分]"
+        },
+        {
           "title": "国家为什么将「近亲结婚」的判定门槛定为「三代」？",
           "url": "https://www.zhihu.com/question/361669657",
           "source": "知乎",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "女子狂攀彩礼,七年情遭男方退订",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347808&amp;topic_name=%E5%A5%B3%E5%AD%90%E7%8B%82%E6%94%80%E5%BD%A9%E7%A4%BC%2C%E4%B8%83%E5%B9%B4%E6%83%85%E9%81%AD%E7%94%B7%E6%96%B9%E9%80%80%E8%AE%A2",
-          "source": "贴吧",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -139,6 +195,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大厂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     }
