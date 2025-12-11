@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T18:15:56.930594+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2025-12-11T22:25:14.343353+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "小城，何以生机勃勃｜闽侯创业记",
@@ -13,22 +13,24 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 22时25分]"
         },
         {
           "title": "【每日收评】深成指与创业板指双双跌超1%，全市场近4400股飘绿，摩尔线程逆势大涨近30%",
           "url": "https://www.cls.cn/detail/2226719",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 22时25分]"
         },
         {
           "title": "上证指数早盘收报3882.72点，跌0.46%。 深证成指早盘收报13292.61点，跌0.18%。 创业板指早盘收报3218.55点，涨0.30%。 沪深300早盘收报4582.51点，跌0.20%。 科创50早盘收报1333.71点，跌0.97%。 中证500早盘收报7129.62点，跌0.37%。 中证1000早盘收报7369.58点，跌0.52%。",
@@ -53,22 +55,77 @@
           "time_info": "12时37分"
         },
         {
+          "title": "美国11月29日当周续请失业救济人数 183.8万人，预期 193.8万人，前值 193.9万人。",
+          "url": "https://wallstreetcn.com/livenews/3019265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "意大利三季度失业率 6.1%，前值 6.3%。",
           "url": "https://wallstreetcn.com/livenews/3019121",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "美国12月6日当周首次申请失业救济人数 23.6万人，预期 22万人，前值 19.1万人。",
+          "url": "https://wallstreetcn.com/livenews/3019264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "美国至12月6日当周初请失业金人数录得23.6万人，为2025年9月6日当周以来新高。",
+          "url": "https://flash.jin10.com/detail/20251211213055721800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "美国至11月29日当周续请失业金人数 183.8万人，预期194.7万人，前值由193.9万人修正为193.7万人。",
+          "url": "https://flash.jin10.com/detail/20251211213030641800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
     {
       "keyword_group": "35",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "“存储荒”前所未有！瑞银：DRAM短缺料至2027年 DDR Q4料涨价35%",
+          "url": "https://www.cls.cn/detail/2226732",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
         {
           "title": "摩尔线程股价突破 800 元再创新高，中一签拿住赚超 35 万，市场给予的超高估值的逻辑是否坚实？",
           "url": "https://www.zhihu.com/question/1982047748682437239",
@@ -98,9 +155,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "数据公布后，美国10年期国债收益率维持跌势，日内下跌2.9个基点，报4.135%。",
+          "url": "https://flash.jin10.com/detail/20251211213203126800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
@@ -150,7 +218,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
@@ -167,7 +235,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
