@@ -1,209 +1,156 @@
 {
-  "generated_at": "2025-12-11T22:25:14.343353+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2025-12-12T12:36:09.418002+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "失业 创业",
-      "match_count": 9,
+      "keyword_group": "35",
+      "match_count": 6,
       "titles": [
         {
-          "title": "小城，何以生机勃勃｜闽侯创业记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32141019",
-          "source": "澎湃新闻",
+          "title": "马来西亚基准股指一度涨0.7%，至1,635.97点，创下自11月12日以来的新高。",
+          "url": "https://flash.jin10.com/detail/20251212121707496800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            6,
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 22时25分]"
-        },
-        {
-          "title": "【每日收评】深成指与创业板指双双跌超1%，全市场近4400股飘绿，摩尔线程逆势大涨近30%",
-          "url": "https://www.cls.cn/detail/2226719",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 22时25分]"
-        },
-        {
-          "title": "上证指数早盘收报3882.72点，跌0.46%。 深证成指早盘收报13292.61点，跌0.18%。 创业板指早盘收报3218.55点，涨0.30%。 沪深300早盘收报4582.51点，跌0.20%。 科创50早盘收报1333.71点，跌0.97%。 中证500早盘收报7129.62点，跌0.37%。 中证1000早盘收报7369.58点，跌0.52%。",
-          "url": "https://wallstreetcn.com/livenews/3018905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时36分"
         },
         {
-          "title": "12月11日午间收评：创业板指冲高回落涨0.3%，全市场下跌个股超4200只",
-          "url": "https://wallstreetcn.com/livenews/3018904",
+          "title": "凭煮蛋涨粉350万 “蛋神”回应爆红",
+          "url": "https://www.baidu.com/s?wd=%E5%87%AD%E7%85%AE%E8%9B%8B%E6%B6%A8%E7%B2%89350%E4%B8%87+%E2%80%9C%E8%9B%8B%E7%A5%9E%E2%80%9D%E5%9B%9E%E5%BA%94%E7%88%86%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "30年期日本国债收益率下跌2.5个基点，至3.355%。",
+          "url": "https://flash.jin10.com/detail/20251212120108200800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "30年期日本国债收益率下行2.5BP报3.355%。 10年期日本国债收益率上行2BP至1.945%。",
+          "url": "https://wallstreetcn.com/livenews/3019611",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "上证指数早盘收报3871.78点，跌0.04%。 深证成指早盘收报13222.51点，涨0.57%。 创业板指早盘收报3182.68点，涨0.60%。 沪深300早盘收报4562.08点，涨0.22%。 科创50早盘收报1335.41点，涨0.72%。 中证500早盘收报7141.29点，涨0.82%。 中证1000早盘收报7345.56点，涨0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3019594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "创业板指盘中拉升，日内涨幅达1%。沪指微涨不到0.1%。可控核聚变、商业航天、贵金属、电网设备等方向领涨，沪深京三市上涨个股超3500只。",
+          "url": "https://wallstreetcn.com/livenews/3019580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "成都一男子和相差13岁外国女友结婚",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E7%94%B7%E5%AD%90%E5%92%8C%E7%9B%B8%E5%B7%AE13%E5%B2%81%E5%A4%96%E5%9B%BD%E5%A5%B3%E5%8F%8B%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
-          "title": "美国11月29日当周续请失业救济人数 183.8万人，预期 193.8万人，前值 193.9万人。",
-          "url": "https://wallstreetcn.com/livenews/3019265",
+          "title": "陈妍希建议女性不要为了结婚而结婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%BB%BA%E8%AE%AE%E5%A5%B3%E6%80%A7%E4%B8%8D%E8%A6%81%E4%B8%BA%E4%BA%86%E7%BB%93%E5%A9%9A%E8%80%8C%E7%BB%93%E5%A9%9A%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "12月12日午间收评：创业板指探底回升涨0.6%，电网设备、算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3019593",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "意大利三季度失业率 6.1%，前值 6.3%。",
-          "url": "https://wallstreetcn.com/livenews/3019121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "美国12月6日当周首次申请失业救济人数 23.6万人，预期 22万人，前值 19.1万人。",
-          "url": "https://wallstreetcn.com/livenews/3019264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "美国至12月6日当周初请失业金人数录得23.6万人，为2025年9月6日当周以来新高。",
-          "url": "https://flash.jin10.com/detail/20251211213055721800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "美国至11月29日当周续请失业金人数 183.8万人，预期194.7万人，前值由193.9万人修正为193.7万人。",
-          "url": "https://flash.jin10.com/detail/20251211213030641800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "12时36分"
         }
       ]
     },
     {
-      "keyword_group": "35",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“存储荒”前所未有！瑞银：DRAM短缺料至2027年 DDR Q4料涨价35%",
-          "url": "https://www.cls.cn/detail/2226732",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
-        },
-        {
-          "title": "摩尔线程股价突破 800 元再创新高，中一签拿住赚超 35 万，市场给予的超高估值的逻辑是否坚实？",
-          "url": "https://www.zhihu.com/question/1982047748682437239",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "中石油经济技术研究院：到2035年，化石能源需求将达到127亿吨标准油当量，较2025年增加4亿吨。",
-          "url": "https://flash.jin10.com/detail/20251211121244583800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "腾讯控股(00700.HK)12月11日以6.359亿港元回购110万股股份。",
-          "url": "https://flash.jin10.com/detail/20251211174045647800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "数据公布后，美国10年期国债收益率维持跌势，日内下跌2.9个基点，报4.135%。",
-          "url": "https://flash.jin10.com/detail/20251211213203126800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中年",
+      "keyword_group": "欠债 失败",
       "match_count": 1,
       "titles": [
         {
-          "title": "中年女人最大的快乐是什么？",
-          "url": "https://www.zhihu.com/question/1965896269789659953",
+          "title": "为什么有的人越挫越勇、胆大，有的人害怕挫折和失败、胆小？",
+          "url": "https://www.zhihu.com/question/24931238",
           "source": "知乎",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
         }
       ]
     },
     {
-      "keyword_group": "彩礼 结婚 离婚",
+      "keyword_group": "生娃 丁克 恋爱 单身",
       "match_count": 1,
       "titles": [
         {
-          "title": "四川出新规专治天价彩礼党",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347848&amp;topic_name=%E5%9B%9B%E5%B7%9D%E5%87%BA%E6%96%B0%E8%A7%84%E4%B8%93%E6%B2%BB%E5%A4%A9%E4%BB%B7%E5%BD%A9%E7%A4%BC%E5%85%9A",
-          "source": "贴吧",
+          "title": "删了吧我有个单身的朋友破防了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%A0%E4%BA%86%E5%90%A7%E6%88%91%E6%9C%89%E4%B8%AA%E5%8D%95%E8%BA%AB%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%A0%B4%E9%98%B2%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            22,
-            30
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时37分 ~ 18时15分]"
+          "time_info": "[12时35分 ~ 12时36分]"
         }
       ]
     },
@@ -212,32 +159,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "苹果首款智能眼镜或明年发布：定位轻量穿戴、无独立算力 需与iPhone联动",
-          "url": "https://www.cls.cn/detail/2226248",
-          "source": "财联社热门",
+          "title": "33号远征队获最佳独立游戏",
+          "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E8%8E%B7%E6%9C%80%E4%BD%B3%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "WINDOWS",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "从市场竞争角度看，WindowsPhone8 操作系统最终败走麦城的核心原因是什么？",
-          "url": "https://www.zhihu.com/question/1980231008591820765",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
         }
       ]
     }
