@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T18:13:41.176800+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2025-12-14T22:20:21.743913+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -35,11 +35,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 22时20分]"
         },
         {
           "title": "好友证实女教师生前发文称不想结婚",
@@ -63,11 +64,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E7%BB%8F%E9%AB%98%E6%94%80%E4%B8%8D%E8%B5%B7%E7%9A%84%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%E5%8F%AA%E5%8D%9635%E4%B8%87%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 22时20分]"
         },
         {
           "title": "据猫眼专业版数据，电影《疯狂动物城2》上映19天，总票房破35亿。",
@@ -76,7 +78,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         }
@@ -92,11 +94,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 22时20分]"
         },
         {
           "title": "生娃不花钱？这些政策有时间表了",
@@ -121,11 +124,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 22时20分]"
         },
         {
           "title": "33应该是年度最佳独立游戏吗",
@@ -179,11 +183,29 @@
           "source": "贴吧",
           "ranks": [
             9,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 22时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "擦边",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "擦边网红撕男友,AA制闹分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347967&amp;topic_name=%E6%93%A6%E8%BE%B9%E7%BD%91%E7%BA%A2%E6%92%95%E7%94%B7%E5%8F%8B%2CAA%E5%88%B6%E9%97%B9%E5%88%86%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     }
