@@ -1,27 +1,27 @@
 {
-  "generated_at": "2025-12-16T12:38:22.260404+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2025-12-16T18:16:41.160552+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "加拿大皇家银行：将法拉利目标价从460欧元下调至435欧元。",
-          "url": "https://flash.jin10.com/detail/20251216121836668800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
         {
           "title": "35 万玛莎拉蒂两天被抢空，暴降 54 万，如何看待豪车以价换量的方式？豪华品牌如何打破这一怪圈？",
           "url": "https://www.zhihu.com/question/1983989913109096162",
           "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 18时16分]"
+        },
+        {
+          "title": "加拿大皇家银行：将法拉利目标价从460欧元下调至435欧元。",
+          "url": "https://flash.jin10.com/detail/20251216121836668800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
@@ -72,12 +72,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "据港交所文件，贝莱德公司在12月10日将对东风集团股份(00489.HK)H股的多头持仓从5.35%降至4.70%。",
+          "url": "https://flash.jin10.com/detail/20251216172332651800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "AH股震荡调整，创业板跌1.77%，大消费全面爆发，恒科指跌超2%，铂金期货涨停，30年期国债收跌0.99%",
@@ -89,23 +100,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "【午报】创业板指半日跌超2%，全市场超4400股飘绿，零售、智能驾驶概念股逆势活跃",
+          "url": "https://www.cls.cn/detail/2230724",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
     {
       "keyword_group": "欠债 失败",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "MLXG败诉RNG,欠债千万成老赖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348000&amp;topic_name=MLXG%E8%B4%A5%E8%AF%89RNG%2C%E6%AC%A0%E5%80%BA%E5%8D%83%E4%B8%87%E6%88%90%E8%80%81%E8%B5%96",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 18时16分]"
+        },
+        {
+          "title": "外交部：“台独”势力注定以失败告终",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%8A%BF%E5%8A%9B%E6%B3%A8%E5%AE%9A%E4%BB%A5%E5%A4%B1%E8%B4%A5%E5%91%8A%E7%BB%88",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时38分"
+          "time_info": "18时16分"
         }
       ]
     },
@@ -118,11 +152,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347986&amp;topic_name=%E7%99%BE%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A8%B6%E5%B0%8A%E4%BD%9B%2C%E4%B8%8D%E7%94%9F%E4%B8%8D%E5%85%BB%E4%B8%8D%E5%81%9A%E6%B4%BB",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时38分"
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 18时16分]"
         }
       ]
     },
