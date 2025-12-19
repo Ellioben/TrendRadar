@@ -1,224 +1,38 @@
 {
-  "generated_at": "2025-12-18T22:26:10.081458+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2025-12-19T12:36:53.625105+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "失业 创业",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指缩量跌超2%，大消费板块反复活跃，银行股午后逆势拉升",
-          "url": "https://www.cls.cn/detail/2233554",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 22时26分]"
-        },
-        {
-          "title": "海南正式封关,代购党原地失业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348064&amp;topic_name=%E6%B5%B7%E5%8D%97%E6%AD%A3%E5%BC%8F%E5%B0%81%E5%85%B3%2C%E4%BB%A3%E8%B4%AD%E5%85%9A%E5%8E%9F%E5%9C%B0%E5%A4%B1%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 18时15分]"
-        },
-        {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "上证指数早盘收报3876.40点，涨0.16%。 深证成指早盘收报13111.78点，跌0.85%。 创业板指早盘收报3118.30点，跌1.81%。 沪深300早盘收报4554.12点，跌0.56%。 科创50早盘收报1313.11点，跌0.92%。 中证500早盘收报7139.53点，涨0.02%。 中证1000早盘收报7311.69点，涨0.31%。",
-          "url": "https://wallstreetcn.com/livenews/3022814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "12月18日午间收评：创业板指半日跌1.81%，商业航天概念再度爆发",
-          "url": "https://wallstreetcn.com/livenews/3022813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "美国12月13日当周首次申请失业救济人数 22.4万人，预期 22.5万人，前值 23.6万人。",
-          "url": "https://wallstreetcn.com/livenews/3023168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "美国12月6日当周续请失业救济人数 189.7万人，预期 192万人，前值 183.8万人。",
-          "url": "https://wallstreetcn.com/livenews/3023167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "提醒：北京时间21:30，将公布美国11月CPI，12月13日当周首次申请失业救济人数。",
-          "url": "https://wallstreetcn.com/livenews/3023162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "创业板指跌超2%，权重股宁德时代、中际旭创、新易盛、阳光电源均跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3022793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "35",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "胃萎缩暴瘦至35斤女子去世 年仅27岁",
-          "url": "https://www.toutiao.com/trending/7585072453140824090/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
-          "url": "https://wallstreetcn.com/articles/3761610",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "胃萎缩暴瘦至35斤女子去世 年仅27岁",
-          "url": "https://www.baidu.com/s?wd=%E8%83%83%E8%90%8E%E7%BC%A9%E6%9A%B4%E7%98%A6%E8%87%B335%E6%96%A4%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8527%E5%B2%81",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "中国气象局：到2035年建成自主可控、国际先进的地球系统预报体系",
-          "url": "https://wallstreetcn.com/livenews/3022824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
       "match_count": 3,
       "titles": [
         {
-          "title": "iPhone千万不能把内存用完",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E6%8A%8A%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "南京一宅地溢价26.35%成交 楼面价创新高",
+          "url": "https://wallstreetcn.com/livenews/3023571",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            20
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 22时26分]"
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
-          "title": "海南封关首日iPhone最高可减2140元",
-          "url": "https://www.toutiao.com/trending/7585126179645099570/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "海南封关首日iPhone最高可减2140元",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%B0%81%E5%85%B3%E9%A6%96%E6%97%A5iPhone%E6%9C%80%E9%AB%98%E5%8F%AF%E5%87%8F2140%E5%85%83%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "村支书证实27岁患胃萎缩暴瘦至35斤女孩离世，遗体已火化",
+          "url": "https://news.ifeng.com/c/8pCIKkvwLcd",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中年",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "人到中年适当“饿一饿”能延缓衰老吗",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E9%80%82%E5%BD%93%E2%80%9C%E9%A5%BF%E4%B8%80%E9%A5%BF%E2%80%9D%E8%83%BD%E5%BB%B6%E7%BC%93%E8%A1%B0%E8%80%81%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
+          "time_info": "12时36分"
         },
         {
-          "title": "人到中年适当饿一饿或是抗衰黄金窗口",
-          "url": "https://www.toutiao.com/trending/7584664214193356826/",
-          "source": "今日头条",
+          "title": "中国财政部发行3年期债券，规模970亿元，发行利率1.3554%，边际利率1.3905%，预期1.3900%，投标倍数2.84倍，边际倍数6.89倍； 中国财政部发行5年期债券，规模990亿元，发行利率1.5603%，边际利率1.5862%，预期1.6000%，投标倍数3.66倍，边际倍数2.47倍。",
+          "url": "https://wallstreetcn.com/livenews/3023544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
@@ -229,64 +43,47 @@
       ]
     },
     {
-      "keyword_group": "彩礼 结婚 离婚",
+      "keyword_group": "失业 创业",
       "match_count": 2,
       "titles": [
         {
-          "title": "坠亡女教师父母不愿退彩礼拒绝退婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E5%A5%B3%E6%95%99%E5%B8%88%E7%88%B6%E6%AF%8D%E4%B8%8D%E6%84%BF%E9%80%80%E5%BD%A9%E7%A4%BC%E6%8B%92%E7%BB%9D%E9%80%80%E5%A9%9A%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "演员王东宣布离婚 曾承认家暴",
-          "url": "https://www.toutiao.com/trending/7584724301539770422/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我们的恋爱游戏已通关",
-          "url": "https://www.douyin.com/hot/2339482",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Mac MacBook 苹果笔记本",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Meta前首席AI科学家Yann LeCun为其新的人工智能初创公司Advanced Machine Intelligence Labs设定了30亿欧元的估值。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3023041",
+          "title": "上证指数早盘收报3899.31点，涨0.59%。 深证成指早盘收报13175.13点，涨0.93%。 创业板指早盘收报3137.73点，涨0.99%。 沪深300早盘收报4580.64点，涨0.61%。 科创50早盘收报1314.99点，涨0.69%。 中证500早盘收报7180.16点，涨1.12%。 中证1000早盘收报7348.77点，涨1.05%。",
+          "url": "https://wallstreetcn.com/livenews/3023538",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时36分"
+        },
+        {
+          "title": "12月19日午间收评：深成指、创业板指均涨近1%，大消费板块再度爆发",
+          "url": "https://wallstreetcn.com/livenews/3023537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "海南封关首日iPhone最高可减2140元",
+          "url": "https://www.toutiao.com/trending/7585126179645099570/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         }
       ]
     },
@@ -299,12 +96,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348100&amp;topic_name=%E7%9C%9F%E7%A9%BA%E6%93%A6%E8%BE%B9%E9%9C%B2%E4%B8%A4%E7%82%B9%2C%E4%B9%99%E6%B8%B8PV%E8%A2%AB%E6%89%B9%E6%81%B6%E4%BF%97",
           "source": "贴吧",
           "ranks": [
-            4,
-            3
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 22时26分]"
+          "appearance_count": 1,
+          "time_info": "12时36分"
         }
       ]
     }
