@@ -1,212 +1,89 @@
 {
-  "generated_at": "2025-12-19T22:24:18.767056+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2025-12-20T12:29:03.217229+08:00",
+  "total_titles_processed": 318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "南京一宅地溢价26.35%成交 楼面价创新高",
-          "url": "https://wallstreetcn.com/livenews/3023571",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待字节跳动发布涨薪内部邮件，2025 年奖金投入提升 35%？这在业内是什么水平？",
+          "url": "https://www.zhihu.com/question/1985407020891861408",
+          "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "村支书证实27岁患胃萎缩暴瘦至35斤女孩离世，遗体已火化",
-          "url": "https://news.ifeng.com/c/8pCIKkvwLcd",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时36分 ~ 18时15分]"
+          "time_info": "[12时28分 ~ 12时29分]"
         },
         {
-          "title": "中国财政部发行3年期债券，规模970亿元，发行利率1.3554%，边际利率1.3905%，预期1.3900%，投标倍数2.84倍，边际倍数6.89倍； 中国财政部发行5年期债券，规模990亿元，发行利率1.5603%，边际利率1.5862%，预期1.6000%，投标倍数3.66倍，边际倍数2.47倍。",
-          "url": "https://wallstreetcn.com/livenews/3023544",
-          "source": "华尔街见闻-快讯",
+          "title": "字节跳动宣布加大人才投入：2025年奖金投入提升35%，调薪投入上涨1.5倍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32211283",
+          "source": "澎湃新闻",
           "ranks": [
-            25
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "中国神华：拟购买国家能源集团及其全资子公司西部能源持有资产 整体交易对价1335.98亿元",
-          "url": "https://wallstreetcn.com/livenews/3023987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国纽约联储主席威廉姆斯：部分最新数据令人鼓舞，显示出更多通胀缓解迹象。 CPI数据存在一定失真，需要更多数据才能更好判断通胀情况。 CPI数据可能被略微压低。 最新就业数据显示私营部门就业稳步增长。 失业率可能因数据失真而被推高，但这一结果并不意外。 就业数据未显示招聘市场出现明显恶化。 整体数据与近期趋势及美联储最近的降息基本一致。",
-          "url": "https://wallstreetcn.com/livenews/3023993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "上证指数早盘收报3899.31点，涨0.59%。 深证成指早盘收报13175.13点，涨0.93%。 创业板指早盘收报3137.73点，涨0.99%。 沪深300早盘收报4580.64点，涨0.61%。 科创50早盘收报1314.99点，涨0.69%。 中证500早盘收报7180.16点，涨1.12%。 中证1000早盘收报7348.77点，涨1.05%。",
-          "url": "https://wallstreetcn.com/livenews/3023538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "12月19日午间收评：深成指、创业板指均涨近1%，大消费板块再度爆发",
-          "url": "https://wallstreetcn.com/livenews/3023537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
       "match_count": 2,
       "titles": [
         {
-          "title": "全球知名科技分析师Dan Ives：AI消费端引爆点可能是苹果15亿部iPhone与24亿iOS设备",
-          "url": "https://wallstreetcn.com/livenews/3023844",
-          "source": "华尔街见闻-快讯",
+          "title": "AH股指数集体收涨，创业板冲高回落涨0.49%，可控核聚变、大消费领涨，商业航天延续强势，恒科指涨超1%，生物医药股大涨",
+          "url": "https://wallstreetcn.com/articles/3761692",
+          "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "海南封关首日iPhone最高可减2140元",
-          "url": "https://www.toutiao.com/trending/7585126179645099570/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            22
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时36分 ~ 18时15分]"
+          "time_info": "[12时28分 ~ 12时29分]"
+        },
+        {
+          "title": "用舅妈视角打开老舅创业",
+          "url": "https://www.douyin.com/hot/2341691",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
         }
       ]
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "普京记者会现场女孩举牌“我想结婚”",
-          "url": "https://www.toutiao.com/trending/7585458879367007785/",
-          "source": "今日头条",
+          "title": "00后陆军女飞行员结婚了",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E9%99%86%E5%86%9B%E5%A5%B3%E9%A3%9E%E8%A1%8C%E5%91%98%E7%BB%93%E5%A9%9A%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            20
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
+          "time_info": "[12时28分 ~ 12时29分]"
+        },
         {
-          "title": "普京承认自己正在恋爱中",
-          "url": "https://www.toutiao.com/trending/7585570115404598835/",
+          "title": "00后陆军女飞行员结婚了",
+          "url": "https://www.toutiao.com/trending/7585024452220420137/",
           "source": "今日头条",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开发者",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待大表哥 2 开发者称：大家厌倦了开放世界？为什么开放世界会让玩家感到疲惫？",
-          "url": "https://www.zhihu.com/question/1983910695247577460",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 22时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "擦边",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "真空擦边露两点,乙游PV被批恶俗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348100&amp;topic_name=%E7%9C%9F%E7%A9%BA%E6%93%A6%E8%BE%B9%E9%9C%B2%E4%B8%A4%E7%82%B9%2C%E4%B9%99%E6%B8%B8PV%E8%A2%AB%E6%89%B9%E6%81%B6%E4%BF%97",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 22时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "线城市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一线城市二手房下跌说明了什么",
-          "url": "https://www.toutiao.com/trending/7585455273393786374/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
+          "time_info": "[12时28分 ~ 12时29分]"
         }
       ]
     }
