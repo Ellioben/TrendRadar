@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T12:40:19.089684+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-12-23T18:16:14.967276+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -34,16 +34,46 @@
           "url": "https://www.douyin.com/hot/2345069",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 18时16分]"
         },
         {
           "title": "造神失败,烤鸡少年被扒腌鸡下狠料",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348212&amp;topic_name=%E9%80%A0%E7%A5%9E%E5%A4%B1%E8%B4%A5%2C%E7%83%A4%E9%B8%A1%E5%B0%91%E5%B9%B4%E8%A2%AB%E6%89%92%E8%85%8C%E9%B8%A1%E4%B8%8B%E7%8B%A0%E6%96%99",
           "source": "贴吧",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 18时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "独家 | 年末深圳多家银行经营贷最低利率“涨价”，已回升至2.35%",
+          "url": "https://www.cls.cn/detail/2237709",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "上证指数早盘收报3930.87点，涨0.34%。 深证成指早盘收报13419.60点，涨0.65%。 创业板指早盘收报3217.02点，涨0.78%。 沪深300早盘收报4635.13点，涨0.51%。 科创50早盘收报1342.37点，涨0.53%。 中证500早盘收报7285.43点，涨0.41%。 中证1000早盘收报7427.70点，涨0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3025334",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
@@ -82,19 +112,64 @@
       ]
     },
     {
-      "keyword_group": "35",
+      "keyword_group": "大厂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2025 年大厂加薪潮 Q4 继续，比亚迪、字节、宁德时代几乎同时集体加薪，从经济角度看反应了什么信号？",
+          "url": "https://www.zhihu.com/question/1986547034866593809",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "大厂对决,索尼硬刚腾讯获和解",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348240&amp;topic_name=%E5%A4%A7%E5%8E%82%E5%AF%B9%E5%86%B3%2C%E7%B4%A2%E5%B0%BC%E7%A1%AC%E5%88%9A%E8%85%BE%E8%AE%AF%E8%8E%B7%E5%92%8C%E8%A7%A3",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
       "match_count": 1,
       "titles": [
         {
-          "title": "上证指数早盘收报3930.87点，涨0.34%。 深证成指早盘收报13419.60点，涨0.65%。 创业板指早盘收报3217.02点，涨0.78%。 沪深300早盘收报4635.13点，涨0.51%。 科创50早盘收报1342.37点，涨0.53%。 中证500早盘收报7285.43点，涨0.41%。 中证1000早盘收报7427.70点，涨0.26%。",
-          "url": "https://wallstreetcn.com/livenews/3025334",
-          "source": "华尔街见闻-快讯",
+          "title": "真敢说!博主贴标签引爆彩礼话题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348285&amp;topic_name=%E7%9C%9F%E6%95%A2%E8%AF%B4%21%E5%8D%9A%E4%B8%BB%E8%B4%B4%E6%A0%87%E7%AD%BE%E5%BC%95%E7%88%86%E5%BD%A9%E7%A4%BC%E8%AF%9D%E9%A2%98",
+          "source": "贴吧",
           "ranks": [
-            14
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone烟花模式",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E7%83%9F%E8%8A%B1%E6%A8%A1%E5%BC%8F&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         }
       ]
     }
