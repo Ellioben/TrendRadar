@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:15:40.257695+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2025-12-26T22:23:24.779525+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
@@ -27,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -88,11 +88,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 22时23分]"
         },
         {
           "title": "男子身份被冒用 和2个静静结婚4次",
@@ -101,7 +102,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
@@ -135,7 +136,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
@@ -170,8 +171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 22时23分]"
         }
       ]
     },
@@ -186,7 +187,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
