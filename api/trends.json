@@ -1,195 +1,56 @@
 {
-  "generated_at": "2025-12-26T22:23:24.779525+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2025-12-27T12:35:25.519845+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "失业 创业",
-      "match_count": 6,
+      "keyword_group": "35",
+      "match_count": 1,
       "titles": [
         {
-          "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
-          "url": "https://www.cls.cn/detail/2240698",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 18时15分]"
-        },
-        {
-          "title": "一级市场迎重磅LP！国家创业投资引导基金启动运行 三只区域基金率先落地",
-          "url": "https://www.cls.cn/detail/2240853",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "国家创业投资引导基金正式启动",
-          "url": "https://www.cls.cn/detail/2240564",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "沪指、创业板指双双跳水翻绿，深成指涨幅快速收窄，造纸、光刻机、白酒、算力硬件等方向跌幅居前，沪深京三市下跌个股近3600只。",
-          "url": "https://wallstreetcn.com/livenews/3027012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "深成指涨超1%，沪指涨0.41%，创业板指涨0.89%，海南自贸区、光伏、锂电池、商业航天等方向领涨，沪深京三市上涨个股近2900只。",
-          "url": "https://wallstreetcn.com/livenews/3027008",
+          "title": "国家统计局：1-11月份，规模以上工业企业中，国有控股企业实现利润总额20083.6亿元，同比下降1.6%； 股份制企业实现利润总额49565.6亿元，下降0.4%； 外商及港澳台投资企业实现利润总额16355.3亿元，增长2.4%； 私营企业实现利润总额19319.9亿元，下降0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3027511",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "国家发展改革委：国家创业投资引导基金重在解决创投行业长期资本短缺问题",
-          "url": "https://wallstreetcn.com/livenews/3026990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时35分"
         }
       ]
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "离婚女搞百合,带6娃办订婚宴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348384&amp;topic_name=%E7%A6%BB%E5%A9%9A%E5%A5%B3%E6%90%9E%E7%99%BE%E5%90%88%2C%E5%B8%A66%E5%A8%83%E5%8A%9E%E8%AE%A2%E5%A9%9A%E5%AE%B4",
-          "source": "贴吧",
+          "title": "结婚的好处只有幸福的人说得出来",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E7%9A%84%E5%A5%BD%E5%A4%84%E5%8F%AA%E6%9C%89%E5%B9%B8%E7%A6%8F%E7%9A%84%E4%BA%BA%E8%AF%B4%E5%BE%97%E5%87%BA%E6%9D%A5&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 22时23分]"
-        },
-        {
-          "title": "男子身份被冒用 和2个静静结婚4次",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BB%BD%E8%A2%AB%E5%86%92%E7%94%A8+%E5%92%8C2%E4%B8%AA%E9%9D%99%E9%9D%99%E7%BB%93%E5%A9%9A4%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            26
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时35分"
         }
       ]
     },
     {
-      "keyword_group": "35",
+      "keyword_group": "线城市",
       "match_count": 1,
       "titles": [
         {
-          "title": "上证指数早盘收报3952.09点，跌0.19%。 深证成指早盘收报13554.07点，涨0.17%。 创业板指早盘收报3234.63点，跌0.15%。 沪深300早盘收报4643.95点，涨0.03%。 科创50早盘收报1342.12点，跌0.51%。 中证500早盘收报7415.97点，涨0.07%。 中证1000早盘收报7570.90点，跌0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3027020",
+          "title": "“百亿”成交频现，一线城市高端住宅强势",
+          "url": "https://wallstreetcn.com/livenews/3027507",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "湖北一地生娃奖房子最高75平",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E5%9C%B0%E7%94%9F%E5%A8%83%E5%A5%96%E6%88%BF%E5%AD%90%E6%9C%80%E9%AB%9875%E5%B9%B3",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储独立性担忧缓解 分析称鲍威尔卸任后或彻底离场",
-          "url": "https://www.cls.cn/detail/2240387",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "擦边",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价睡前消息称国产茶类饮品（点名某茶姬）咖啡因含量过高，是准毒品的擦边球？",
-          "url": "https://www.zhihu.com/question/1987628052843364654",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 22时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "奋斗 躺平",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "江苏纪委书记：让躺平者无处可躺",
-          "url": "https://www.toutiao.com/trending/7588010384470310938/",
-          "source": "今日头条",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时35分"
         }
       ]
     }
