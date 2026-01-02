@@ -1,11 +1,72 @@
 {
-  "generated_at": "2026-01-02T18:15:00.897472+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-01-02T22:24:13.552594+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "35",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国防部称2035年中国航母将达9艘",
+          "url": "https://www.toutiao.com/trending/7590314162594070538/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3029850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "腾讯控股于1月2日以6.358亿港元回购102.9万股股票。",
+          "url": "https://wallstreetcn.com/livenews/3029807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)第四季度汽车产量434358辆，市场预期为470780辆；Model 3/Y产量422652辆，市场预期为452494辆。",
+          "url": "https://flash.jin10.com/detail/20260102220336461800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "西班牙IBEX35指数日内涨幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260102215727229800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "1551对！上海创二十年来元旦单日结婚登记量新高",
@@ -25,11 +86,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 22时24分]"
         },
         {
           "title": "追星女结婚遇真老公,新郎成小丑",
@@ -37,56 +99,52 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 18时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国防部称2035年中国航母将达9艘",
-          "url": "https://www.toutiao.com/trending/7590314162594070538/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 22时24分]"
         },
         {
-          "title": "腾讯控股于1月2日以6.358亿港元回购102.9万股股票。",
-          "url": "https://wallstreetcn.com/livenews/3029807",
-          "source": "华尔街见闻-快讯",
+          "title": "酒店泄露妻子视频险致夫妻离婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E6%B3%84%E9%9C%B2%E5%A6%BB%E5%AD%90%E8%A7%86%E9%A2%91%E9%99%A9%E8%87%B4%E5%A4%AB%E5%A6%BB%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         }
       ]
     },
     {
       "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "2026生娃“免单”成真",
+          "url": "https://www.toutiao.com/trending/7590235003465007131/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
         {
           "title": "2026生娃“免单”成真",
           "url": "https://www.baidu.com/s?wd=2026%E7%94%9F%E5%A8%83%E2%80%9C%E5%85%8D%E5%8D%95%E2%80%9D%E6%88%90%E7%9C%9F",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 22时24分]"
         },
         {
           "title": "为老婆准备了恋爱十周年惊喜",
@@ -140,11 +198,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 22时24分]"
         }
       ]
     },
