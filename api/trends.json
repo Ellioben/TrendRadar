@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T12:35:00.688529+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-03T18:14:19.981984+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348604&amp;topic_name=%E6%9C%BA%E6%9E%84%E7%A5%9E%E6%A0%87%E8%AF%AD%3A%E4%B8%8A%E5%B2%B8%E5%A4%9A%E6%94%B620w%E5%BD%A9%E7%A4%BC",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 18时14分]"
         },
         {
           "title": "追星女结婚遇真老公,新郎成小丑",
@@ -51,11 +52,12 @@
           "url": "https://www.toutiao.com/trending/7590235003465007131/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 18时14分]"
         }
       ]
     },
@@ -85,11 +87,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348623&amp;topic_name=%E9%A6%96%E6%88%98%E6%96%AF%E5%A5%8E%E5%A5%87%E5%A4%B1%E8%B4%A5%2CUP%E4%B8%BB%E5%88%A0%E7%A8%BF%E9%81%93%E6%AD%89",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 18时14分]"
         }
       ]
     }
