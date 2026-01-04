@@ -1,111 +1,39 @@
 {
-  "generated_at": "2026-01-03T22:21:44.088499+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-01-04T12:51:45.293549+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "机构神标语:上岸多收20w彩礼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348604&amp;topic_name=%E6%9C%BA%E6%9E%84%E7%A5%9E%E6%A0%87%E8%AF%AD%3A%E4%B8%8A%E5%B2%B8%E5%A4%9A%E6%94%B620w%E5%BD%A9%E7%A4%BC",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 18时14分]"
-        },
-        {
-          "title": "追星女结婚遇真老公,新郎成小丑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348578&amp;topic_name=%E8%BF%BD%E6%98%9F%E5%A5%B3%E7%BB%93%E5%A9%9A%E9%81%87%E7%9C%9F%E8%80%81%E5%85%AC%2C%E6%96%B0%E9%83%8E%E6%88%90%E5%B0%8F%E4%B8%91",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 22时21分]"
-        },
-        {
-          "title": "女子以为嫁给“武警上校”，提离婚时才知道是在逃杀人犯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2026生娃国家怎么补贴",
-          "url": "https://www.toutiao.com/trending/7590940645879975460/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
-          "title": "2026生娃“免单”成真",
-          "url": "https://www.toutiao.com/trending/7590235003465007131/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 18时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中年",
       "match_count": 1,
       "titles": [
         {
-          "title": "原来中年发福不是因为代谢变差",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%B9%B4%E5%8F%91%E7%A6%8F%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BB%A3%E8%B0%A2%E5%8F%98%E5%B7%AE%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "首战斯奎奇失败,UP主删稿道歉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348623&amp;topic_name=%E9%A6%96%E6%88%98%E6%96%AF%E5%A5%8E%E5%A5%87%E5%A4%B1%E8%B4%A5%2CUP%E4%B8%BB%E5%88%A0%E7%A8%BF%E9%81%93%E6%AD%89",
+          "title": "银行女设恋爱押金,分手直吞70W",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348661&amp;topic_name=%E9%93%B6%E8%A1%8C%E5%A5%B3%E8%AE%BE%E6%81%8B%E7%88%B1%E6%8A%BC%E9%87%91%2C%E5%88%86%E6%89%8B%E7%9B%B4%E5%90%9E70W",
           "source": "贴吧",
           "ranks": [
-            24,
-            27,
-            26
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果“Apple 智能与 Siri”被曝已开启国行灰度测试，部分功能受限",
+          "url": "https://wallstreetcn.com/livenews/3030210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     }
