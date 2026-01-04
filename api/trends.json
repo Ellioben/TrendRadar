@@ -1,28 +1,40 @@
 {
-  "generated_at": "2026-01-04T12:51:45.293549+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-04T18:13:44.786100+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "银行女设恋爱押金,分手直吞70W",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348661&amp;topic_name=%E9%93%B6%E8%A1%8C%E5%A5%B3%E8%AE%BE%E6%81%8B%E7%88%B1%E6%8A%BC%E9%87%91%2C%E5%88%86%E6%89%8B%E7%9B%B4%E5%90%9E70W",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 18时13分]"
+        },
+        {
+          "title": "林俊杰恋爱以后，出歌的质量与速度会和周杰伦一样吗？",
+          "url": "https://www.zhihu.com/question/1989105978457683662",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "18时13分"
         }
       ]
     },
     {
       "keyword_group": "Apple iPhone",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果“Apple 智能与 Siri”被曝已开启国行灰度测试，部分功能受限",
@@ -34,6 +46,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "iPhone千万别删的自带软件",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E5%8D%83%E4%B8%87%E5%88%AB%E5%88%A0%E7%9A%84%E8%87%AA%E5%B8%A6%E8%BD%AF%E4%BB%B6&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     }
