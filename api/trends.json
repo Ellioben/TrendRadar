@@ -1,23 +1,35 @@
 {
-  "generated_at": "2026-01-05T18:17:56.390212+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-01-05T22:27:57.726174+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "结婚化债碰壁,某书女疯狂甩锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348733&amp;topic_name=%E7%BB%93%E5%A9%9A%E5%8C%96%E5%80%BA%E7%A2%B0%E5%A3%81%2C%E6%9F%90%E4%B9%A6%E5%A5%B3%E7%96%AF%E7%8B%82%E7%94%A9%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
         {
           "title": "真假老公同台,追星女带偶像结婚",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348707&amp;topic_name=%E7%9C%9F%E5%81%87%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%B0%2C%E8%BF%BD%E6%98%9F%E5%A5%B3%E5%B8%A6%E5%81%B6%E5%83%8F%E7%BB%93%E5%A9%9A",
           "source": "贴吧",
           "ranks": [
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 22时27分]"
         },
         {
           "title": "长泽雅美宣布结婚，日本「四大台柱」女演员全部成家，这宣告着一个时代的落幕吗？",
@@ -25,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 22时27分]"
         },
         {
           "title": "田朴珺辟谣和王石离婚",
@@ -57,7 +70,7 @@
     },
     {
       "keyword_group": "35",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "35岁歌手涉毒在香港被捕",
@@ -83,6 +96,17 @@
           "time_info": "12时59分"
         },
         {
+          "title": "沪银主力合约快速拉升，日内涨幅扩大至2.00%，现报18535.00元/千克。",
+          "url": "https://flash.jin10.com/detail/20260105220713564800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "印度NIFTY50指数最高上涨0.11%，创下26,358.25点的历史新高。",
           "url": "https://flash.jin10.com/detail/20260105114718705800",
           "source": "金十数据",
@@ -97,7 +121,7 @@
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据泰晤士报：经济学家预计，英国失业率可能在2026年达到11年来的最高水平，届时将需要至少两次降息来刺激增长，并抵消财政大臣的增税政策。",
@@ -106,7 +130,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -117,9 +141,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        },
+        {
+          "title": "苹果Face ID核心成员联手创业 致力解决机器人感知难题",
+          "url": "https://flash.jin10.com/detail/20260105220414552800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "上证指数早盘收报4011.45点，涨1.07%。 深证成指早盘收报13777.32点，涨1.87%。 创业板指早盘收报3272.07点，涨2.15%。 沪深300早盘收报4703.41点，涨1.59%。 科创50早盘收报1398.61点，涨4.05%。 中证500早盘收报7626.72点，涨2.16%。 中证1000早盘收报7719.81点，涨1.64%。",
@@ -163,7 +198,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         }
@@ -180,7 +215,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         }
@@ -196,11 +231,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 22时27分]"
         }
       ]
     },
