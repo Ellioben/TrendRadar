@@ -1,188 +1,106 @@
 {
-  "generated_at": "2026-01-06T22:26:32.680537+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-01-07T12:43:28.060591+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
-          "title": "拒彩礼遭设局,冤种男被迫赔钱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348748&amp;topic_name=%E6%8B%92%E5%BD%A9%E7%A4%BC%E9%81%AD%E8%AE%BE%E5%B1%80%2C%E5%86%A4%E7%A7%8D%E7%94%B7%E8%A2%AB%E8%BF%AB%E8%B5%94%E9%92%B1",
+          "title": "不中嘞,河南彩礼纠纷全国第一",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348775&amp;topic_name=%E4%B8%8D%E4%B8%AD%E5%98%9E%2C%E6%B2%B3%E5%8D%97%E5%BD%A9%E7%A4%BC%E7%BA%A0%E7%BA%B7%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80",
           "source": "贴吧",
           "ranks": [
-            1
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "12时43分"
         },
         {
           "title": "砖家评越南新娘:低彩礼但藏刀",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348760&amp;topic_name=%E7%A0%96%E5%AE%B6%E8%AF%84%E8%B6%8A%E5%8D%97%E6%96%B0%E5%A8%98%3A%E4%BD%8E%E5%BD%A9%E7%A4%BC%E4%BD%86%E8%97%8F%E5%88%80",
           "source": "贴吧",
           "ranks": [
-            2,
-            6
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 22时26分]"
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "结婚化债碰壁,某书女疯狂甩锅",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348733&amp;topic_name=%E7%BB%93%E5%A9%9A%E5%8C%96%E5%80%BA%E7%A2%B0%E5%A3%81%2C%E6%9F%90%E4%B9%A6%E5%A5%B3%E7%96%AF%E7%8B%82%E7%94%A9%E9%94%85",
           "source": "贴吧",
           "ranks": [
-            13,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 22时26分]"
-        },
-        {
-          "title": "真假老公同台,追星女带偶像结婚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348707&amp;topic_name=%E7%9C%9F%E5%81%87%E8%80%81%E5%85%AC%E5%90%8C%E5%8F%B0%2C%E8%BF%BD%E6%98%9F%E5%A5%B3%E5%B8%A6%E5%81%B6%E5%83%8F%E7%BB%93%E5%A9%9A",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 22时26分]"
-        },
-        {
-          "title": "二婚妻子收15万彩礼后称要丁克",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%A9%9A%E5%A6%BB%E5%AD%90%E6%94%B615%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%90%8E%E7%A7%B0%E8%A6%81%E4%B8%81%E5%85%8B%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "白鹿这首离婚的歌听了388遍",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E8%BF%99%E9%A6%96%E7%A6%BB%E5%A9%9A%E7%9A%84%E6%AD%8C%E5%90%AC%E4%BA%86388%E9%81%8D&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时43分"
         }
       ]
     },
     {
       "keyword_group": "35",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "特朗普媒体科技集团：与核聚变初创公司TAE开始为首个创新聚变发电厂进行选址规划流程。计划于2026年启动选址和建设工作，未来的发电厂预计装机容量为350至500兆瓦电力（MWE）。",
-          "url": "https://wallstreetcn.com/livenews/3031714",
-          "source": "华尔街见闻-快讯",
+          "title": "歼35绿皮机新年首飞",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%BC35%E7%BB%BF%E7%9A%AE%E6%9C%BA%E6%96%B0%E5%B9%B4%E9%A6%96%E9%A3%9E",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "SC原油主力合约日内涨超2.00%，现报435.90元/桶。",
-          "url": "https://flash.jin10.com/detail/20260106214650631800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）：铜库存146075吨，增加3525吨。 铝库存504250吨，减少2500吨。 镍库存255546吨，增加192吨。 锌库存105775吨，减少75吨。 铅库存233350吨，减少3550吨。 锡库存5420吨，增加5吨。",
-          "url": "https://wallstreetcn.com/livenews/3031558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时43分"
         },
         {
-          "title": "沪锡期货主力合约强势上涨，突破35万关口，现涨超3%，创2022年3月以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3031700",
+          "title": "上证指数早盘收报4095.54点，涨0.29%。 深证成指早盘收报14071.35点，涨0.35%。 创业板指早盘收报3332.74点，涨0.41%。 沪深300早盘收报4792.05点，涨0.03%。 科创50早盘收报1445.48点，涨1.13%。 中证500早盘收报7902.04点，涨1.13%。 中证1000早盘收报7930.24点，涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3032090",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "歼-35年产量能追上F-35吗",
-          "url": "https://www.toutiao.com/trending/7591690249530392618/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "12时43分"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国里士满联储主席Barkin（2027年FOMC票委）：鉴于失业和通胀目标的风险，未来的利率决策需要“精细调整”。 当前的政策利率处于中性区间。 美联储的双重使命两方面都“值得关注”。 通胀已回落但仍高于目标，失业率仍然较低，但不希望就业市场进一步恶化。 去年显示出经济的韧性，但需求和就业增长主要集中在某些行业，市场情绪有所下降。 预计去年的不确定性将在2026年减少，消费者和企业的信心将增强。 税收变化、放松监管以及降息的影响，今年都将为经济带来刺激。",
-          "url": "https://wallstreetcn.com/livenews/3031706",
-          "source": "华尔街见闻-快讯",
+          "title": "创业板指刷新阶段高点",
+          "url": "https://www.douyin.com/hot/2359620",
+          "source": "抖音",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "上证指数早盘收报4069.38点，涨1.14%。 深证成指早盘收报13940.24点，涨0.81%。 创业板指早盘收报3293.18点，跌0.04%。 沪深300早盘收报4772.17点，涨1.15%。 科创50早盘收报1430.81点，涨1.95%。 中证500早盘收报7766.29点，涨1.50%。 中证1000早盘收报7821.96点，涨0.88%。",
-          "url": "https://wallstreetcn.com/livenews/3031332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "12时43分"
         }
       ]
     },
     {
-      "keyword_group": "中年",
+      "keyword_group": "欠债 失败",
       "match_count": 1,
       "titles": [
         {
-          "title": "为什么很多男的到了中年突然开始炒股？",
-          "url": "https://www.zhihu.com/question/419997323",
+          "title": "38 岁，最近单位提拔，因未及时找领导表达上进决心也没好意思拉票，结果失败，现在各种后悔，怎么办？",
+          "url": "https://www.zhihu.com/question/1990310567815181218",
           "source": "知乎",
           "ranks": [
-            17
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时43分"
         }
       ]
     },
@@ -191,15 +109,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "丈夫离世6旬初代丁克不悔没要孩子",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%A6%BB%E4%B8%966%E6%97%AC%E5%88%9D%E4%BB%A3%E4%B8%81%E5%85%8B%E4%B8%8D%E6%82%94%E6%B2%A1%E8%A6%81%E5%AD%A9%E5%AD%90%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "上海“初代丁克”回应不要孩子后悔吗",
+          "url": "https://www.toutiao.com/trending/7592179790149681194/",
+          "source": "今日头条",
           "ranks": [
-            16
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "12时43分"
         }
       ]
     },
@@ -208,32 +126,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "欧洲央行管委兼法国央行行长Villeroy：对美联储独立性的攻击削弱美元。",
-          "url": "https://wallstreetcn.com/livenews/3031560",
-          "source": "华尔街见闻-快讯",
+          "title": "石平抵台声称台湾是“独立国家”，外交部：宵小狂言，不值一评",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325829",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "iPhone没有一个按键是多余的",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E6%8C%89%E9%94%AE%E6%98%AF%E5%A4%9A%E4%BD%99%E7%9A%84&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "12时43分"
         }
       ]
     }
