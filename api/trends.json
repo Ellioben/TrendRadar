@@ -1,117 +1,94 @@
 {
-  "generated_at": "2026-01-11T22:21:58.948187+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-01-12T12:54:17.515203+08:00",
+  "total_titles_processed": 300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "上证指数早盘收报4151.14点，涨0.75%。 深证成指早盘收报14305.10点，涨1.31%。 创业板指早盘收报3366.71点，涨1.17%。 沪深300早盘收报4779.95点，涨0.44%。 科创50早盘收报1509.29点，涨2.26%。 中证500早盘收报8210.52点，涨1.91%。 中证1000早盘收报8305.27点，涨2.17%。",
+          "url": "https://wallstreetcn.com/livenews/3034957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "1月12日午间收评：深成指、创业板指均涨超1%，商业航天、AI应用方向持续爆发",
+          "url": "https://wallstreetcn.com/livenews/3034956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
         {
           "title": "失业妻豪购洗碗机,丈夫崩溃砸家",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348960&amp;topic_name=%E5%A4%B1%E4%B8%9A%E5%A6%BB%E8%B1%AA%E8%B4%AD%E6%B4%97%E7%A2%97%E6%9C%BA%2C%E4%B8%88%E5%A4%AB%E5%B4%A9%E6%BA%83%E7%A0%B8%E5%AE%B6",
           "source": "贴吧",
           "ranks": [
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 22时21分]"
-        },
-        {
-          "title": "中国“手搓党”重塑创业",
-          "url": "https://www.toutiao.com/trending/7593919500999724607/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "深圳“安居创业帮扶计划”上线",
-          "url": "https://wallstreetcn.com/livenews/3034608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "最高法解读彩礼:结婚买房车也算",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348944&amp;topic_name=%E6%9C%80%E9%AB%98%E6%B3%95%E8%A7%A3%E8%AF%BB%E5%BD%A9%E7%A4%BC%3A%E7%BB%93%E5%A9%9A%E4%B9%B0%E6%88%BF%E8%BD%A6%E4%B9%9F%E7%AE%97",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            14,
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
-          "title": "取240万给外甥当彩礼 外甥称没对象",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%96240%E4%B8%87%E7%BB%99%E5%A4%96%E7%94%A5%E5%BD%93%E5%BD%A9%E7%A4%BC+%E5%A4%96%E7%94%A5%E7%A7%B0%E6%B2%A1%E5%AF%B9%E8%B1%A1",
-          "source": "百度热搜",
+          "title": "创业板指涨幅扩大至1%，此前一度跌超1%。沪指涨0.6%。沪深京三市逾3600只个股上涨。",
+          "url": "https://wallstreetcn.com/livenews/3034948",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            8
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
-          "title": "女子先嫁2人未离婚又先后跟9人结离婚",
-          "url": "https://www.toutiao.com/trending/7593882895820685318/",
-          "source": "今日头条",
+          "title": "深成指涨超1%，北证50涨近4%，沪指涨0.52%，创业板指涨0.63%，商业航天、AI应用两大方向领涨市场，沪深京三市上涨个股超3400只。",
+          "url": "https://wallstreetcn.com/livenews/3034939",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "12时54分"
         }
       ]
     },
     {
-      "keyword_group": "Apple iPhone",
+      "keyword_group": "生娃 丁克 恋爱 单身",
       "match_count": 2,
       "titles": [
         {
-          "title": "iPhone4需求激增近1000%",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone4%E9%9C%80%E6%B1%82%E6%BF%80%E5%A2%9E%E8%BF%911000%25%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "鲁豫不许自己成为恋爱脑",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B2%81%E8%B1%AB%E4%B8%8D%E8%AE%B8%E8%87%AA%E5%B7%B1%E6%88%90%E4%B8%BA%E6%81%8B%E7%88%B1%E8%84%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 22时21分]"
-        },
-        {
-          "title": "15年前的iPhone4S开箱",
-          "url": "https://s.weibo.com/weibo?q=15%E5%B9%B4%E5%89%8D%E7%9A%84iPhone4S%E5%BC%80%E7%AE%B1&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "12时54分"
+        },
+        {
+          "title": "财晓得丨生娃“无自付”是个啥概念？如何逐步实现？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32333935",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
@@ -120,67 +97,66 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "澳大利亚维多利亚州山火过火面积已达35万公顷",
-          "url": "https://wallstreetcn.com/livenews/3034616",
-          "source": "华尔街见闻-快讯",
+          "title": "霍启刚公开个人财产，35套物业曝光，多项房产与郭晶晶共同持有",
+          "url": "https://finance.ifeng.com/c/8ppuyduRlUO",
+          "source": "凤凰网",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "12时54分"
         }
       ]
     },
     {
-      "keyword_group": "欠债 失败",
+      "keyword_group": "彩礼 结婚 离婚",
       "match_count": 1,
       "titles": [
         {
-          "title": "美军导弹护卫舰计划为何失败",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%BC%E5%BC%B9%E6%8A%A4%E5%8D%AB%E8%88%B0%E8%AE%A1%E5%88%92%E4%B8%BA%E4%BD%95%E5%A4%B1%E8%B4%A5",
-          "source": "bilibili 热搜",
+          "title": "最高法解读彩礼:结婚买房车也算",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348944&amp;topic_name=%E6%9C%80%E9%AB%98%E6%B3%95%E8%A7%A3%E8%AF%BB%E5%BD%A9%E7%A4%BC%3A%E7%BB%93%E5%A9%9A%E4%B9%B0%E6%88%BF%E8%BD%A6%E4%B9%9F%E7%AE%97",
+          "source": "贴吧",
           "ranks": [
-            8,
-            22
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 18时14分]"
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
     {
-      "keyword_group": "生娃 丁克 恋爱 单身",
+      "keyword_group": "独立",
       "match_count": 1,
       "titles": [
         {
-          "title": "刘一诺说和檀健次谈恋爱没给她什么戏",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%80%E8%AF%BA%E8%AF%B4%E5%92%8C%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B0%88%E6%81%8B%E7%88%B1%E6%B2%A1%E7%BB%99%E5%A5%B9%E4%BB%80%E4%B9%88%E6%88%8F%23&t=31&band_rank=22&Refer=top",
+          "title": "如何评价饶毅发文，称「把『非升即走』用于不独立的年轻人，是老教授院长院士所长滥用职权」？",
+          "url": "https://www.zhihu.com/question/1993063954730223495",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开发者",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "用户与AI聊黄开发者获刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E4%B8%8EAI%E8%81%8A%E9%BB%84%E5%BC%80%E5%8F%91%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "996",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“1996·6·20”命案宣告结案",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C1996%C2%B76%C2%B720%E2%80%9D%E5%91%BD%E6%A1%88%E5%AE%A3%E5%91%8A%E7%BB%93%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "12时54分"
         }
       ]
     }
