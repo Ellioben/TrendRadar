@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T18:16:37.029270+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-01-13T22:28:59.661961+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时28分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌近2%，全市场超3700股飘绿，商业航天概念股批量跌停",
+          "url": "https://www.cls.cn/detail/2256207",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时28分]"
         },
         {
           "title": "上证指数早盘收报4163.84点，跌0.03%。 深证成指早盘收报14321.80点，跌0.31%。 创业板指早盘收报3360.23点，跌0.83%。 沪深300早盘收报4790.55点，涨0.01%。 科创50早盘收报1485.01点，跌1.77%。 中证500早盘收报8227.18点，跌0.27%。 中证1000早盘收报8297.84点，跌0.71%。",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌近2%，全市场超3700股飘绿，商业航天概念股批量跌停",
-          "url": "https://www.cls.cn/detail/2256207",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         },
         {
           "title": "1月13日午间收评：创业板指半日跌0.83%，商业航天概念集体退潮",
@@ -58,7 +59,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -66,7 +67,7 @@
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "去年上海结婚登记125102对，比2024年增长38.7%",
@@ -92,6 +93,17 @@
           "time_info": "[12时42分 ~ 12时43分]"
         },
         {
+          "title": "彩礼逆天论:1年养育=1万彩礼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349092&amp;topic_name=%E5%BD%A9%E7%A4%BC%E9%80%86%E5%A4%A9%E8%AE%BA%3A1%E5%B9%B4%E5%85%BB%E8%82%B2%3D1%E4%B8%87%E5%BD%A9%E7%A4%BC",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "薛小婉任权至今未领结婚证",
           "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%B0%8F%E5%A9%89%E4%BB%BB%E6%9D%83%E8%87%B3%E4%BB%8A%E6%9C%AA%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -109,7 +121,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -117,7 +129,7 @@
     },
     {
       "keyword_group": "Apple iPhone",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "iPhone 4突然又火了",
@@ -142,15 +154,65 @@
           "time_info": "[12时42分 ~ 12时43分]"
         },
         {
+          "title": "iPhone自带堪比打印机的软件",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E8%87%AA%E5%B8%A6%E5%A0%AA%E6%AF%94%E6%89%93%E5%8D%B0%E6%9C%BA%E7%9A%84%E8%BD%AF%E4%BB%B6&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "苹果推出创造性APP订阅服务Apple Creator Studio，月租12.99美元。",
+          "url": "https://wallstreetcn.com/livenews/3036221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "发布15年后iPhone 4突然爆火",
           "url": "https://www.toutiao.com/trending/7594676685853691398/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧洲央行管委科赫尔：央行独立性对经济稳定至关重要。",
+          "url": "https://flash.jin10.com/detail/20260113180159329800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "高盛资管：美联储独立性日渐成为焦点，通胀数据将转为“市场配角”",
+          "url": "https://flash.jin10.com/detail/20260113220224275800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
@@ -174,11 +236,12 @@
           "url": "https://www.zhihu.com/question/1992541112620061247",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时28分]"
         }
       ]
     },
@@ -193,9 +256,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欠债 失败",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度PSLV火箭连续发射失败背后",
+          "url": "https://www.toutiao.com/trending/7594450574670581289/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
@@ -214,23 +294,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时42分 ~ 18时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧洲央行管委科赫尔：央行独立性对经济稳定至关重要。",
-          "url": "https://flash.jin10.com/detail/20260113180159329800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         }
       ]
     }
