@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T12:49:44.989165+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-01-14T18:17:34.117889+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国12月出口总额 25358.6亿元，前值23456.3亿元。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
+          "url": "https://www.cls.cn/detail/2257610",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "中国财政部发行91天期债券，规模400亿元，发行利率1.1726%，边际利率1.2110%，预期1.2100%，投标倍数3.13倍，边际倍数3.57倍； 中国财政部发行1年期债券，规模1350亿元，发行利率1.2200%，边际利率1.2700%，预期1.3500%，投标倍数2.29倍，边际倍数1.22倍； 中国财政部发行30年期债券，规模320亿元，发行利率2.3800%，预期2.3600%，投标倍数5.17倍，边际倍数22.16倍。",
@@ -82,6 +93,23 @@
       ]
     },
     {
+      "keyword_group": "中年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人到中年适当饿一饿或是抗衰黄金窗口",
+          "url": "https://www.toutiao.com/trending/7594783963441545225/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "彩礼 结婚 离婚",
       "match_count": 1,
       "titles": [
@@ -90,11 +118,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349092&amp;topic_name=%E5%BD%A9%E7%A4%BC%E9%80%86%E5%A4%A9%E8%AE%BA%3A1%E5%B9%B4%E5%85%BB%E8%82%B2%3D1%E4%B8%87%E5%BD%A9%E7%A4%BC",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 18时17分]"
         }
       ]
     },
@@ -112,6 +141,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone18Pro新爆料",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%96%B0%E7%88%86%E6%96%99%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     }
