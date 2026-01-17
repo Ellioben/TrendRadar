@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T12:35:07.024982+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-17T18:13:54.500119+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -15,15 +15,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 18时13分]"
         },
         {
           "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3763470",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 18时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "彩礼双标现场:美女示范秒换儿媳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349283&amp;topic_name=%E5%BD%A9%E7%A4%BC%E5%8F%8C%E6%A0%87%E7%8E%B0%E5%9C%BA%3A%E7%BE%8E%E5%A5%B3%E7%A4%BA%E8%8C%83%E7%A7%92%E6%8D%A2%E5%84%BF%E5%AA%B3",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "23岁新娘喝农药自杀，新郎父亲：从认识到领证3个月，同意离婚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398393",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -70,7 +99,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -79,28 +108,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349254&amp;topic_name=%E5%81%87%E8%BA%BA%E5%B9%B3%E7%9C%9F%E5%95%83%E8%80%81%3F%E4%BD%8E%E6%AC%B2%E6%9C%9B%E4%BA%BA%E7%BE%A4%E9%81%AD%E7%82%AE%E8%BD%B0",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "23岁新娘喝农药自杀，新郎父亲：从认识到领证3个月，同意离婚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398393",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 18时13分]"
         }
       ]
     }
