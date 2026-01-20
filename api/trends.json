@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-01-20T12:49:10.264012+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-01-20T18:20:33.539459+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "宝妈神创业,专挑鬼市卖早饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349400&amp;topic_name=%E5%AE%9D%E5%A6%88%E7%A5%9E%E5%88%9B%E4%B8%9A%2C%E4%B8%93%E6%8C%91%E9%AC%BC%E5%B8%82%E5%8D%96%E6%97%A9%E9%A5%AD",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "创业板跌近2%，化工、黄金逆势大涨，商业航天、算力硬件集体调整，恒科指跌超1%，泡泡玛特涨9%，碳酸锂涨停",
+          "url": "https://wallstreetcn.com/articles/3763658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "上证指数早盘收报4101.62点，跌0.30%。 深证成指早盘收报14119.95点，跌1.22%。 创业板指早盘收报3276.64点，跌1.83%。 沪深300早盘收报4712.18点，跌0.47%。 科创50早盘收报1488.44点，跌1.22%。 中证500早盘收报8198.78点，跌1.08%。 中证1000早盘收报8159.07点，跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3040112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "1月20日午间收评：创业板指半日跌1.83%，商业航天、算力硬件股集体调整",
+          "url": "https://wallstreetcn.com/livenews/3040110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        }
+      ]
+    },
     {
       "keyword_group": "35",
       "match_count": 3,
@@ -14,7 +64,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -25,7 +75,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -36,84 +86,101 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4101.62点，跌0.30%。 深证成指早盘收报14119.95点，跌1.22%。 创业板指早盘收报3276.64点，跌1.83%。 沪深300早盘收报4712.18点，跌0.47%。 科创50早盘收报1488.44点，跌1.22%。 中证500早盘收报8198.78点，跌1.08%。 中证1000早盘收报8159.07点，跌1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3040112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "1月20日午间收评：创业板指半日跌1.83%，商业航天、算力硬件股集体调整",
-          "url": "https://wallstreetcn.com/livenews/3040110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "律师发威!离婚女狂揽九成家产",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349366&amp;topic_name=%E5%BE%8B%E5%B8%88%E5%8F%91%E5%A8%81%21%E7%A6%BB%E5%A9%9A%E5%A5%B3%E7%8B%82%E6%8F%BD%E4%B9%9D%E6%88%90%E5%AE%B6%E4%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "让学生娃多睡一会儿：江苏多地中小学延迟到校、取消早读",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411416",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     },
     {
       "keyword_group": "独立",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "欧盟委员会主席冯德莱恩：地缘政治冲击能够也必须成为欧洲的机遇。我们今天正在经历的剧变，是构建一种新型欧洲独立性的必然要求。",
+          "url": "https://flash.jin10.com/detail/20260120181452701800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
         {
           "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
           "url": "https://wallstreetcn.com/articles/3763591",
           "source": "华尔街见闻",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "英国央行行长贝利：美联储独立性受到任何威胁，都会对英国产生重大潜在溢出效应。",
+          "url": "https://flash.jin10.com/detail/20260120181123809800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新娘临婚涨彩礼,狗都捞到6w8",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349398&amp;topic_name=%E6%96%B0%E5%A8%98%E4%B8%B4%E5%A9%9A%E6%B6%A8%E5%BD%A9%E7%A4%BC%2C%E7%8B%97%E9%83%BD%E6%8D%9E%E5%88%B06w8",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "律师发威!离婚女狂揽九成家产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349366&amp;topic_name=%E5%BE%8B%E5%B8%88%E5%8F%91%E5%A8%81%21%E7%A6%BB%E5%A9%9A%E5%A5%B3%E7%8B%82%E6%8F%BD%E4%B9%9D%E6%88%90%E5%AE%B6%E4%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 18时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "不婚+丁克族,死后遗产全充公",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349391&amp;topic_name=%E4%B8%8D%E5%A9%9A%2B%E4%B8%81%E5%85%8B%E6%97%8F%2C%E6%AD%BB%E5%90%8E%E9%81%97%E4%BA%A7%E5%85%A8%E5%85%85%E5%85%AC",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "让学生娃多睡一会儿：江苏多地中小学延迟到校、取消早读",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411416",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
