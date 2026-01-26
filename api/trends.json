@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T12:57:51.082487+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-01-26T18:20:07.531783+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "菲律宾一载有350多人的渡轮沉没，已有200多人获救",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "程序员27岁去美国35岁流落街头",
+          "url": "https://s.weibo.com/weibo?q=%E7%A8%8B%E5%BA%8F%E5%91%9827%E5%B2%81%E5%8E%BB%E7%BE%8E%E5%9B%BD35%E5%B2%81%E6%B5%81%E8%90%BD%E8%A1%97%E5%A4%B4&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "菲律宾一载 359 人的船只倾覆，已致 15 人死亡，另有 43 人失踪，目前情况怎么样？船只倾覆原因可能是什么？",
+          "url": "https://www.zhihu.com/question/1999015144412377493",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "菲律宾载350多人的渡轮沉没",
@@ -55,7 +77,7 @@
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "杭州 11 岁男孩小区创业给同龄人培优，不到两月赚六千，怎么做到的？家庭教育如何做能培养出这样的孩子？",
@@ -67,6 +89,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
+          "url": "https://wallstreetcn.com/articles/3764130",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指放量跌近1%，资源股持续强势领涨，万亿市值油气龙头创历史新高",
+          "url": "https://www.cls.cn/detail/2269857",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "上证指数早盘收报4141.01点，涨0.12%。 深证成指早盘收报14332.86点，跌0.74%。 创业板指早盘收报3320.81点，跌0.86%。 沪深300早盘收报4715.12点，涨0.27%。 科创50早盘收报1538.21点，跌1.00%。 中证500早盘收报8522.32点，跌0.79%。 中证1000早盘收报8365.64点，跌1.24%。",
@@ -93,37 +137,20 @@
       ]
     },
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "已婚老哥含泪劝退:千万别结婚!",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349633&amp;topic_name=%E5%B7%B2%E5%A9%9A%E8%80%81%E5%93%A5%E5%90%AB%E6%B3%AA%E5%8A%9D%E9%80%80%3A%E5%8D%83%E4%B8%87%E5%88%AB%E7%BB%93%E5%A9%9A%21",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "彩礼成灵药,38w治愈童年",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349643&amp;topic_name=%E5%BD%A9%E7%A4%BC%E6%88%90%E7%81%B5%E8%8D%AF%2C38w%E6%B2%BB%E6%84%88%E7%AB%A5%E5%B9%B4",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Apple iPhone",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "iPhone 4S在拼多多卖爆",
+          "url": "https://www.toutiao.com/trending/7599175124324237321/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
         {
           "title": "你怎么看iPhone Air降价",
           "url": "https://www.toutiao.com/trending/7599137251189800969/",
@@ -145,6 +172,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "已婚老哥含泪劝退:千万别结婚!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349633&amp;topic_name=%E5%B7%B2%E5%A9%9A%E8%80%81%E5%93%A5%E5%90%AB%E6%B3%AA%E5%8A%9D%E9%80%80%3A%E5%8D%83%E4%B8%87%E5%88%AB%E7%BB%93%E5%A9%9A%21",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 18时20分]"
+        },
+        {
+          "title": "彩礼成灵药,38w治愈童年",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349643&amp;topic_name=%E5%BD%A9%E7%A4%BC%E6%88%90%E7%81%B5%E8%8D%AF%2C38w%E6%B2%BB%E6%84%88%E7%AB%A5%E5%B9%B4",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 18时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球领先独立飞机租赁公司AerCap CEO：黄金价格反映了主要货币的贬值。目前“完全看不到”对美元计价投资兴趣减弱的任何迹象。",
+          "url": "https://flash.jin10.com/detail/20260126173425177800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "独立开发者猜测 Windows 终局是 Linux，是这样吗？",
+          "url": "https://www.zhihu.com/question/1997009859061769540",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大厂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在互联网大厂年薪百万，但每天工作到凌晨 2 点，体检出一身病，该不该辞职？",
+          "url": "https://www.zhihu.com/question/1997619105981813675",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 18时20分]"
+        },
+        {
+          "title": "主动权益大厂排名洗牌，谁扛起规模增长大旗？",
+          "url": "https://www.cls.cn/detail/2269420",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         }
       ]
     },
@@ -174,11 +288,12 @@
           "url": "https://www.zhihu.com/question/1997623498252707401",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 18时20分]"
         }
       ]
     },
@@ -209,40 +324,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "独立开发者猜测 Windows 终局是 Linux，是这样吗？",
-          "url": "https://www.zhihu.com/question/1997009859061769540",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大厂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在互联网大厂年薪百万，但每天工作到凌晨 2 点，体检出一身病，该不该辞职？",
-          "url": "https://www.zhihu.com/question/1997619105981813675",
-          "source": "知乎",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
