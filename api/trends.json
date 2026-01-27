@@ -1,314 +1,89 @@
 {
-  "generated_at": "2026-01-26T22:32:06.947640+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-01-27T12:51:02.910677+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "35",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "菲律宾一载有350多人的渡轮沉没，已有200多人获救",
-          "url": "https://news.ifeng.com/c/8qDczVWqBXD",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "程序员27岁去美国35岁流落街头",
-          "url": "https://s.weibo.com/weibo?q=%E7%A8%8B%E5%BA%8F%E5%91%9827%E5%B2%81%E5%8E%BB%E7%BE%8E%E5%9B%BD35%E5%B2%81%E6%B5%81%E8%90%BD%E8%A1%97%E5%A4%B4&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "菲律宾一载 359 人的船只倾覆，已致 15 人死亡，另有 43 人失踪，目前情况怎么样？船只倾覆原因可能是什么？",
-          "url": "https://www.zhihu.com/question/1999015144412377493",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "菲律宾载350多人的渡轮沉没",
-          "url": "https://www.douyin.com/hot/2379530",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "菲律宾一载有350多人船只倾覆",
-          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%B8%80%E8%BD%BD%E6%9C%89350%E5%A4%9A%E4%BA%BA%E8%88%B9%E5%8F%AA%E5%80%BE%E8%A6%86",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "10个月宝宝35斤 姥姥累到大喘气",
-          "url": "https://www.baidu.com/s?wd=10%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D35%E6%96%A4+%E5%A7%A5%E5%A7%A5%E7%B4%AF%E5%88%B0%E5%A4%A7%E5%96%98%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "失业 创业",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "杭州 11 岁男孩小区创业给同龄人培优，不到两月赚六千，怎么做到的？家庭教育如何做能培养出这样的孩子？",
-          "url": "https://www.zhihu.com/question/1998859078336739109",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
         {
           "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
           "url": "https://wallstreetcn.com/articles/3764130",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 22时32分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指放量跌近1%，资源股持续强势领涨，万亿市值油气龙头创历史新高",
-          "url": "https://www.cls.cn/detail/2269857",
-          "source": "财联社热门",
-          "ranks": [
-            11,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 22时32分]"
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
-          "title": "上证指数早盘收报4141.01点，涨0.12%。 深证成指早盘收报14332.86点，跌0.74%。 创业板指早盘收报3320.81点，跌0.86%。 沪深300早盘收报4715.12点，涨0.27%。 科创50早盘收报1538.21点，跌1.00%。 中证500早盘收报8522.32点，跌0.79%。 中证1000早盘收报8365.64点，跌1.24%。",
-          "url": "https://wallstreetcn.com/livenews/3043644",
+          "title": "上证指数早盘收报4134.03点，涨0.03%。 深证成指早盘收报14262.96点，跌0.37%。 创业板指早盘收报3333.91点，涨0.44%。 沪深300早盘收报4720.86点，涨0.30%。 科创50早盘收报1541.52点，涨0.57%。 中证500早盘收报8449.83点，跌0.67%。 中证1000早盘收报8273.26点，跌1.10%。",
+          "url": "https://wallstreetcn.com/livenews/3044419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "12时51分"
         },
         {
-          "title": "1月26日午间收评：创业板指半日跌0.86%，贵金属板块集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3043643",
+          "title": "1月27日午间收评：创业板指探底回升涨0.44%，全市场下跌个股超4400只",
+          "url": "https://wallstreetcn.com/livenews/3044418",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "12时51分"
         }
       ]
     },
     {
-      "keyword_group": "Apple iPhone",
-      "match_count": 4,
+      "keyword_group": "35",
+      "match_count": 2,
       "titles": [
         {
-          "title": "iPhone 4S在拼多多卖爆",
-          "url": "https://www.toutiao.com/trending/7599175124324237321/",
-          "source": "今日头条",
+          "title": "泰国财政部预计2026年外国游客到访量为3550万人次。",
+          "url": "https://wallstreetcn.com/livenews/3044448",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 22时32分]"
-        },
-        {
-          "title": "苹果(AAPL.O)发布全新黑色团结之花Apple Watch表带。",
-          "url": "https://flash.jin10.com/detail/20260126220605779800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时32分"
+          "time_info": "12时51分"
         },
         {
-          "title": "你怎么看iPhone Air降价",
-          "url": "https://www.toutiao.com/trending/7599137251189800969/",
-          "source": "今日头条",
+          "title": "印度白银期货大涨6%，创下每公斤354,780卢比的历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3044423",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "网友刚买iPhoneAir第二天就降价2000元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%88%9A%E4%B9%B0iPhoneAir%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%B0%B1%E9%99%8D%E4%BB%B72000%E5%85%83%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "12时51分"
         }
       ]
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "已婚老哥含泪劝退:千万别结婚!",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349633&amp;topic_name=%E5%B7%B2%E5%A9%9A%E8%80%81%E5%93%A5%E5%90%AB%E6%B3%AA%E5%8A%9D%E9%80%80%3A%E5%8D%83%E4%B8%87%E5%88%AB%E7%BB%93%E5%A9%9A%21",
-          "source": "贴吧",
+          "title": "新人结婚坐马车发生意外，人和马都翻沟里！",
+          "url": "https://news.ifeng.com/c/8qFQJCQAZT6",
+          "source": "凤凰网",
           "ranks": [
-            17,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 22时32分]"
-        },
-        {
-          "title": "彩礼成灵药,38w治愈童年",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349643&amp;topic_name=%E5%BD%A9%E7%A4%BC%E6%88%90%E7%81%B5%E8%8D%AF%2C38w%E6%B2%BB%E6%84%88%E7%AB%A5%E5%B9%B4",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 18时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全球领先独立飞机租赁公司AerCap CEO：黄金价格反映了主要货币的贬值。目前“完全看不到”对美元计价投资兴趣减弱的任何迹象。",
-          "url": "https://flash.jin10.com/detail/20260126173425177800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "独立开发者猜测 Windows 终局是 Linux，是这样吗？",
-          "url": "https://www.zhihu.com/question/1997009859061769540",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大厂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "在互联网大厂年薪百万，但每天工作到凌晨 2 点，体检出一身病，该不该辞职？",
-          "url": "https://www.zhihu.com/question/1997619105981813675",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 22时32分]"
-        },
-        {
-          "title": "主动权益大厂排名洗牌，谁扛起规模增长大旗？",
-          "url": "https://www.cls.cn/detail/2269420",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待越来越多中年人加入考公行列，甚至有人巡考年花费过万？这是一种理性投资吗？",
-          "url": "https://www.zhihu.com/question/1997976957858571164",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "考研失败情侣返乡种橙，7 年后「逆风翻盘」，他们的成功关键是什么？这种农业 + 短视频的模式可复制吗？",
-          "url": "https://www.zhihu.com/question/1997623498252707401",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 18时20分]"
+          "time_info": "[12时50分 ~ 12时51分]"
         }
       ]
     },
@@ -317,49 +92,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "日本极端催生:不生娃就切子宫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349632&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%9E%81%E7%AB%AF%E5%82%AC%E7%94%9F%3A%E4%B8%8D%E7%94%9F%E5%A8%83%E5%B0%B1%E5%88%87%E5%AD%90%E5%AE%AB",
-          "source": "贴吧",
+          "title": "为什么《武林外传》中没有女人和李大嘴谈恋爱呢？",
+          "url": "https://www.zhihu.com/question/1922607353112556539",
+          "source": "知乎",
           "ranks": [
-            22
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "996",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2年期日本国债收益率上行2个基点，至1.27%，创1996年以来的最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3043676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "擦边",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "立牌坊又擦边?UP主人设崩塌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349635&amp;topic_name=%E7%AB%8B%E7%89%8C%E5%9D%8A%E5%8F%88%E6%93%A6%E8%BE%B9%3FUP%E4%B8%BB%E4%BA%BA%E8%AE%BE%E5%B4%A9%E5%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         }
       ]
     }
