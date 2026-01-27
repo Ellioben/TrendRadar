@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T18:20:08.029555+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-01-27T22:35:44.334666+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -72,6 +72,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小伙提婚检,相亲女彩礼秒砍半",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349782&amp;topic_name=%E5%B0%8F%E4%BC%99%E6%8F%90%E5%A9%9A%E6%A3%80%2C%E7%9B%B8%E4%BA%B2%E5%A5%B3%E5%BD%A9%E7%A4%BC%E7%A7%92%E7%A0%8D%E5%8D%8A",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
+        },
+        {
+          "title": "新人结婚坐马车发生意外，人和马都翻沟里！",
+          "url": "https://news.ifeng.com/c/8qFQJCQAZT6",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "“网红小胖”已结婚生子",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BD%91%E7%BA%A2%E5%B0%8F%E8%83%96%E2%80%9D%E5%B7%B2%E7%BB%93%E5%A9%9A%E7%94%9F%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "对不起第一次结婚有点好笑",
+          "url": "https://s.weibo.com/weibo?q=%E5%AF%B9%E4%B8%8D%E8%B5%B7%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%93%E5%A9%9A%E6%9C%89%E7%82%B9%E5%A5%BD%E7%AC%91&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         }
       ]
     },
@@ -115,45 +165,6 @@
       ]
     },
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "新人结婚坐马车发生意外，人和马都翻沟里！",
-          "url": "https://news.ifeng.com/c/8qFQJCQAZT6",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
-        },
-        {
-          "title": "“网红小胖”已结婚生子",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BD%91%E7%BA%A2%E5%B0%8F%E8%83%96%E2%80%9D%E5%B7%B2%E7%BB%93%E5%A9%9A%E7%94%9F%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "对不起第一次结婚有点好笑",
-          "url": "https://s.weibo.com/weibo?q=%E5%AF%B9%E4%B8%8D%E8%B5%B7%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%93%E5%A9%9A%E6%9C%89%E7%82%B9%E5%A5%BD%E7%AC%91&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "生娃 丁克 恋爱 单身",
       "match_count": 1,
       "titles": [
@@ -182,9 +193,44 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Mac MacBook 苹果笔记本",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
+          "url": "https://www.zhihu.com/question/1999166962421429182",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赚钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "这就是赚钱的意义吧",
+          "url": "https://www.douyin.com/hot/2380995",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     }
