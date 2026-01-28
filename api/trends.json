@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T18:21:04.972781+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-01-28T22:35:11.765716+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "张艺兴穿中年男士套装跳《大花轿》",
+          "url": "https://www.toutiao.com/trending/7599485661368582207/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
         }
       ]
     },
@@ -38,6 +55,23 @@
       ]
     },
     {
+      "keyword_group": "欠债 失败",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
+          "url": "https://wallstreetcn.com/articles/3764384",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "彩礼 结婚 离婚",
       "match_count": 1,
       "titles": [
@@ -47,11 +81,29 @@
           "source": "贴吧",
           "ranks": [
             13,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时47分 ~ 22时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone 在中国为什么这么火？",
+          "url": "https://www.zhihu.com/question/35519508",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
         }
       ]
     },
