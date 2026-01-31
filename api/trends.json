@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T13:03:32.470946+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-01-31T18:16:52.545801+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "天价彩礼劝退!不婚成无奈选择",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 18时16分]"
         },
         {
           "title": "女子离婚5天后前夫去世 抚恤金引纠纷",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "男子买彩票中500万后立马离婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD500%E4%B8%87%E5%90%8E%E7%AB%8B%E9%A9%AC%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "离婚5天后男方去世 抚恤金引纠纷",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A5%E5%A4%A9%E5%90%8E%E7%94%B7%E6%96%B9%E5%8E%BB%E4%B8%96+%E6%8A%9A%E6%81%A4%E9%87%91%E5%BC%95%E7%BA%A0%E7%BA%B7",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "前女友结婚 男子特意开车经过",
@@ -54,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 18时16分]"
         }
       ]
     },
@@ -85,11 +107,29 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349960&amp;topic_name=%E5%8C%BB%E5%AD%A6%E7%94%9F%E6%B1%82%E6%8D%9E%E5%A4%B1%E8%B4%A5%2C%E6%80%92%E9%AA%82%E8%80%81%E5%B8%88%E7%AC%91%E9%9D%A2%E8%99%8E",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 18时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国人为啥偏爱iPhone",
+          "url": "https://www.toutiao.com/trending/7601412382031629875/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "18时16分"
         }
       ]
     },
@@ -102,11 +142,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349918&amp;topic_name=%E7%B4%AB%E8%89%B2%E9%9F%B5%E5%91%B3%3F%E7%99%BD%E6%9C%88%E5%85%89%E7%AB%9F%E5%8F%98%E6%93%A6%E8%BE%B9%E5%A5%B3",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 18时16分]"
         }
       ]
     }
