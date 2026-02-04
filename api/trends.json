@@ -1,150 +1,106 @@
 {
-  "generated_at": "2026-02-03T22:46:34.890959+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-02-04T13:11:28.848633+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "婚礼一周后“闪离”彩礼退还起争议",
-          "url": "https://www.toutiao.com/trending/7601799751440826374/",
-          "source": "今日头条",
+          "title": "如何看女子离世前离婚，将 3000 万遗产留给未成年女儿，股权遗赠异性朋友并托孤？",
+          "url": "https://www.zhihu.com/question/2001411053553222902",
+          "source": "知乎",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
-          "title": "LWX 结婚",
-          "url": "https://s.weibo.com/weibo?q=LWX%20%E7%BB%93%E5%A9%9A&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
-          "title": "新娘父亲婚礼现场退还99999元彩礼",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E7%88%B6%E4%BA%B2%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E9%80%80%E8%BF%9899999%E5%85%83%E5%BD%A9%E7%A4%BC",
-          "source": "百度热搜",
-          "ranks": [
-            7
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "13时11分"
         },
         {
-          "title": "离婚变要挟筹码,男子秒签解脱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350009&amp;topic_name=%E7%A6%BB%E5%A9%9A%E5%8F%98%E8%A6%81%E6%8C%9F%E7%AD%B9%E7%A0%81%2C%E7%94%B7%E5%AD%90%E7%A7%92%E7%AD%BE%E8%A7%A3%E8%84%B1",
+          "title": "中央一号文件发布：整治农村高额彩礼，今年有了新要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32523740",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "新规放大招!整治农村高彩礼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350159&amp;topic_name=%E6%96%B0%E8%A7%84%E6%94%BE%E5%A4%A7%E6%8B%9B%21%E6%95%B4%E6%B2%BB%E5%86%9C%E6%9D%91%E9%AB%98%E5%BD%A9%E7%A4%BC",
           "source": "贴吧",
           "ranks": [
-            25
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "整治农村高额彩礼 今年有了新要求",
-          "url": "https://www.baidu.com/s?wd=%E6%95%B4%E6%B2%BB%E5%86%9C%E6%9D%91%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC+%E4%BB%8A%E5%B9%B4%E6%9C%89%E4%BA%86%E6%96%B0%E8%A6%81%E6%B1%82",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
+          "time_info": "13时11分"
         }
       ]
     },
     {
       "keyword_group": "35",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "周生生挂坠刮出白痕，不同点位金含量差异超 35%，部分点位含铁银钯，金饰中为何会有这些元素？这算足金吗？",
-          "url": "https://www.zhihu.com/question/2001775737003271008",
-          "source": "知乎",
+          "title": "中国财政部发行91天期债券，规模400亿元，发行利率1.2432%，边际利率1.2796%，预期1.3200%，投标倍数3.41倍，边际倍数1.20倍； 中国财政部发行2年期债券，规模1300亿元，发行利率1.3285%，边际利率1.3560%，预期1.3600%，投标倍数4.25倍，边际倍数4.23倍。",
+          "url": "https://wallstreetcn.com/livenews/3049547",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "“厂二代”们火了 月薪3500回家接班",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%82%E4%BA%8C%E4%BB%A3%E2%80%9D%E4%BB%AC%E7%81%AB%E4%BA%86+%E6%9C%88%E8%96%AA3500%E5%9B%9E%E5%AE%B6%E6%8E%A5%E7%8F%AD",
-          "source": "百度热搜",
-          "ranks": [
-            16
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "13时11分"
         },
         {
-          "title": "LME铜向上触及13500美元/吨，最新报13505.16美元/吨，日内上涨4.76%。",
-          "url": "https://wallstreetcn.com/livenews/3049149",
+          "title": "上证指数早盘收报4067.67点，跌0.00%。 深证成指早盘收报13997.72点，跌0.92%。 创业板指早盘收报3266.99点，跌1.74%。 沪深300早盘收报4653.32点，跌0.15%。 科创50早盘收报1435.15点，跌2.44%。 中证500早盘收报8203.60点，跌1.00%。 中证1000早盘收报8124.98点，跌1.02%。",
+          "url": "https://wallstreetcn.com/livenews/3049539",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时46分"
+          "time_info": "13时11分"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "姚洋：给大学生提供免费创业基金，是对“共同富裕”的误解",
-          "url": "https://news.ifeng.com/c/8qQOpw2Fvbr",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "福建：将投资培育数字经济独角兽、瞪羚企业情况纳入国有创业投资考核体系",
-          "url": "https://wallstreetcn.com/livenews/3049035",
+          "title": "2月4日午间收评：创业板指半日跌1.74%，煤炭、太空光伏概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3049538",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "13时11分"
         }
       ]
     },
     {
-      "keyword_group": "大厂",
+      "keyword_group": "Apple iPhone",
       "match_count": 1,
       "titles": [
         {
-          "title": "大厂掀起45亿AI红包大战",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8E%82%E6%8E%80%E8%B5%B745%E4%BA%BFAI%E7%BA%A2%E5%8C%85%E5%A4%A7%E6%88%98%23&t=31&band_rank=20&Refer=top",
+          "title": "iPhone18系列外观出炉",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%A4%96%E8%A7%82%E5%87%BA%E7%82%89%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "13时11分"
         }
       ]
     }
