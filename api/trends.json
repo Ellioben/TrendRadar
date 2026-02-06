@@ -1,55 +1,61 @@
 {
-  "generated_at": "2026-02-05T22:45:30.399873+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-02-06T13:17:21.240996+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "欧股股指继续走低，西班牙IBEX35指数日内跌2%。英国富时100指数跌1%。",
-          "url": "https://flash.jin10.com/detail/20260205221843647800",
+          "title": "印度至2月6日央行逆回购利率 3.35%，前值3.35%。",
+          "url": "https://flash.jin10.com/detail/20260206125743771800",
           "source": "金十数据",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "WTI原油日内跌幅达3.0%，报63.18美元/桶。 布伦特原油日内跌幅达3.0%，报67.35美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3050735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "日本拍卖30年期国债，认购倍数为3.64，前次为3.14，过去12个月均值为3.35。",
-          "url": "https://wallstreetcn.com/livenews/3050337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "13时17分"
         },
         {
-          "title": "10年期日本国债收益率下跌1个基点，至2.235%。",
-          "url": "https://flash.jin10.com/detail/20260205114959142800",
-          "source": "金十数据",
+          "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.07%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3051083",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "13时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4080.31点，涨0.11%。 深证成指早盘收报14043.17点，涨0.65%。 创业板指早盘收报3281.45点，涨0.65%。 沪深300早盘收报4668.00点，跌0.05%。 科创50早盘收报1432.61点，涨0.01%。 中证500早盘收报8220.16点，涨0.91%。 中证1000早盘收报8129.57点，涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3051087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "2月6日午间收评：创业板指低开高走涨0.65%，化工、机器人概念股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3051085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -58,62 +64,60 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "B站开年神作:让彩礼先飞",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350223&amp;topic_name=B%E7%AB%99%E5%BC%80%E5%B9%B4%E7%A5%9E%E4%BD%9C%3A%E8%AE%A9%E5%BD%A9%E7%A4%BC%E5%85%88%E9%A3%9E",
-          "source": "贴吧",
+          "title": "女子离婚带娃回娘家父亲支持立门户",
+          "url": "https://www.toutiao.com/trending/7602230068019281926/",
+          "source": "今日头条",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "13时17分"
         },
         {
           "title": "富婆临终离婚,遗产全送外人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350267&amp;topic_name=%E5%AF%8C%E5%A9%86%E4%B8%B4%E7%BB%88%E7%A6%BB%E5%A9%9A%2C%E9%81%97%E4%BA%A7%E5%85%A8%E9%80%81%E5%A4%96%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 22时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4059.91点，跌1.03%。 深证成指早盘收报13900.33点，跌1.81%。 创业板指早盘收报3247.27点，跌1.94%。 沪深300早盘收报4649.60点，跌1.04%。 科创50早盘收报1424.41点，跌2.00%。 中证500早盘收报8105.36点，跌2.33%。 中证1000早盘收报8050.86点，跌1.90%。",
-          "url": "https://wallstreetcn.com/livenews/3050330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "13时17分"
         }
       ]
     },
     {
-      "keyword_group": "大厂",
+      "keyword_group": "欠债 失败",
       "match_count": 1,
       "titles": [
         {
-          "title": "存储芯片荒难解！惠普等PC大厂据称首次考虑中国大陆供应商",
-          "url": "https://www.cls.cn/detail/2281678",
-          "source": "财联社热门",
+          "title": "多家外媒称西方「脱钩中国」企图已彻底失败，这是否意味着西方对华遏制战略全面破产？",
+          "url": "https://www.zhihu.com/question/2002339308376453561",
+          "source": "知乎",
           "ranks": [
-            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "校长与离异女教师恋爱被定为师德不合格，当地将重启调查，目前的处分合理吗？此事的核心争议点是什么？",
+          "url": "https://www.zhihu.com/question/2002488690631467441",
+          "source": "知乎",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 22时45分]"
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -126,30 +130,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350273&amp;topic_name=%E6%93%A6%E8%BE%B9%3FOW%E6%9C%8D%E8%AE%BE%E8%A2%AB%E6%89%B9%E8%BF%87%E5%BA%A6%E6%9A%B4%E9%9C%B2",
           "source": "贴吧",
           "ranks": [
-            9,
-            13
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 22时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "线城市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中部第一城这次要冲击“一线城市”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%83%A8%E7%AC%AC%E4%B8%80%E5%9F%8E%E8%BF%99%E6%AC%A1%E8%A6%81%E5%86%B2%E5%87%BB%E2%80%9C%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 22时45分]"
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     }
