@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T18:32:21.068321+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-02-06T22:41:38.484872+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "印度至2月6日央行逆回购利率 3.35%，前值3.35%。",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "歼-35A携整套作战体系挺进国际市场",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%BC-35A%E6%90%BA%E6%95%B4%E5%A5%97%E4%BD%9C%E6%88%98%E4%BD%93%E7%B3%BB%E6%8C%BA%E8%BF%9B%E5%9B%BD%E9%99%85%E5%B8%82%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "35岁宝妈临盆才知怀孕 生下8斤女儿",
+          "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E5%AE%9D%E5%A6%88%E4%B8%B4%E7%9B%86%E6%89%8D%E7%9F%A5%E6%80%80%E5%AD%95+%E7%94%9F%E4%B8%8B8%E6%96%A4%E5%A5%B3%E5%84%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.07%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
@@ -36,7 +58,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -47,7 +69,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -131,7 +153,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -147,11 +169,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 22时41分]"
         }
       ]
     },
@@ -165,11 +188,46 @@
           "source": "知乎",
           "ranks": [
             3,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 22时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧洲央行向欧盟首脑们发送经济政策清单。 其中包含储蓄、投资联盟、以及数字欧元。 欧洲央行呼吁捍卫（欧元区）单一市场，简化立法（程序）。 呼吁强化核心机构框架。 呼吁在五个关键领域采取集体性的欧盟紧急行动。 呼吁促进创新，保护独立自主。 欧元生态系统准备（根据历史经验）做出贡献。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3051484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大厂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         }
       ]
     }
