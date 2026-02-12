@@ -1,194 +1,100 @@
 {
-  "generated_at": "2026-02-11T22:56:13.729911+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-02-12T13:26:29.587566+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "35",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "一家35口人开大巴春节自驾游",
-          "url": "https://www.toutiao.com/trending/7605524160358137866/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
-        },
-        {
-          "title": "国务院：到2035年全面建成全国统一电力市场体系 市场化交易电量占比稳中有升",
-          "url": "https://www.cls.cn/detail/2287286",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 22时56分]"
-        },
-        {
-          "title": "一家35口人开大巴春节自驾游",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B635%E5%8F%A3%E4%BA%BA%E5%BC%80%E5%A4%A7%E5%B7%B4%E6%98%A5%E8%8A%82%E8%87%AA%E9%A9%BE%E6%B8%B8",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
-        },
-        {
-          "title": "青海一家35口人开大巴春节自驾游",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E4%B8%80%E5%AE%B635%E5%8F%A3%E4%BA%BA%E5%BC%80%E5%A4%A7%E5%B7%B4%E6%98%A5%E8%8A%82%E8%87%AA%E9%A9%BE%E6%B8%B8%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
-        },
-        {
-          "title": "预告：国新办2月12日将就《现代化首都都市圈空间协同规划（2023—2035年）》有关情况举行新闻发布会",
-          "url": "https://wallstreetcn.com/livenews/3053442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "中国财政部在香港发行40亿元人民币2028年到期国债，发行利率1.38%。 中国财政部在香港发行40亿元人民币2029年到期国债，发行利率1.40%。 中国财政部在香港发行30亿元人民币2031年到期国债，发行利率1.57%。 中国财政部在香港发行20亿元人民币2036年到期国债，发行利率1.87%。 中国财政部在香港发行10亿元人民币2056年到期国债，发行利率2.35%。",
-          "url": "https://wallstreetcn.com/livenews/3053423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "上证指数早盘收报4137.55点，涨0.22%。 深证成指早盘收报14200.38点，跌0.07%。 创业板指早盘收报3290.41点，跌0.91%。 沪深300早盘收报4717.41点，跌0.15%。 科创50早盘收报1458.93点，跌0.85%。 中证500早盘收报8361.97点，涨0.67%。 中证1000早盘收报8278.80点，涨0.35%。",
-          "url": "https://wallstreetcn.com/livenews/3053419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        }
-      ]
-    },
     {
       "keyword_group": "失业 创业",
       "match_count": 3,
       "titles": [
         {
-          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度非农下修86.2万！",
+          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度下修86.2万！",
           "url": "https://wallstreetcn.com/articles/3765528",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走低跌超1%，两市成交额不足2万亿，周期股逆势走强",
-          "url": "https://www.cls.cn/detail/2287221",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 22时56分]"
-        },
-        {
-          "title": "2月11日午间收评：创业板指半日跌近1%，玻纤概念股集体大涨",
-          "url": "https://wallstreetcn.com/livenews/3053418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "王宝强称「电影失败是导演的问题，别去找任何理由」，如何看待他的导演理念？",
-          "url": "https://www.zhihu.com/question/1997951146183112114",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
+          "time_info": "13时26分"
         },
         {
-          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
-          "url": "https://www.zhihu.com/question/2004862099634016476",
-          "source": "知乎",
+          "title": "上证指数早盘收报4137.06点，涨0.12%。 深证成指早盘收报14274.93点，涨0.80%。 创业板指早盘收报3323.56点，涨1.18%。 沪深300早盘收报4722.40点，涨0.18%。 科创50早盘收报1463.06点，涨0.55%。 中证500早盘收报8415.21点，涨1.07%。 中证1000早盘收报8317.20点，涨0.94%。",
+          "url": "https://wallstreetcn.com/livenews/3054169",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "2月12日午间收评：创业板指半日涨超1%，算力产业链集体走强",
+          "url": "https://wallstreetcn.com/livenews/3054168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "新婚丧偶,遗方遭逐还彩礼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350474&amp;topic_name=%E6%96%B0%E5%A9%9A%E4%B8%A7%E5%81%B6%2C%E9%81%97%E6%96%B9%E9%81%AD%E9%80%90%E8%BF%98%E5%BD%A9%E7%A4%BC",
-          "source": "贴吧",
+          "title": "A股又现天价离婚案 前妻分走13亿股票",
+          "url": "https://www.toutiao.com/trending/7605792165968481798/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            22,
-            27
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 22时56分]"
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "2025年全国结婚登记676.3万对",
+          "url": "https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0676.3%E4%B8%87%E5%AF%B9%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "A股现天价离婚案 前妻分走13亿股票",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88+%E5%89%8D%E5%A6%BB%E5%88%86%E8%B5%B013%E4%BA%BF%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
     {
-      "keyword_group": "独立",
+      "keyword_group": "欠债 失败",
       "match_count": 1,
       "titles": [
         {
-          "title": "青海一事业编岗位招聘要求「熟悉并能独立抓捕野牦牛」引热议，为啥招聘会出现这种特殊技能要求，合理吗？",
-          "url": "https://www.zhihu.com/question/2004607550855848192",
-          "source": "知乎",
+          "title": "女演员投资失败搬进出租屋",
+          "url": "https://www.toutiao.com/trending/7605565690229522451/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            3
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 22时56分]"
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
@@ -197,34 +103,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "大国小厂｜过年不打烊：“练好内功，对明年订单有信心！”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32574911",
+          "title": "新春走基层｜微纪录片：大国小厂韧性生长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32584333",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            16
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 22时56分]"
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
     {
-      "keyword_group": "赚钱",
+      "keyword_group": "擦边",
       "match_count": 1,
       "titles": [
         {
-          "title": "赚钱容易时你会拼命存钱吗",
-          "url": "https://www.toutiao.com/trending/7605157507811622954/",
-          "source": "今日头条",
+          "title": "拍马屁玩擦边,吐舌脸红太辣眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350586&amp;topic_name=%E6%8B%8D%E9%A9%AC%E5%B1%81%E7%8E%A9%E6%93%A6%E8%BE%B9%2C%E5%90%90%E8%88%8C%E8%84%B8%E7%BA%A2%E5%A4%AA%E8%BE%A3%E7%9C%BC",
+          "source": "贴吧",
           "ranks": [
-            10,
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 18时41分]"
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     }
