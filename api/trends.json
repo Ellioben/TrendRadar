@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-17T13:22:51.159255+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-17T18:38:10.591855+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "35",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291035",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
+        }
+      ]
+    },
     {
       "keyword_group": "失业 创业",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350737&amp;topic_name=%E9%97%BA%E8%9C%9C%E5%88%9B%E4%B8%9A%E5%86%85%E6%96%97%2C7%E4%BA%BA8%E7%BE%A4%E5%90%B5%E7%BF%BB%E5%A4%A9",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 18时38分]"
         }
       ]
     },
@@ -29,11 +47,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350738&amp;topic_name=Steam%E6%93%A6%E8%BE%B9%2C%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E5%8F%98%E5%8F%91%E6%98%A5",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 18时38分]"
         }
       ]
     }
