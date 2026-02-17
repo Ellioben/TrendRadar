@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T18:38:10.591855+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-02-17T22:49:54.001551+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜1935年出生的奶奶，解锁触屏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620559",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
@@ -33,8 +44,25 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 22时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "徐志胜李雪琴王男王广换乘恋爱",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E5%BF%97%E8%83%9C%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%8E%8B%E7%94%B7%E7%8E%8B%E5%B9%BF%E6%8D%A2%E4%B9%98%E6%81%8B%E7%88%B1",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
@@ -51,8 +79,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 22时49分]"
         }
       ]
     }
