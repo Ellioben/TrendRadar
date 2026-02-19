@@ -1,98 +1,39 @@
 {
-  "generated_at": "2026-02-18T22:48:37.668914+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-02-19T13:23:08.982454+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291035",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 22时48分]"
-        },
-        {
-          "title": "35岁徐梦桃夺冠分数超过北京冬奥",
-          "url": "https://www.toutiao.com/trending/7608194986395307566/",
-          "source": "今日头条",
+          "title": "空中客车：继续将2029年A330项目的月产量目标定为5架，并将2028年A350项目的月产量目标定为12架。",
+          "url": "https://flash.jin10.com/detail/20260219130223366800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "13时23分"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "闺蜜创业内斗,7人8群吵翻天",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350737&amp;topic_name=%E9%97%BA%E8%9C%9C%E5%88%9B%E4%B8%9A%E5%86%85%E6%96%97%2C7%E4%BA%BA8%E7%BE%A4%E5%90%B5%E7%BF%BB%E5%A4%A9",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 22时48分]"
-        },
-        {
-          "title": "新西兰联储：随着通胀率降至目标水平，货币政策将“正常化”。 本季度通胀率可能回归1-3%的目标区间。 劳动力市场正在企稳，但失业率仍处于高位。",
-          "url": "https://wallstreetcn.com/livenews/3056189",
+          "title": "澳大利亚1月失业率 4.1%，前值 4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3056545",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俩人谈恋爱四个人烧脑",
-          "url": "https://s.weibo.com/weibo?q=%E4%BF%A9%E4%BA%BA%E8%B0%88%E6%81%8B%E7%88%B1%E5%9B%9B%E4%B8%AA%E4%BA%BA%E7%83%A7%E8%84%91&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "擦边",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Steam擦边,恭喜发财变发春",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350738&amp;topic_name=Steam%E6%93%A6%E8%BE%B9%2C%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E5%8F%98%E5%8F%91%E6%98%A5",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 22时48分]"
+          "time_info": "13时23分"
         }
       ]
     }
