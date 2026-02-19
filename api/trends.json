@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T13:23:08.982454+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-19T18:35:43.678417+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "空中客车：继续将2029年A330项目的月产量目标定为5架，并将2028年A350项目的月产量目标定为12架。",
@@ -14,9 +14,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291035",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     },
@@ -31,7 +42,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
