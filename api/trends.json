@@ -1,191 +1,122 @@
 {
-  "generated_at": "2026-02-25T22:53:15.696073+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-02-26T13:22:09.247067+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 9,
+      "keyword_group": "35",
+      "match_count": 4,
       "titles": [
         {
-          "title": "新娘回应父亲婚礼上退还18.8万彩礼",
-          "url": "https://www.toutiao.com/trending/7610361968721494079/",
-          "source": "今日头条",
+          "title": "美代表声称计划维持35%至50%对华关税",
+          "url": "https://news.ifeng.com/c/8r3Eo8JMEW1",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "中国音乐家在纽约路边换胎时被撞身亡，年仅35岁(图)",
+          "url": "https://news.ifeng.com/c/8r3X0KSg57m",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "丰田：1月份母公司全球汽车产量同比下降6.0%，至735,097辆。1月份日本本土仅面向本国市场的汽车产量同比下降6.1%，至249,827辆。",
+          "url": "https://flash.jin10.com/detail/20260226123035777800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "13时22分"
         },
         {
-          "title": "新娘回应父亲婚礼上退还18.8万彩礼",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%94%E7%88%B6%E4%BA%B2%E5%A9%9A%E7%A4%BC%E4%B8%8A%E9%80%80%E8%BF%9818.8%E4%B8%87%E5%BD%A9%E7%A4%BC",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 18时42分]"
-        },
-        {
-          "title": "人民日报聚焦：治理农村高额彩礼、推进移风易俗成效明显",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32651578",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 22时53分]"
-        },
-        {
-          "title": "新郎说岳父退18.8万彩礼没提前彩排",
-          "url": "https://www.toutiao.com/trending/7610318993089498660/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时52分 ~ 22时53分]"
-        },
-        {
-          "title": "情侣结婚变兄弟,新娘被冲烂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350931&amp;topic_name=%E6%83%85%E4%BE%A3%E7%BB%93%E5%A9%9A%E5%8F%98%E5%85%84%E5%BC%9F%2C%E6%96%B0%E5%A8%98%E8%A2%AB%E5%86%B2%E7%83%82",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "墨宝非宝宣布离婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E5%AE%9D%E9%9D%9E%E5%AE%9D%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时52分 ~ 22时53分]"
-        },
-        {
-          "title": "女儿出嫁父亲退回彩礼送上两沓现金",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%87%BA%E5%AB%81%E7%88%B6%E4%BA%B2%E9%80%80%E5%9B%9E%E5%BD%A9%E7%A4%BC%E9%80%81%E4%B8%8A%E4%B8%A4%E6%B2%93%E7%8E%B0%E9%87%91%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "获退的18万彩礼已所剩无几",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8E%B7%E9%80%80%E7%9A%8418%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%B7%B2%E6%89%80%E5%89%A9%E6%97%A0%E5%87%A0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "新娘说退18万彩礼是心疼丈夫的不易",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E8%AF%B4%E9%80%8018%E4%B8%87%E5%BD%A9%E7%A4%BC%E6%98%AF%E5%BF%83%E7%96%BC%E4%B8%88%E5%A4%AB%E7%9A%84%E4%B8%8D%E6%98%93%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "新疆发行10年期其他专项地方债，规模35.0000亿元，发行利率1.9700%，边际倍数17.50倍，倍数预期2.00。",
+          "url": "https://wallstreetcn.com/livenews/3059240",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "13时22分"
         }
       ]
     },
     {
-      "keyword_group": "35",
+      "keyword_group": "彩礼 结婚 离婚",
       "match_count": 3,
       "titles": [
         {
-          "title": "美股开盘，道指涨0.35%、标普500指数涨0.43%、纳指涨0.67%，英伟达(NVDA.O)开涨1%，公司将于盘后公布四季度财报，甲骨文涨2.5%，此前奥本海默将其评级上调至“跑赢大盘”。",
-          "url": "https://flash.jin10.com/detail/20260225223043019800",
-          "source": "金十数据",
+          "title": "老丈人婚礼现场退还18.8万元彩礼，媒体：移风易俗需要更多这样的共识",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655972",
+          "source": "澎湃新闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "标普500指数高开25.08点，涨幅0.36%，报6915.15点； 道琼斯工业平均指数高开183.13点，涨幅0.37%，报49357.63点； 纳斯达克综合指数高开141.33点，涨幅0.62%，报23005.01点。",
-          "url": "https://wallstreetcn.com/livenews/3058926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "崔东树：2026年1月末全国乘用车库存357万辆 库存支撑70天",
-          "url": "https://wallstreetcn.com/livenews/3058600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "彩礼究竟归女方父母还是女方自己",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%A9%E7%A4%BC%E7%A9%B6%E7%AB%9F%E5%BD%92%E5%A5%B3%E6%96%B9%E7%88%B6%E6%AF%8D%E8%BF%98%E6%98%AF%E5%A5%B3%E6%96%B9%E8%87%AA%E5%B7%B1",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "周杰伦结婚田馥甄有了讽刺的情书",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%BB%93%E5%A9%9A%E7%94%B0%E9%A6%A5%E7%94%84%E6%9C%89%E4%BA%86%E8%AE%BD%E5%88%BA%E7%9A%84%E6%83%85%E4%B9%A6%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
-          "url": "https://wallstreetcn.com/articles/3766046",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "AI抢饭碗，美联储也没招？理事库克警告：传统降息恐难应对失业潮",
-          "url": "https://www.cls.cn/detail/2294054",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "城堡证券反驳Citrini报告 认为人工智能不太可能引发大规模失业",
-          "url": "https://wallstreetcn.com/livenews/3058897",
+          "title": "上证指数早盘收报4144.08点，跌0.08%。 深证成指早盘收报14516.11点，涨0.28%。 创业板指早盘收报3341.74点，跌0.39%。 沪深300早盘收报4727.71点，跌0.17%。 科创50早盘收报1474.99点，涨0.12%。 中证500早盘收报8561.84点，涨0.40%。 中证1000早盘收报8482.29点，涨0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3059246",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时53分"
+          "time_info": "13时22分"
+        },
+        {
+          "title": "2月26日午间收评：创业板指探底回升跌0.39%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3059245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     },
@@ -195,66 +126,31 @@
       "titles": [
         {
           "title": "“中年人的一代神车”直降10万元",
-          "url": "https://www.toutiao.com/trending/7610614061584465939/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%B9%B4%E4%BA%BA%E7%9A%84%E4%B8%80%E4%BB%A3%E7%A5%9E%E8%BD%A6%E2%80%9D%E7%9B%B4%E9%99%8D10%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            5
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 22时53分]"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         }
       ]
     },
     {
-      "keyword_group": "欠债 失败",
+      "keyword_group": "生娃 丁克 恋爱 单身",
       "match_count": 1,
       "titles": [
         {
-          "title": "渣女在身边,表姐欠债闹离婚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350943&amp;topic_name=%E6%B8%A3%E5%A5%B3%E5%9C%A8%E8%BA%AB%E8%BE%B9%2C%E8%A1%A8%E5%A7%90%E6%AC%A0%E5%80%BA%E9%97%B9%E7%A6%BB%E5%A9%9A",
-          "source": "贴吧",
+          "title": "运动和恋爱都会刺激多巴胺分泌，为何社会普遍认为坚持运动等于自律，而恋爱脑是容易失控的表现？",
+          "url": "https://www.zhihu.com/question/2008961111228182735",
+          "source": "知乎",
           "ranks": [
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Mac MacBook 苹果笔记本",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油轮运价创近六年新高 触控屏MacBook今秋亮相 | 环球市场",
-          "url": "https://www.cls.cn/detail/2294178",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "iPhone可添加门禁卡可写入加密",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E5%8F%AF%E6%B7%BB%E5%8A%A0%E9%97%A8%E7%A6%81%E5%8D%A1%E5%8F%AF%E5%86%99%E5%85%A5%E5%8A%A0%E5%AF%86&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时52分 ~ 22时53分]"
+          "time_info": "[13时21分 ~ 13时22分]"
         }
       ]
     },
@@ -267,29 +163,11 @@
           "url": "https://www.zhihu.com/question/2009427191889408931",
           "source": "知乎",
           "ranks": [
-            4
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时52分 ~ 22时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "线城市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海打响2026年一线城市松绑限购第一枪 楼市“量升价稳”可期",
-          "url": "https://www.cls.cn/detail/2294781",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 22时53分]"
+          "time_info": "[13时21分 ~ 13时22分]"
         }
       ]
     }
