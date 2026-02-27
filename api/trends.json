@@ -1,261 +1,133 @@
 {
-  "generated_at": "2026-02-26T22:50:52.341756+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-02-27T13:16:30.972114+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "35",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美代表声称计划维持35%至50%对华关税",
-          "url": "https://news.ifeng.com/c/8r3Eo8JMEW1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
-        },
-        {
-          "title": "中国音乐家在纽约路边换胎时被撞身亡，年仅35岁(图)",
-          "url": "https://news.ifeng.com/c/8r3X0KSg57m",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 18时38分]"
-        },
-        {
-          "title": "三亚毁约民宿被罚35万吊销营业执照",
-          "url": "https://www.toutiao.com/trending/7610009580663947274/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
-        },
-        {
-          "title": "丰田：1月份母公司全球汽车产量同比下降6.0%，至735,097辆。1月份日本本土仅面向本国市场的汽车产量同比下降6.1%，至249,827辆。",
-          "url": "https://flash.jin10.com/detail/20260226123035777800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "三亚毁约民宿被罚35万吊销营业执照",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%AF%81%E7%BA%A6%E6%B0%91%E5%AE%BF%E8%A2%AB%E7%BD%9A35%E4%B8%87%E5%90%8A%E9%94%80%E8%90%A5%E4%B8%9A%E6%89%A7%E7%85%A7",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "新疆发行10年期其他专项地方债，规模35.0000亿元，发行利率1.9700%，边际倍数17.50倍，倍数预期2.00。",
-          "url": "https://wallstreetcn.com/livenews/3059240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
+      "keyword_group": "彩礼 结婚 离婚",
       "match_count": 5,
       "titles": [
         {
-          "title": "上证指数早盘收报4144.08点，跌0.08%。 深证成指早盘收报14516.11点，涨0.28%。 创业板指早盘收报3341.74点，跌0.39%。 沪深300早盘收报4727.71点，跌0.17%。 科创50早盘收报1474.99点，涨0.12%。 中证500早盘收报8561.84点，涨0.40%。 中证1000早盘收报8482.29点，涨0.66%。",
-          "url": "https://wallstreetcn.com/livenews/3059246",
-          "source": "华尔街见闻-快讯",
+          "title": "父亲退还18.8万彩礼新娘发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E9%80%80%E8%BF%9818.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E6%96%B0%E5%A8%98%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "美国2月14日当周续请失业救济人数 183.3万人，预期 185.8万人，前值 186.9万人。",
-          "url": "https://wallstreetcn.com/livenews/3059606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "2月26日午间收评：创业板指探底回升跌0.39%，算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3059245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "美国2月21日当周首次申请失业救济人数 21.2万人，预期 21.6万人，前值 20.6万人。",
-          "url": "https://wallstreetcn.com/livenews/3059605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "提醒：北京时间21:30，将公布美国2月21日当周首次申请失业救济人数、加拿大四季度经常帐。",
-          "url": "https://wallstreetcn.com/livenews/3059600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "老丈人婚礼现场退还18.8万元彩礼，媒体：移风易俗需要更多这样的共识",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655972",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
-          "title": "彩礼究竟归女方父母还是女方自己",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%A9%E7%A4%BC%E7%A9%B6%E7%AB%9F%E5%BD%92%E5%A5%B3%E6%96%B9%E7%88%B6%E6%AF%8D%E8%BF%98%E6%98%AF%E5%A5%B3%E6%96%B9%E8%87%AA%E5%B7%B1",
-          "source": "百度热搜",
+          "title": "有样学样,男娘结婚要彩礼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351065&amp;topic_name=%E6%9C%89%E6%A0%B7%E5%AD%A6%E6%A0%B7%2C%E7%94%B7%E5%A8%98%E7%BB%93%E5%A9%9A%E8%A6%81%E5%BD%A9%E7%A4%BC",
+          "source": "贴吧",
           "ranks": [
-            17,
-            4,
-            16
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "复婚要彩礼,前夫哥秒拒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351048&amp;topic_name=%E5%A4%8D%E5%A9%9A%E8%A6%81%E5%BD%A9%E7%A4%BC%2C%E5%89%8D%E5%A4%AB%E5%93%A5%E7%A7%92%E6%8B%92",
           "source": "贴吧",
           "ranks": [
-            2
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "13时16分"
         },
         {
-          "title": "周杰伦结婚田馥甄有了讽刺的情书",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%BB%93%E5%A9%9A%E7%94%B0%E9%A6%A5%E7%94%84%E6%9C%89%E4%BA%86%E8%AE%BD%E5%88%BA%E7%9A%84%E6%83%85%E4%B9%A6%23&t=31&band_rank=22&Refer=top",
+          "title": "30万娶亲后同房遭拒 男子欲离婚被驳",
+          "url": "https://www.toutiao.com/trending/7611320979465748499/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "退彩礼父亲说若儿媳妇要彩礼照样给",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%80%80%E5%BD%A9%E7%A4%BC%E7%88%B6%E4%BA%B2%E8%AF%B4%E8%8B%A5%E5%84%BF%E5%AA%B3%E5%A6%87%E8%A6%81%E5%BD%A9%E7%A4%BC%E7%85%A7%E6%A0%B7%E7%BB%99%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英镑兑美元GBP/USD向上触及1.35，日内涨0.14%。",
+          "url": "https://flash.jin10.com/detail/20260227123812264800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "官方辟谣5点35背书23点20放学作息表",
+          "url": "https://www.toutiao.com/trending/7610816669830430762/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "隔夜SHIBOR报1.3580%，下降1.00个基点。 7天SHIBOR报1.4740%，上涨1.70个基点。 3个月SHIBOR报1.5690%，下降0.58个基点。",
+          "url": "https://wallstreetcn.com/livenews/3059957",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     },
     {
-      "keyword_group": "中年",
-      "match_count": 1,
+      "keyword_group": "失业 创业",
+      "match_count": 2,
       "titles": [
         {
-          "title": "“中年人的一代神车”直降10万元",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%B9%B4%E4%BA%BA%E7%9A%84%E4%B8%80%E4%BB%A3%E7%A5%9E%E8%BD%A6%E2%80%9D%E7%9B%B4%E9%99%8D10%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日机构报告H3火箭发射失败可能的原因",
-          "url": "https://wallstreetcn.com/livenews/3059487",
+          "title": "上证指数早盘收报4139.53点，跌0.17%。 深证成指早盘收报14405.75点，跌0.68%。 创业板指早盘收报3296.23点，跌1.46%。 沪深300早盘收报4693.19点，跌0.71%。 科创50早盘收报1476.05点，跌0.66%。 中证500早盘收报8573.46点，涨0.19%。 中证1000早盘收报8501.54点，涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3059971",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
+          "time_info": "13时16分"
+        },
         {
-          "title": "运动和恋爱都会刺激多巴胺分泌，为何社会普遍认为坚持运动等于自律，而恋爱脑是容易失控的表现？",
-          "url": "https://www.zhihu.com/question/2008961111228182735",
-          "source": "知乎",
+          "title": "2月27日午间收评：创业板指半日跌1.46%，算力租赁、有色板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3059969",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开发者",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
-          "url": "https://www.cls.cn/detail/2296230",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "13时16分"
         }
       ]
     },
@@ -264,16 +136,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "腾讯天美蒙特利尔工作室被曝 5 年 0 作品解散，明明是大厂都很精明，为何当初想投资这种摸鱼的老外工作室?",
-          "url": "https://www.zhihu.com/question/2009427191889408931",
-          "source": "知乎",
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            18
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 18时38分]"
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     }
