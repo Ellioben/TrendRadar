@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T18:17:22.576428+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-03-01T22:27:28.477755+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         }
@@ -65,11 +65,29 @@
           "source": "贴吧",
           "ranks": [
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 22时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开发者",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "终末地开发者日志发布",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BC%80%E5%8F%91%E8%80%85%E6%97%A5%E5%BF%97%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
@@ -84,9 +102,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 22时27分]"
         }
       ]
     }
