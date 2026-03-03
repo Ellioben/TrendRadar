@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:32:28.011954+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-03-03T22:45:44.935850+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "iPhone 17e浅粉色",
+          "url": "https://www.douyin.com/hot/2417229",
+          "source": "抖音",
+          "ranks": [
+            23,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 22时45分]"
+        },
+        {
           "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
           "url": "https://wallstreetcn.com/articles/3766555",
           "source": "华尔街见闻",
           "ranks": [
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 18时32分]"
-        },
-        {
-          "title": "iPhone 17e浅粉色",
-          "url": "https://www.douyin.com/hot/2417229",
-          "source": "抖音",
-          "ranks": [
-            23,
-            15
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -80,8 +81,19 @@
     },
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "A股35股股价不足2元",
+          "url": "https://www.toutiao.com/trending/7611840460751159350/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
         {
           "title": "西班牙IBEX35指数日内大跌4.00%，现报17160.12点。英国富时100指数跌破10500点，日内跌2.60%。",
           "url": "https://flash.jin10.com/detail/20260303180733104800",
@@ -89,9 +101,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "壳牌巴西首席执行官表示，壳牌承诺向巴西能源公司Raízen投资35亿巴西雷亚尔。",
+          "url": "https://wallstreetcn.com/livenews/3062813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "广东发行10年期一般债地方债，规模47.9200亿元，发行利率1.9500%，边际倍数1.10倍，倍数预期1.93； 广东发行10年期其他专项地方债，规模79.7978亿元，发行利率1.9700%，边际倍数1.88倍，倍数预期1.96； 广东发行15年期其他专项地方债，规模68.9234亿元，发行利率2.3000%，边际倍数2.49倍，倍数预期2.29； 广东发行20年期其他专项地方债，规模159.1164亿元，发行利率2.4600%，边际倍数12.32倍，倍数预期2.45； 广东发行30年期其他专项地方债，规模149.8735亿元，发行利率2.4800%，边际倍数1.87倍，倍数预期2.47； 广东发行30年期其他专项地方债，规模144.4319亿元，发行利率2.4800%，边际倍数1.70倍，倍数预期2.47； 广东发行30年期其他专项地方债，规模41.4000亿元，发行利率2.4800%，边际倍数1.20倍，倍数预期2.47； 广东发行10年期一般债地方债，规模124.9681亿元，发行利率1.9600%，边际倍数3.39倍，倍数预期1.92； 广东发行15年期普通专项地方债，规模103.4028亿元，发行利率2.3000%，边际倍数2.85倍，倍数预期2.28。",
@@ -115,11 +138,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351287&amp;topic_name=%E5%90%A7%E5%8F%8B%E7%A5%9E%E6%93%8D%E4%BD%9C%2C%E7%A6%BB%E5%A9%9A%E4%BB%85%E5%88%86%E4%B8%89%E6%88%90%E5%AE%B6%E4%BA%A7",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 22时45分]"
         },
         {
           "title": "人大代表关注农村大龄青年结婚难",
@@ -131,6 +155,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Mac MacBook 苹果笔记本",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
+          "url": "https://wallstreetcn.com/livenews/3062834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "苹果M5系列芯片重磅登场 新款MacBook Pro算力实现跨代飞跃",
+          "url": "https://flash.jin10.com/detail/20260303221046108800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -190,7 +242,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -205,11 +257,12 @@
           "url": "https://www.zhihu.com/question/2012101480908358204",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 22时45分]"
         }
       ]
     }
