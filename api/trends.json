@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:14:10.499560+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-05T18:31:41.477439+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 18时31分]"
         },
         {
           "title": "MacBook Neo上手体验",
           "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 18时31分]"
         },
         {
           "title": "MacBook Neo首发体验",
@@ -51,11 +52,12 @@
           "url": "https://search.bilibili.com/all?keyword=iPhone17e%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 18时31分]"
         },
         {
           "title": "iPhone 17e上手体验",
@@ -78,6 +80,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 13时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "京东集团第四季度净营收3,522.8亿元人民币，同比增长1.5%，市场预估3,498.9亿元人民币。 第四季度净营收3,522.8亿元人民币，同比增长1.5%，市场预估3,498.9亿元人民币。 第四季度执行费用242.9亿元人民币，同比增长21%，市场预估235.5亿元人民币。 第四季度调整后运营利润率-0.9％，上年同期3％。 第四季度调整后EBITDA亏损 8.23亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3064419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "京东(09618.HK)2025年Q4营收3523亿元，上年同期3470亿元。",
+          "url": "https://flash.jin10.com/detail/20260305180226348800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恋爱脑冲昏头,竟信萝莉送公司",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351425&amp;topic_name=%E6%81%8B%E7%88%B1%E8%84%91%E5%86%B2%E6%98%8F%E5%A4%B4%2C%E7%AB%9F%E4%BF%A1%E8%90%9D%E8%8E%89%E9%80%81%E5%85%AC%E5%8F%B8",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     }
