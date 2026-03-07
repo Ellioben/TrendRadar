@@ -1,153 +1,72 @@
 {
-  "generated_at": "2026-03-06T22:39:39.567634+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-03-07T13:01:57.022471+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
-          "url": "https://www.cls.cn/detail/2304910",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
-        },
         {
           "title": "爆冷！美国2月非农就业人口减少9.2万，前两月就业下修6.9万，失业率意外升至4.4%",
           "url": "https://wallstreetcn.com/articles/3766920",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "13时01分"
         },
         {
-          "title": "上证指数早盘收报4118.68点，涨0.25%。 深证成指早盘收报14201.73点，涨0.80%。 创业板指早盘收报3244.32点，涨0.85%。 沪深300早盘收报4656.81点，涨0.20%。 科创50早盘收报1415.90点，涨0.75%。 中证500早盘收报8390.78点，涨0.98%。 中证1000早盘收报8270.91点，涨1.22%。",
-          "url": "https://wallstreetcn.com/livenews/3064846",
+          "title": "沙雁：做好创业板改革的准备工作",
+          "url": "https://wallstreetcn.com/livenews/3065601",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "13时01分"
         },
         {
-          "title": "美国2月失业率 4.4%，预期 4.3%，前值 4.3%。",
-          "url": "https://wallstreetcn.com/livenews/3065291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "3月6日午间收评：创业板指低开高走涨0.85%，电网设备、燃气轮机概念集体走强",
-          "url": "https://wallstreetcn.com/livenews/3064845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【美国2月非农就业报告公布后，美国10年期国债收益率短线下挫，现货黄金短线拉升】美元指数短线走低约20点，现报99.1。美股期货短线走低，纳斯达克100指数期货跌近1%。美国10年期国债收益率短线下挫，现报4.164%。现货黄金短线拉升约40美元，现报5118.35美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3065293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外长喊话特朗普：美军“速战速决A计划已失败”",
-          "url": "https://wallstreetcn.com/livenews/3064866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "方燕代表建议：在家暴情形下协议离婚不适用“冷静期”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32705383",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恋爱脑冲昏头,竟信萝莉送公司",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351425&amp;topic_name=%E6%81%8B%E7%88%B1%E8%84%91%E5%86%B2%E6%98%8F%E5%A4%B4%2C%E7%AB%9F%E4%BF%A1%E8%90%9D%E8%8E%89%E9%80%81%E5%85%AC%E5%8F%B8",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 18时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大厂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "京东 5000 ㎡ 幼儿园试运营，首招 50 名幼儿，试水背后是一笔怎样的经济账？会有其他大厂跟进吗？",
-          "url": "https://www.zhihu.com/question/2012969716184998816",
+          "title": "美国 2 月非农向下大超预期，失业率再次增长，美元 / 金银走势负相关，宏观数据矛盾突出，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2013370440400274363",
           "source": "知乎",
           "ranks": [
-            5,
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 22时39分]"
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "经济主题记者会｜吴清问答十要点：谈创业板改革、中国资产吸引力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32714219",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI眼镜助失明姑娘独立出行",
+          "url": "https://www.toutiao.com/trending/7614054710404317238/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     }
