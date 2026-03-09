@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T13:21:20.717978+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-09T18:37:51.163403+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "治理高额彩礼写进最高法报告",
@@ -23,28 +23,63 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32731548",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 18时37分]"
         },
         {
           "title": "身价不敌彩礼,租借女友洗白",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351491&amp;topic_name=%E8%BA%AB%E4%BB%B7%E4%B8%8D%E6%95%8C%E5%BD%A9%E7%A4%BC%2C%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E6%B4%97%E7%99%BD",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 18时37分]"
+        },
+        {
+          "title": "张凯丽：别把高额彩礼问题归咎于女性",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%87%AF%E4%B8%BD%EF%BC%9A%E5%88%AB%E6%8A%8A%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC%E9%97%AE%E9%A2%98%E5%BD%92%E5%92%8E%E4%BA%8E%E5%A5%B3%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "18时37分"
+        },
+        {
+          "title": "最高法：持续推动治理高额彩礼",
+          "url": "https://www.douyin.com/hot/2423844",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "张凯丽说天价彩礼不应归咎于女性",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E4%B8%BD%E8%AF%B4%E5%A4%A9%E4%BB%B7%E5%BD%A9%E7%A4%BC%E4%B8%8D%E5%BA%94%E5%BD%92%E5%92%8E%E4%BA%8E%E5%A5%B3%E6%80%A7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     },
     {
       "keyword_group": "中年",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么中年男人去哪都要开车",
@@ -56,6 +91,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "为什么中年男人去哪都要开车",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E5%8E%BB%E5%93%AA%E9%83%BD%E8%A6%81%E5%BC%80%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "夫妻一方失业后，个税专项附加扣除额度无法使用，家庭负担加重，以家庭为单位综合计税有可能实行吗？",
+          "url": "https://www.zhihu.com/question/2012519397105885989",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     },
@@ -77,6 +140,23 @@
       ]
     },
     {
+      "keyword_group": "Mac MacBook 苹果笔记本",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：Powerus表示，与特朗普有关的美国风险投资公司、Unusual Machines公司和Dominari证券公司均参与了无人机交易。",
+          "url": "https://flash.jin10.com/detail/20260309180718368800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "赚钱",
       "match_count": 1,
       "titles": [
@@ -85,11 +165,12 @@
           "url": "https://www.toutiao.com/trending/7615056400103771674/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 18时37分]"
         }
       ]
     }
