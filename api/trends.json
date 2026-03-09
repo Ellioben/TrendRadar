@@ -1,41 +1,95 @@
 {
-  "generated_at": "2026-03-08T22:28:32.131940+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-03-09T13:21:20.717978+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "35",
-      "match_count": 1,
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 3,
       "titles": [
         {
-          "title": "春运第35天 预计全社会跨区域人员流动量19409万人次",
-          "url": "https://wallstreetcn.com/livenews/3065832",
-          "source": "华尔街见闻-快讯",
+          "title": "治理高额彩礼写进最高法报告",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%BB%E7%90%86%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC%E5%86%99%E8%BF%9B%E6%9C%80%E9%AB%98%E6%B3%95%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
-      "titles": [
+          "time_info": "13时21分"
+        },
+        {
+          "title": "最高法：持续推动治理高额彩礼，严惩以婚嫁为名实施诈骗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32731548",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
         {
           "title": "身价不敌彩礼,租借女友洗白",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351491&amp;topic_name=%E8%BA%AB%E4%BB%B7%E4%B8%8D%E6%95%8C%E5%BD%A9%E7%A4%BC%2C%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E6%B4%97%E7%99%BD",
           "source": "贴吧",
           "ranks": [
-            9,
-            13,
-            14
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时11分 ~ 22时28分]"
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么中年男人去哪都要开车",
+          "url": "https://www.toutiao.com/trending/7615080440767974955/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "IMF总裁格奥尔基耶娃：独立的中央银行、财政职能和政策框架确实有助于经济更快增长。",
+          "url": "https://flash.jin10.com/detail/20260309122705726800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赚钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "第一批靠“养龙虾”赚钱的人出现了",
+          "url": "https://www.toutiao.com/trending/7615056400103771674/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
