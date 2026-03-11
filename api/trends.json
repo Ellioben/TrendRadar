@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-11T13:13:49.869117+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-11T18:32:07.617928+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
+          "url": "https://www.cls.cn/detail/2309697",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
         {
           "title": "上证指数早盘收报4125.32点，涨0.05%。 深证成指早盘收报14476.03点，涨0.85%。 创业板指早盘收报3363.77点，涨1.74%。 沪深300早盘收报4698.45点，涨0.51%。 科创50早盘收报1412.57点，跌0.56%。 中证500早盘收报8411.03点，涨0.01%。 中证1000早盘收报8371.24点，涨0.25%。",
           "url": "https://wallstreetcn.com/livenews/3067749",
@@ -28,6 +39,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "MacBook Neo 还没开卖就从 4599 跌到 3599 元，还没上市就「破发」一千块是为什么？",
+          "url": "https://www.zhihu.com/question/2014625718974247455",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Mac MacBook 苹果笔记本",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Business Insider：特斯拉加码类AI智能体项目，XAI的Macrohard项目陷入停滞。",
+          "url": "https://flash.jin10.com/detail/20260311180922364800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     },
