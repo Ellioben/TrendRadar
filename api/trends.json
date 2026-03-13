@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T18:28:09.092180+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-03-13T22:44:00.296651+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "印度卢比兑美元跌破92.3575，触及纪录新低。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "美国中央司令部：美军KC-135空中加油机坠毁事故中全部6名机组人员确认遇难。",
+          "url": "https://flash.jin10.com/detail/20260313221949528800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "上证指数早盘收报4120.14点，跌0.22%。 深证成指早盘收报14350.01点，跌0.17%。 创业板指早盘收报3316.55点，跌0.03%。 沪深300早盘收报4686.51点，跌0.02%。 科创50早盘收报1380.35点，跌0.24%。 中证500早盘收报8306.23点，跌0.64%。 中证1000早盘收报8293.89点，跌0.50%。",
