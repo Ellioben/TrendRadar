@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-21T18:18:58.633106+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-03-21T22:31:51.234765+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
       "match_count": 6,
       "titles": [
+        {
+          "title": "宇树科技IPO获受理，美团为第二大股东，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻",
+          "url": "https://wallstreetcn.com/articles/3768005",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 22时31分]"
+        },
         {
           "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
           "url": "https://www.zhihu.com/question/2018323748374143404",
@@ -30,24 +42,13 @@
           "time_info": "[13时07分 ~ 13时08分]"
         },
         {
-          "title": "宇树科技IPO获受理，美团为第二大股东，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻",
-          "url": "https://wallstreetcn.com/articles/3768005",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "伊朗如何击中美军F-35战机？专家：摸清规律在重点区域进行伏击",
           "url": "https://flash.jin10.com/detail/20260321170011542800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -69,7 +70,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -114,9 +115,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Mac MacBook 苹果笔记本",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么 Mac 总感觉和 iPhone 不是一个时代的产物？",
+          "url": "https://www.zhihu.com/question/1943115723066029047",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 22时31分]"
         }
       ]
     },
@@ -130,11 +148,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时07分 ~ 22时31分]"
         }
       ]
     }
