@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T18:45:30.581665+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-03-23T22:58:09.025837+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 18时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 22时58分]"
         },
         {
           "title": "上证综指日内跌幅扩大至3%，深证成指现跌2.8%，创业板指跌2.47%。",
@@ -84,6 +84,35 @@
       ]
     },
     {
+      "keyword_group": "大厂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "春招手握两个 offer 却夜不能寐，是去大厂「镀金」边缘化，还是赌一把小公司核心岗？",
+          "url": "https://www.zhihu.com/question/2015352300042998883",
+          "source": "知乎",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 18时45分]"
+        },
+        {
+          "title": "H200停产,三大厂停止采购",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352231&amp;topic_name=H200%E5%81%9C%E4%BA%A7%2C%E4%B8%89%E5%A4%A7%E5%8E%82%E5%81%9C%E6%AD%A2%E9%87%87%E8%B4%AD",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "35",
       "match_count": 1,
       "titles": [
@@ -94,7 +123,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         }
@@ -131,24 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大厂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "春招手握两个 offer 却夜不能寐，是去大厂「镀金」边缘化，还是赌一把小公司核心岗？",
-          "url": "https://www.zhihu.com/question/2015352300042998883",
-          "source": "知乎",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 18时45分]"
         }
       ]
     }
