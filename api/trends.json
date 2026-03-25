@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-25T13:24:47.262487+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-25T18:40:51.983949+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "击毁F-35A，再看伊朗防空作战能力，其实还凑合？",
+          "url": "https://news.ifeng.com/c/8rmfQorUqLB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
         {
           "title": "如何评价《电锯人》漫画 232 话（即第二部第 135 话，第二部的最终回）？",
           "url": "https://www.zhihu.com/question/2019928203930673229",
@@ -39,12 +50,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "工信部：截至2月末5G移动电话用户达12.35亿户 比上年末净增3044万户",
+          "url": "https://wallstreetcn.com/livenews/3076572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     },
     {
       "keyword_group": "欠债 失败",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗喊话美国：别把失败说成协议",
@@ -62,11 +84,12 @@
           "url": "https://www.toutiao.com/trending/7620849647006826546/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时40分]"
         },
         {
           "title": "伊朗军方强硬喊话美国 “别把你们的失败称为协议”",
@@ -78,6 +101,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "伊朗喊话特朗普：美国已“战略失败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据说这里可以跟龙虾结婚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352296&amp;topic_name=%E6%8D%AE%E8%AF%B4%E8%BF%99%E9%87%8C%E5%8F%AF%E4%BB%A5%E8%B7%9F%E9%BE%99%E8%99%BE%E7%BB%93%E5%A9%9A",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时40分]"
+        },
+        {
+          "title": "分手退16万彩礼男方嫌少再要16.7万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B%E9%80%8016%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E6%96%B9%E5%AB%8C%E5%B0%91%E5%86%8D%E8%A6%8116.7%E4%B8%87%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     },
@@ -90,11 +153,12 @@
           "url": "https://www.toutiao.com/trending/7620917583546056713/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时40分]"
         }
       ]
     },
@@ -116,23 +180,6 @@
       ]
     },
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据说这里可以跟龙虾结婚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352296&amp;topic_name=%E6%8D%AE%E8%AF%B4%E8%BF%99%E9%87%8C%E5%8F%AF%E4%BB%A5%E8%B7%9F%E9%BE%99%E8%99%BE%E7%BB%93%E5%A9%9A",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "独立",
       "match_count": 1,
       "titles": [
@@ -146,6 +193,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "3个旧手机能换一台iPhone",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%B8%AA%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8D%A2%E4%B8%80%E5%8F%B0iPhone%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     },
