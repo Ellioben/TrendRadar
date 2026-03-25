@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T18:40:51.983949+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-03-25T23:02:45.842282+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8rmfQorUqLB",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 23时02分]"
         },
         {
           "title": "如何评价《电锯人》漫画 232 话（即第二部第 135 话，第二部的最终回）？",
@@ -58,7 +59,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
@@ -85,11 +86,23 @@
           "source": "今日头条",
           "ranks": [
             12,
-            11
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 23时02分]"
+        },
+        {
+          "title": "伊朗喊话特朗普：美国已“战略失败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 18时40分]"
+          "time_info": "[18时40分 ~ 23时02分]"
         },
         {
           "title": "伊朗军方强硬喊话美国 “别把你们的失败称为协议”",
@@ -101,17 +114,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "伊朗喊话特朗普：美国已“战略失败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
+          "title": "【焦点复盘】创业板指高开高走涨逾2%，全市场近4900股飘红，算电协同概念获持续热捧",
+          "url": "https://www.cls.cn/detail/2324440",
+          "source": "财联社热门",
           "ranks": [
-            29
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "23时02分"
+        },
+        {
+          "title": "上证指数早盘收报3915.49点，涨0.88%。 深证成指早盘收报13721.49点，涨1.37%。 创业板指早盘收报3292.55点，涨1.26%。 沪深300早盘收报4518.19点，涨0.97%。 科创50早盘收报1304.67点，涨1.08%。 中证500早盘收报7727.29点，涨1.71%。 中证1000早盘收报7708.94点，涨1.42%。",
+          "url": "https://wallstreetcn.com/livenews/3076381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
@@ -125,11 +155,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 23时02分]"
         },
         {
           "title": "分手退16万彩礼男方嫌少再要16.7万",
@@ -138,7 +169,35 @@
           "ranks": [
             14
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "3部旧手机换一台iPhone？回收商回应",
+          "url": "https://www.toutiao.com/trending/7621160952150527526/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "3个旧手机能换一台iPhone",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%B8%AA%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8D%A2%E4%B8%80%E5%8F%B0iPhone%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
@@ -163,23 +222,6 @@
       ]
     },
     {
-      "keyword_group": "失业 创业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3915.49点，涨0.88%。 深证成指早盘收报13721.49点，涨1.37%。 创业板指早盘收报3292.55点，涨1.26%。 沪深300早盘收报4518.19点，涨0.97%。 科创50早盘收报1304.67点，涨1.08%。 中证500早盘收报7727.29点，涨1.71%。 中证1000早盘收报7708.94点，涨1.42%。",
-          "url": "https://wallstreetcn.com/livenews/3076381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "独立",
       "match_count": 1,
       "titles": [
@@ -197,19 +239,19 @@
       ]
     },
     {
-      "keyword_group": "Apple iPhone",
+      "keyword_group": "大厂",
       "match_count": 1,
       "titles": [
         {
-          "title": "3个旧手机能换一台iPhone",
-          "url": "https://s.weibo.com/weibo?q=%233%E4%B8%AA%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8D%A2%E4%B8%80%E5%8F%B0iPhone%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "四巨头齐聚认购！存储大厂敲定170亿增发扩产",
+          "url": "https://www.cls.cn/detail/2324815",
+          "source": "财联社热门",
           "ranks": [
-            9
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "23时02分"
         }
       ]
     },
