@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-03-26T13:42:57.157837+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-26T18:45:03.002615+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "欠债 失败",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "心源性猝死院外抢救99%失败",
           "url": "https://www.baidu.com/s?wd=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E9%99%A2%E5%A4%96%E6%8A%A2%E6%95%9199%25%E5%A4%B1%E8%B4%A5",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 18时45分]"
+        },
+        {
+          "title": "白宫称伊朗若不接受现实将遭更沉重打击，伊朗：美国想谈是承认失败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32833789",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "多款银行理财发行失败",
@@ -44,8 +56,30 @@
     },
     {
       "keyword_group": "35",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "卧床35年女子顺利产下健康宝宝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A7%E5%BA%8A35%E5%B9%B4%E5%A5%B3%E5%AD%90%E9%A1%BA%E5%88%A9%E4%BA%A7%E4%B8%8B%E5%81%A5%E5%BA%B7%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "江苏卧床35年女子诞下健康宝宝",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%A7%E5%BA%8A35%E5%B9%B4%E5%A5%B3%E5%AD%90%E8%AF%9E%E4%B8%8B%E5%81%A5%E5%BA%B7%E5%AE%9D%E5%AE%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
         {
           "title": "美以伊战争丨美国F-35飞行员被曝在对伊作战中受伤",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -56,6 +90,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "iPhone4回收价暴涨80倍",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone4%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%9A%B4%E6%B6%A880%E5%80%8D%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "iPhone 4回收价暴涨80倍",
+          "url": "https://www.baidu.com/s?wd=iPhone+4%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%9A%B4%E6%B6%A880%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         }
       ]
     },
@@ -85,11 +147,12 @@
           "url": "https://www.zhihu.com/question/2018661495609783295",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 18时45分]"
         }
       ]
     },
@@ -102,11 +165,29 @@
           "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E5%85%A8%E9%9D%A2%E8%AF%84%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 18时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "擦边",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待吴柳芳披露退役后财务状况，退役费全给家里买房凑首付，每月「擦边」直播收入仅几千？",
+          "url": "https://www.zhihu.com/question/2020459617558296057",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         }
       ]
     }
