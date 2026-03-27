@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-27T13:44:15.786248+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-27T18:40:11.479791+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "深成指、创业板指午后均涨超1%，开盘一度跌超1%，沪指涨0.51%，锂电、医药医疗、化工、大消费等方向领涨，沪深京三市近3900股飘红。",
+          "url": "https://wallstreetcn.com/livenews/3077936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "深交所调整创业板“高研发投入”认定标准",
+          "url": "https://wallstreetcn.com/livenews/3078138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        }
+      ]
+    },
     {
       "keyword_group": "35",
       "match_count": 1,
@@ -14,24 +42,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "深成指、创业板指午后均涨超1%，开盘一度跌超1%，沪指涨0.51%，锂电、医药医疗、化工、大消费等方向领涨，沪深京三市近3900股飘红。",
-          "url": "https://wallstreetcn.com/livenews/3077936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         }
@@ -65,7 +76,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         }
