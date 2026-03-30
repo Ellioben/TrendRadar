@@ -1,12 +1,73 @@
 {
-  "generated_at": "2026-03-30T14:02:06.742711+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-30T18:56:25.300903+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "35",
-      "match_count": 1,
+      "keyword_group": "失业 创业",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "30岁普通人如何面对失业焦虑",
+          "url": "https://search.bilibili.com/all?keyword=30%E5%B2%81%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E5%A4%B1%E4%B8%9A%E7%84%A6%E8%99%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "如何评价张雪，以及他的创业经历？",
+          "url": "https://www.zhihu.com/question/2021889676689109693",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "张雪谈为何选在重庆创业",
+          "url": "https://www.toutiao.com/trending/7622597440868483135/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "张雪回应为何选在重庆创业",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E9%80%89%E5%9C%A8%E9%87%8D%E5%BA%86%E5%88%9B%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中航沈飞：2025年净利润35.2亿元，同比增长3.65%。",
+          "url": "https://wallstreetcn.com/livenews/3079241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
         {
           "title": "汇丰银行：将爱马仕目标价从2350欧元下调至2300欧元。",
           "url": "https://flash.jin10.com/detail/20260330132904789800",
@@ -14,9 +75,43 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "退18.8万元彩礼一家人现状",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%80%8018.8%E4%B8%87%E5%85%83%E5%BD%A9%E7%A4%BC%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恋爱同居遭暴力致残，法院：共同生活关系适用反家暴法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32861605",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         }
       ]
     },
@@ -29,11 +124,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352471&amp;topic_name=%E7%A4%BE%E5%8C%BA%E5%8A%9B%E9%87%8F%E5%A4%A7%2C%E8%80%81%E5%A4%96%E5%BC%80%E5%8F%91%E8%80%85%E6%9D%A5%E5%8F%96%E7%BB%8F",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 18时56分]"
         }
       ]
     }
