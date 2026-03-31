@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-31T18:46:11.364766+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-03-31T23:05:15.296078+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "【每日收评】创业板指震荡走低跌2.7%，锂电、算力等热门赛道熄火，高铁概念股逆势活跃",
+          "url": "https://www.cls.cn/detail/2330580",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 23时05分]"
+        },
         {
           "title": "张雪妻子讲述其创业故事",
           "url": "https://www.douyin.com/hot/2449707",
@@ -20,21 +32,21 @@
           "time_info": "[13时45分 ~ 18时46分]"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌2.7%，锂电、算力等热门赛道熄火，高铁概念股逆势活跃",
-          "url": "https://www.cls.cn/detail/2330580",
-          "source": "财联社热门",
+          "title": "“美联储传声筒”Nick Timiraos：1月的职位空缺数据被上调，但三个月移动平均值在2月继续缓慢下降。2月每位被统计为失业的工人对应0.9个职位空缺，接近当前经济周期的低点。",
+          "url": "https://flash.jin10.com/detail/20260331221055549800",
+          "source": "金十数据",
           "ranks": [
-            6
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         }
       ]
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "河南平顶山通报“女子去世后被结婚”：涉事人员被处分",
@@ -58,6 +70,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 13时46分]"
+        },
+        {
+          "title": "孙艺珍庆祝与玄彬结婚四周年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%89%BA%E7%8F%8D%E5%BA%86%E7%A5%9D%E4%B8%8E%E7%8E%84%E5%BD%AC%E7%BB%93%E5%A9%9A%E5%9B%9B%E5%91%A8%E5%B9%B4%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         }
       ]
     },
@@ -98,11 +121,12 @@
           "url": "https://www.toutiao.com/trending/7622594721889897990/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 23时05分]"
         },
         {
           "title": "张雪的逆袭是一部奋斗史",
@@ -113,8 +137,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 23时05分]"
         }
       ]
     },
@@ -132,6 +156,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 13时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝雷军押注的中年人泡泡玛特将上市",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%9B%B7%E5%86%9B%E6%8A%BC%E6%B3%A8%E7%9A%84%E4%B8%AD%E5%B9%B4%E4%BA%BA%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%B0%86%E4%B8%8A%E5%B8%82%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         }
       ]
     },
