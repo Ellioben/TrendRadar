@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-01T18:47:58.619637+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-04-01T23:08:32.939077+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "最高下调35个基点！“开门红”结束多家银行调降存款挂牌利率，短期产品成压降重点",
+          "url": "https://www.cls.cn/detail/2332520",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
         {
           "title": "哈萨克斯坦央行：为与黄金购买量相匹配，该行3月份出售了价值3500亿坚戈的外汇，并将在第二季度出售价值1.1万亿坚戈的外汇。",
           "url": "https://flash.jin10.com/detail/20260401183153114800",
@@ -14,9 +25,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
+        },
+        {
+          "title": "美军一架F35战机坠毁",
+          "url": "https://www.douyin.com/hot/2450700",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "美国一架F-35战机坠毁 飞行员受伤",
@@ -33,7 +55,7 @@
     },
     {
       "keyword_group": "中年",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "雷军投的“中年人泡泡玛特”上市了",
@@ -42,16 +64,38 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
+        },
+        {
+          "title": "中年发福的真相不是因为代谢慢",
+          "url": "https://www.toutiao.com/trending/7622921680621994022/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         }
       ]
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "内田有纪柏原崇结婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E7%94%B0%E6%9C%89%E7%BA%AA%E6%9F%8F%E5%8E%9F%E5%B4%87%E7%BB%93%E5%A9%9A%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
         {
           "title": "小伙在结婚前立遗嘱将房产留给父母",
           "url": "https://www.toutiao.com/trending/7622966537016049691/",
@@ -62,6 +106,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时56分 ~ 13时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当同龄人都在谈恋爱",
+          "url": "https://www.douyin.com/hot/2451449",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         }
       ]
     },
