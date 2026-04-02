@@ -1,22 +1,84 @@
 {
-  "generated_at": "2026-04-02T18:44:19.115884+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-04-02T22:58:56.171079+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "失业 创业",
-      "match_count": 3,
+      "keyword_group": "35",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "英国拟联手35国恢复霍尔木兹海峡能源运输",
+          "url": "https://news.ifeng.com/c/8rz2BvqG1xJ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 22时58分]"
+        },
+        {
+          "title": "英国将召集35国讨论重启霍尔木兹海峡的方案 美国竟不在名单中！",
+          "url": "https://www.cls.cn/detail/2333513",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国上周EIA天然气库存增加360亿立方英尺（分析师预计增加352.2亿立方英尺），周环比增长1.97%（之前一周减少2.87%），至1.87万亿立方英尺。",
+          "url": "https://wallstreetcn.com/livenews/3081672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "国泰海通：获证监会同意发行总额不超过350亿元人民币永续次级债券。 获证监会同意发行总额不超150亿元人民币科技创新公司债券。",
+          "url": "https://wallstreetcn.com/livenews/3081525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "两江总督创业赔惨,没钱交学费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352710&amp;topic_name=%E4%B8%A4%E6%B1%9F%E6%80%BB%E7%9D%A3%E5%88%9B%E4%B8%9A%E8%B5%94%E6%83%A8%2C%E6%B2%A1%E9%92%B1%E4%BA%A4%E5%AD%A6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
         {
           "title": "【每日收评】创业板指低开低走跌超2%，全市场超4300股收绿，油气、医药板块逆势活跃",
           "url": "https://www.cls.cn/detail/2333437",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 22时58分]"
         },
         {
           "title": "创业板指跌超2%，深成指跌1.3%，沪指跌0.7%。全市场下跌个股超4300只。",
@@ -43,30 +105,19 @@
       ]
     },
     {
-      "keyword_group": "35",
-      "match_count": 2,
+      "keyword_group": "中年",
+      "match_count": 1,
       "titles": [
         {
-          "title": "英国拟联手35国恢复霍尔木兹海峡能源运输",
-          "url": "https://news.ifeng.com/c/8rz2BvqG1xJ",
-          "source": "凤凰网",
+          "title": "「铜师傅」香港上市大跌，是什么导致了「中年人的潮玩顶流」在资本市场遭遇重挫，散户能从中学到什么？",
+          "url": "https://www.zhihu.com/question/2022781237685757874",
+          "source": "知乎",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 18时44分]"
-        },
-        {
-          "title": "国泰海通：获证监会同意发行总额不超过350亿元人民币永续次级债券。 获证监会同意发行总额不超150亿元人民币科技创新公司债券。",
-          "url": "https://wallstreetcn.com/livenews/3081525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时44分"
+          "time_info": "22时58分"
         }
       ]
     },
@@ -81,9 +132,43 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Mac MacBook 苹果笔记本",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国太空与卫星公司股价大涨，此前有报道称亚马逊正洽谈收购卫星公司Globalstar。Intuitive Machines上涨10.6%， Planet Labs上涨10.8%，Satellogic 上涨9.7%， Echostar上涨2.8%",
+          "url": "https://flash.jin10.com/detail/20260402222813202800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone18Pro模具偷跑",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%A8%A1%E5%85%B7%E5%81%B7%E8%B7%91%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
