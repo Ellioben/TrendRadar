@@ -1,12 +1,90 @@
 {
-  "generated_at": "2026-04-03T13:43:26.823772+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-03T18:36:10.025956+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美以袭击伊朗进入第 35 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2023172398711665684",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 18时36分]"
+        },
+        {
+          "title": "伊朗称再次击落美军F-35战机",
+          "url": "https://www.toutiao.com/trending/7624402617430658587/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "伊朗公开击落美军F35碎片照片",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%BC%80%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BF35%E7%A2%8E%E7%89%87%E7%85%A7%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "伊朗称再次击落美军F35战机",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%86%8D%E6%AC%A1%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BF35%E6%88%98%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "如何评价伊朗再次声称又击落一架美军 F35 战斗机？这次 F35 战斗机可能是如何被击落的？",
+          "url": "https://www.zhihu.com/question/2023397131986170111",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "伊朗称再次击落美军F-35战机，公布解体碎片照片",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32892303",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "伊朗媒体发布美国F35残骸照",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E7%BE%8E%E5%9B%BDF35%E6%AE%8B%E9%AA%B8%E7%85%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
         {
           "title": "伊朗称再次击落美军F-35战斗机",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%86%8D%E6%AC%A1%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BF-35%E6%88%98%E6%96%97%E6%9C%BA",
@@ -30,17 +108,6 @@
           "time_info": "13时43分"
         },
         {
-          "title": "美以袭击伊朗进入第 35 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2023172398711665684",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
           "title": "伊朗：第二架美军F-35战斗机被击落",
           "url": "https://flash.jin10.com/detail/20260403125108975800",
           "source": "金十数据",
@@ -58,22 +125,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "两江总督创业赔惨,没钱交学费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352710&amp;topic_name=%E4%B8%A4%E6%B1%9F%E6%80%BB%E7%9D%A3%E5%88%9B%E4%B8%9A%E8%B5%94%E6%83%A8%2C%E6%B2%A1%E9%92%B1%E4%BA%A4%E5%AD%A6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 18时36分]"
+        },
+        {
           "title": "A股午后扩大跌幅，沪指跌1%，深成指跌0.75%，创业板指跌0.21%。",
           "url": "https://flash.jin10.com/detail/20260403130132374800",
           "source": "金十数据",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "两江总督创业赔惨,没钱交学费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352710&amp;topic_name=%E4%B8%A4%E6%B1%9F%E6%80%BB%E7%9D%A3%E5%88%9B%E4%B8%9A%E8%B5%94%E6%83%A8%2C%E6%B2%A1%E9%92%B1%E4%BA%A4%E5%AD%A6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -117,6 +185,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特步二公主生娃",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%AD%A5%E4%BA%8C%E5%85%AC%E4%B8%BB%E7%94%9F%E5%A8%83%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone18Pro深红配色",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B7%B1%E7%BA%A2%E9%85%8D%E8%89%B2%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         }
       ]
     }
