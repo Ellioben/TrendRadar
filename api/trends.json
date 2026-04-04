@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:25:12.858200+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-04-04T22:36:01.379291+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2335085",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 22时36分]"
         },
         {
           "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
@@ -127,7 +128,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
