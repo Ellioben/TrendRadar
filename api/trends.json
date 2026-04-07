@@ -1,47 +1,79 @@
 {
-  "generated_at": "2026-04-06T22:51:50.280903+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-04-07T13:48:30.745125+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "欠债 失败",
-      "match_count": 4,
+      "keyword_group": "35",
+      "match_count": 3,
       "titles": [
         {
-          "title": "伊朗：美军营救“任务失败”！美媒：获救飞行员已被送往科威特，在山区躲避搜索超24小时，随身武器仅一把手枪，当地海拔最高4400米",
-          "url": "https://wallstreetcn.com/articles/3769290",
-          "source": "华尔街见闻",
+          "title": "大商所乙二醇主力合约触及涨停，报5706元/吨，涨幅约11%。 郑商所丙烯主力合约上涨7%，报9535元/吨。 郑商所甲醇主力合约上涨9%，报3565元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3083177",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时02分"
+          "time_info": "13时48分"
         },
         {
-          "title": "伊朗披露美军营救行动细节：彻底失败",
-          "url": "https://www.toutiao.com/trending/7624688096940294180/",
-          "source": "今日头条",
+          "title": "乙二醇主力合约日内暴涨10.00%，现报5670.00元/吨。甲醇主力合约日内暴涨8.00%，现报3531.00元/吨。",
+          "url": "https://flash.jin10.com/detail/20260407133034475800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            24,
-            20
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 22时51分]"
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
-          "title": "苏见信回应飙高音失败",
-          "url": "https://www.toutiao.com/trending/7625419981853786148/",
-          "source": "今日头条",
+          "title": "乙二醇主力合约上涨10%，报5680元/吨。 甲醇主力合约日内上涨8.00%，现报3531.00元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3083171",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股三大股指午后集体翻绿，创业板指现跌0.49%。",
+          "url": "https://flash.jin10.com/detail/20260407131919619800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
+        {
+          "title": "UP主揭秘高中生摆摊创业套路",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98%E9%AB%98%E4%B8%AD%E7%94%9F%E6%91%86%E6%91%8A%E5%88%9B%E4%B8%9A%E5%A5%97%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欠债 失败",
+      "match_count": 2,
+      "titles": [
         {
           "title": "损失4架直升机和两架MC-130运输机、深入伊朗腹地300公里--这究竟是“成功”的营救行动，还是“失败”的突袭浓缩铀？",
           "url": "https://wallstreetcn.com/articles/3769324",
@@ -49,130 +81,76 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "13时48分"
+        },
+        {
+          "title": "伊朗称以放弃北部城市承认了失败",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%BB%A5%E6%94%BE%E5%BC%83%E5%8C%97%E9%83%A8%E5%9F%8E%E5%B8%82%E6%89%BF%E8%AE%A4%E4%BA%86%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "结婚登记当日得知女友患精神分裂",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%BD%93%E6%97%A5%E5%BE%97%E7%9F%A5%E5%A5%B3%E5%8F%8B%E6%82%A3%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "妻子被骗43万丈夫帮还后两人闹离婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%A2%AB%E9%AA%9743%E4%B8%87%E4%B8%88%E5%A4%AB%E5%B8%AE%E8%BF%98%E5%90%8E%E4%B8%A4%E4%BA%BA%E9%97%B9%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "伊能静曝和秦昊结婚原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%9B%9D%E5%92%8C%E7%A7%A6%E6%98%8A%E7%BB%93%E5%A9%9A%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
       "match_count": 2,
       "titles": [
         {
-          "title": "向华强称短剧投 200 万赚 7000 万，「能代替大电影」，如何看待这 35 倍回报率？短剧市场前景如何？",
-          "url": "https://www.zhihu.com/question/2023169579090802363",
-          "source": "知乎",
+          "title": "江语晨说才刚离婚别这样",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%AF%AD%E6%99%A8%E8%AF%B4%E6%89%8D%E5%88%9A%E7%A6%BB%E5%A9%9A%E5%88%AB%E8%BF%99%E6%A0%B7%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "13时48分"
         },
         {
-          "title": "伊朗西德黑兰省警方称逮捕235名与敌对势力关联人员",
-          "url": "https://wallstreetcn.com/livenews/3082768",
-          "source": "华尔街见闻-快讯",
+          "title": "迟重瑞陈丽华已结婚36年",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9F%E9%87%8D%E7%91%9E%E9%99%88%E4%B8%BD%E5%8D%8E%E5%B7%B2%E7%BB%93%E5%A9%9A36%E5%B9%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "16岁高中生UP主挑战创业赚到1W",
-          "url": "https://search.bilibili.com/all?keyword=16%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9FUP%E4%B8%BB%E6%8C%91%E6%88%98%E5%88%9B%E4%B8%9A%E8%B5%9A%E5%88%B01W",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 22时51分]"
+          "time_info": "13时48分"
         }
       ]
     },
     {
       "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "鲁豫文淇聊恋爱观",
           "url": "https://search.bilibili.com/all?keyword=%E9%B2%81%E8%B1%AB%E6%96%87%E6%B7%87%E8%81%8A%E6%81%8B%E7%88%B1%E8%A7%82",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 22时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "iPhone18Pro配色前瞻",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E9%85%8D%E8%89%B2%E5%89%8D%E7%9E%BB%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "13时48分"
+        },
+        {
+          "title": "52岁丁克女子立遗嘱：捐6成财产",
+          "url": "https://www.baidu.com/s?wd=52%E5%B2%81%E4%B8%81%E5%85%8B%E5%A5%B3%E5%AD%90%E7%AB%8B%E9%81%97%E5%98%B1%EF%BC%9A%E6%8D%906%E6%88%90%E8%B4%A2%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     }
