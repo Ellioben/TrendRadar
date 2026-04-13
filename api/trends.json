@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T14:17:49.591476+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-13T19:11:39.920944+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】伊美谈判未取得共识；创业板改革新规出炉",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "创业板创阶段新高，“宁王”市值逼近2万亿，多晶硅期货涨停，恒指跌近1%，科网股多下跌",
+          "url": "https://wallstreetcn.com/articles/3769792",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "【每日收评】创业板指4连阳续创阶段新高，算力硬件、锂电产业链反复活跃",
+          "url": "https://www.cls.cn/detail/2342312",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "沪指午后翻红，深证成指涨0.7%，创业板指涨0.95%，猪肉养殖板块、CPO概念涨幅居前。",
