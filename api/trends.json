@@ -1,12 +1,53 @@
 {
-  "generated_at": "2026-04-14T18:57:36.019958+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-04-14T23:16:16.065138+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板指、深成指双双创4年多新高，锂电池、算力硬件股持续站上风口",
+          "url": "https://www.cls.cn/detail/2343665",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 23时16分]"
+        },
+        {
+          "title": "时隔近4周！沪指4000点失而复得，创业板指同期领跑，大中盘股成“香饽饽”",
+          "url": "https://www.cls.cn/detail/2343684",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        }
+      ]
+    },
     {
       "keyword_group": "Apple iPhone",
       "match_count": 2,
       "titles": [
+        {
+          "title": "库克开窍,折叠iPhone定版",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353208&amp;topic_name=%E5%BA%93%E5%85%8B%E5%BC%80%E7%AA%8D%2C%E6%8A%98%E5%8F%A0iPhone%E5%AE%9A%E7%89%88",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 23时16分]"
+        },
         {
           "title": "iPhoneFold首年销量预计",
           "url": "https://s.weibo.com/weibo?q=%23iPhoneFold%E9%A6%96%E5%B9%B4%E9%94%80%E9%87%8F%E9%A2%84%E8%AE%A1%23&t=31&band_rank=20&Refer=top",
@@ -17,17 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时12分 ~ 14时13分]"
-        },
-        {
-          "title": "库克开窍,折叠iPhone定版",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353208&amp;topic_name=%E5%BA%93%E5%85%8B%E5%BC%80%E7%AA%8D%2C%E6%8A%98%E5%8F%A0iPhone%E5%AE%9A%E7%89%88",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
         }
       ]
     },
@@ -42,26 +72,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         }
       ]
     },
     {
-      "keyword_group": "失业 创业",
+      "keyword_group": "线城市",
       "match_count": 1,
       "titles": [
         {
-          "title": "【焦点复盘】创业板指、深成指双双创4年多新高，锂电池、算力硬件股持续站上风口",
-          "url": "https://www.cls.cn/detail/2343665",
-          "source": "财联社热门",
+          "title": "一线城市二手房成交回暖",
+          "url": "https://www.toutiao.com/trending/7627754640545628179/",
+          "source": "今日头条",
           "ranks": [
-            12
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         }
       ]
     }
