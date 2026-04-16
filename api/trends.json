@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T14:04:22.204171+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-16T18:57:05.582603+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "库里7记三分狂砍35分 勇士淘汰快船",
@@ -23,11 +23,23 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C35%E5%88%86%E7%8E%87%E5%8B%87%E5%A3%AB%E6%B7%98%E6%B1%B0%E5%BF%AB%E8%88%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时04分 ~ 18时57分]"
+        },
+        {
+          "title": "威孚高科：2025年净利润同比下降35.63% 拟10派7元",
+          "url": "https://flash.jin10.com/detail/20260416184016449800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时04分"
+          "time_info": "18时57分"
         },
         {
           "title": "台积电第一季度净利润5,725亿元台币，同比增长58%，预估5,423.8亿元台币。 第一季度营业利润6,589.7亿元台币，同比增长62%，预估6,238.2亿元台币。 第一季度销售额1.13万亿元台币，同比增长35%，预估1.12万亿元台币。 第一季度毛利率66.2％，预估64.5％。 第一季度资本支出为111亿美元。",
@@ -39,6 +51,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "数码视讯：2025年归母净利润同比增长35.97%，拟10派0.2元",
+          "url": "https://flash.jin10.com/detail/20260416183614799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "已进驻35家单位！二十届中央第七轮巡视进驻即将完成",
+          "url": "https://wallstreetcn.com/livenews/3089242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "医生回应35岁孕妇吃冰箱剩菜后去世",
@@ -55,7 +89,7 @@
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "创业板首单未盈利企业今上市，存储独角兽大普微如何上演破冰之旅？",
@@ -67,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "【每日收评】创业板指涨超3%刷新近11年新高，锂电板块卷土重来，算力租赁概念再掀高潮",
+          "url": "https://www.cls.cn/detail/2346247",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "上证指数早盘收报4048.64点，涨0.53%。 深证成指早盘收报14743.22点，涨1.69%。 创业板指早盘收报3608.52点，涨2.66%。 沪深300早盘收报4727.38点，涨0.90%。 科创50早盘收报1418.06点，涨0.83%。 中证500早盘收报8154.74点，涨1.38%。 中证1000早盘收报8208.05点，涨1.26%。",
@@ -89,6 +134,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "女子称被送金镯子但没被尊重想离婚",
+          "url": "https://www.toutiao.com/trending/7629175980314034212/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "女子称被送金镯子但没被尊重想离婚",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E9%80%81%E9%87%91%E9%95%AF%E5%AD%90%E4%BD%86%E6%B2%A1%E8%A2%AB%E5%B0%8A%E9%87%8D%E6%83%B3%E7%A6%BB%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "线城市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "3月70城房价释放积极信号：一线城市领跑 二手房复苏明显",
+          "url": "https://www.cls.cn/detail/2345979",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "3月一线城市商品房售价环比上涨",
+          "url": "https://www.douyin.com/hot/2467788",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         }
       ]
     }
