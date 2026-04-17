@@ -1,22 +1,100 @@
 {
-  "generated_at": "2026-04-17T14:05:38.572458+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-17T18:48:22.015287+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "拼多多美团京东淘天抖音被罚35亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%E6%B7%98%E5%A4%A9%E6%8A%96%E9%9F%B3%E8%A2%AB%E7%BD%9A35%E4%BA%BF%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "市场监管总局依法对拼多多等七家电商平台「幽灵外卖」系列案罚没 35.97 亿元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028503748171900809",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "7家电商平台被罚没35.97亿元",
+          "url": "https://www.baidu.com/s?wd=7%E5%AE%B6%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BD%9A%E6%B2%A135.97%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
         {
           "title": "上市以来首次年度业绩下滑！贵州茅台去年净利降4.53%，拟分红350亿元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32988235",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 18时48分]"
+        },
+        {
+          "title": "7家电商平台被罚35.97亿元",
+          "url": "https://search.bilibili.com/all?keyword=7%E5%AE%B6%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BD%9A35.97%E4%BA%BF%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时05分"
+          "time_info": "18时48分"
+        },
+        {
+          "title": "共处罚没款35.97亿元 7家电商平台涉“幽灵外卖”系列案被处罚",
+          "url": "https://www.cls.cn/detail/2347417",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "共罚没35.97亿元！7家头部平台涉“幽灵外卖”系列案被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32993089",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "泽璟制药：控股股东盛泽林、股东宁波泽奥已分别减持0.1035%和0.935%",
+          "url": "https://flash.jin10.com/detail/20260417181428756800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "35 岁失业后写了部「中年社畜修仙」的网文，十万字序章完结零订阅，这种眼高手低的坚持还有意义吗？",
@@ -28,12 +106,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "农发种业：2025年净利润8358.44万元，同比增长78.27%",
+          "url": "https://flash.jin10.com/detail/20260417181051168800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "沪指午后拉升翻红，创业板指涨近1.5%，全市场超2400只个股飘红。",
@@ -56,6 +145,101 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "托伦斯创业板IPO定于4月24日上会",
+          "url": "https://flash.jin10.com/detail/20260417182452380800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "创业板指再创近11年新高，光通信爆发，源杰科技成“新股王”，茅台跌4%，恒科指跌1%",
+          "url": "https://wallstreetcn.com/articles/3770209",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "爷爷得知20岁孙女偷领结婚证后落泪",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A520%E5%B2%81%E5%AD%99%E5%A5%B3%E5%81%B7%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E5%90%8E%E8%90%BD%E6%B3%AA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "爷爷得知20岁孙女偷领结婚证后落泪",
+          "url": "https://www.toutiao.com/trending/7629387746298150922/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "线城市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "四大一线城市房价全涨",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%A4%A7%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E5%85%A8%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "四大一线城市房价全涨",
+          "url": "https://www.toutiao.com/trending/7629231341397770282/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "证监会：对两个以上独立的违法行为分别计算违法所得 盈亏不得相抵",
+          "url": "https://flash.jin10.com/detail/20260417181020245800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -77,19 +261,19 @@
       ]
     },
     {
-      "keyword_group": "线城市",
+      "keyword_group": "Apple iPhone",
       "match_count": 1,
       "titles": [
         {
-          "title": "四大一线城市房价全涨",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%A4%A7%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E5%85%A8%E6%B6%A8",
-          "source": "百度热搜",
+          "title": "曝 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变，对现有市场带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/15718177307",
+          "source": "知乎",
           "ranks": [
-            2
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时05分"
+          "time_info": "18时48分"
         }
       ]
     },
