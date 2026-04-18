@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-18T13:43:09.979338+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-18T18:33:36.835025+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "一个蛋糕引出7平台35.97亿元罚单",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%9B%8B%E7%B3%95%E5%BC%95%E5%87%BA7%E5%B9%B3%E5%8F%B035.97%E4%BA%BF%E5%85%83%E7%BD%9A%E5%8D%95%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 18时33分]"
         },
         {
           "title": "共罚没35.97亿元！7家头部平台涉“幽灵外卖”系列案被处罚",
@@ -30,6 +31,17 @@
           "time_info": "[13时42分 ~ 13时43分]"
         },
         {
+          "title": "7大电商平台被罚35.97亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353409&amp;topic_name=7%E5%A4%A7%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BD%9A35.97%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
           "title": "7家电商平台被罚35.97亿元",
           "url": "https://search.bilibili.com/all?keyword=7%E5%AE%B6%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BD%9A35.97%E4%BA%BF%E5%85%83",
           "source": "bilibili 热搜",
@@ -39,6 +51,78 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "一个蛋糕引出7大平台35.97亿元罚单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E8%9B%8B%E7%B3%95%E5%BC%95%E5%87%BA7%E5%A4%A7%E5%B9%B3%E5%8F%B035.97%E4%BA%BF%E5%85%83%E7%BD%9A%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "请问 3500 的工资，买什么车合适哦？",
+          "url": "https://www.zhihu.com/question/2028573090301395743",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "亲爸后妈闹离婚 孩子选跟后妈生活",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%B2%E7%88%B8%E5%90%8E%E5%A6%88%E9%97%B9%E7%A6%BB%E5%A9%9A+%E5%AD%A9%E5%AD%90%E9%80%89%E8%B7%9F%E5%90%8E%E5%A6%88%E7%94%9F%E6%B4%BB",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "21岁女子闪婚生活7天后想离婚",
+          "url": "https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%A5%B3%E5%AD%90%E9%97%AA%E5%A9%9A%E7%94%9F%E6%B4%BB7%E5%A4%A9%E5%90%8E%E6%83%B3%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "21岁女子闪婚生活7天后想离婚",
+          "url": "https://www.baidu.com/s?wd=21%E5%B2%81%E5%A5%B3%E5%AD%90%E9%97%AA%E5%A9%9A%E7%94%9F%E6%B4%BB7%E5%A4%A9%E5%90%8E%E6%83%B3%E7%A6%BB%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "00后男女相亲半月闪婚 7天就闹离婚",
+          "url": "https://www.toutiao.com/trending/7629144085697265707/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         }
       ]
     },
@@ -64,7 +148,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
@@ -81,26 +165,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "21岁女子闪婚生活7天后想离婚",
-          "url": "https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%A5%B3%E5%AD%90%E9%97%AA%E5%A9%9A%E7%94%9F%E6%B4%BB7%E5%A4%A9%E5%90%8E%E6%83%B3%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
         }
       ]
     },
