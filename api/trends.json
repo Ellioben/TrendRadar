@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T14:02:02.274912+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-19T18:32:49.565526+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7629974070402859054/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 18时32分]"
         },
         {
           "title": "华住会否认酒店回访致女子离婚",
@@ -76,19 +77,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 18时32分]"
         },
         {
           "title": "伊朗最高领袖：伊朗海军已做好准备，将给敌方“新的惨痛失败”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33001079",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 18时32分]"
         }
       ]
     },
@@ -101,11 +103,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353409&amp;topic_name=7%E5%A4%A7%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BD%9A35.97%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 18时32分]"
         }
       ]
     }
