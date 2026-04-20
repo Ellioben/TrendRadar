@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T14:17:19.788027+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-20T19:13:49.503958+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -55,18 +55,69 @@
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "低情商演员失业 高情商更多休息",
           "url": "https://s.weibo.com/weibo?q=%E4%BD%8E%E6%83%85%E5%95%86%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%20%E9%AB%98%E6%83%85%E5%95%86%E6%9B%B4%E5%A4%9A%E4%BC%91%E6%81%AF&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 19时13分]"
+        },
+        {
+          "title": "一枝独秀的创业板--“中国纳指”前7大权重占比已升至48%，堪比MAG 7",
+          "url": "https://wallstreetcn.com/articles/3770367",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "中科飞测：国投创业基金拟减持不超过3%。",
+          "url": "https://wallstreetcn.com/livenews/3091048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十期货4月20日讯，据马来西亚独立检验机构AmSpec，马来西亚4月1-20日棕榈油出口量为868281吨，较上月同期出口的1166586吨减少25.6%。",
+          "url": "https://flash.jin10.com/detail/20260420141303840800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "外籍残障人士用中国外骨骼独立走路",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E6%AE%8B%E9%9A%9C%E4%BA%BA%E5%A3%AB%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%AA%A8%E9%AA%BC%E7%8B%AC%E7%AB%8B%E8%B5%B0%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     },
@@ -88,23 +139,6 @@
       ]
     },
     {
-      "keyword_group": "独立",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十期货4月20日讯，据马来西亚独立检验机构AmSpec，马来西亚4月1-20日棕榈油出口量为868281吨，较上月同期出口的1166586吨减少25.6%。",
-          "url": "https://flash.jin10.com/detail/20260420141303840800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Mac MacBook 苹果笔记本",
       "match_count": 1,
       "titles": [
@@ -113,11 +147,12 @@
           "url": "https://www.zhihu.com/question/2028447293876052281",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 19时13分]"
         }
       ]
     },
@@ -130,11 +165,12 @@
           "url": "https://www.zhihu.com/question/2027410498283414838",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 19时13分]"
         }
       ]
     },
@@ -147,11 +183,12 @@
           "url": "https://www.zhihu.com/question/2028419848833708708",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 19时13分]"
         }
       ]
     }
