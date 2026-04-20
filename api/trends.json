@@ -1,148 +1,157 @@
 {
-  "generated_at": "2026-04-19T22:42:51.103186+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-04-20T14:17:19.788027+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "女子称酒店回访电话暴露开房致其离婚",
-          "url": "https://www.toutiao.com/trending/7629974070402859054/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 18时32分]"
-        },
-        {
-          "title": "华住会否认酒店回访致女子离婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BD%8F%E4%BC%9A%E5%90%A6%E8%AE%A4%E9%85%92%E5%BA%97%E5%9B%9E%E8%AE%BF%E8%87%B4%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "女子产后被男友起诉退彩礼和分娩费",
-          "url": "https://www.toutiao.com/trending/7629636506352619071/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "女子产后被男友起诉退彩礼和分娩费",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%A2%AB%E7%94%B7%E5%8F%8B%E8%B5%B7%E8%AF%89%E9%80%80%E5%BD%A9%E7%A4%BC%E5%92%8C%E5%88%86%E5%A8%A9%E8%B4%B9%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "酒店回访电话暴露开房致女子离婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E8%AE%BF%E7%94%B5%E8%AF%9D%E6%9A%B4%E9%9C%B2%E5%BC%80%E6%88%BF%E8%87%B4%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "金莎晒结婚五金",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E6%99%92%E7%BB%93%E5%A9%9A%E4%BA%94%E9%87%91%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "彩礼10万被起诉后退一半及月嫂费",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A4%BC10%E4%B8%87%E8%A2%AB%E8%B5%B7%E8%AF%89%E5%90%8E%E9%80%80%E4%B8%80%E5%8D%8A%E5%8F%8A%E6%9C%88%E5%AB%82%E8%B4%B9%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "英海事分析公司：35艘船在驶出霍尔木兹海峡途中掉头",
+          "url": "https://news.ifeng.com/c/8sTGp7MRLGs",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "歼35AE还有可能出口阿尔及利亚吗",
+          "url": "https://www.toutiao.com/trending/7630657421995675155/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "马刺轻取开拓者 文班季后赛首秀35分",
+          "url": "https://www.toutiao.com/trending/7630682036319047195/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
         {
           "title": "三国演义开机35周年纪",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E5%BC%80%E6%9C%BA35%E5%91%A8%E5%B9%B4%E7%BA%AA",
           "source": "bilibili 热搜",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "7大电商平台被罚35.97亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353409&amp;topic_name=7%E5%A4%A7%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BD%9A35.97%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            11,
-            13
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 22时42分]"
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     },
     {
-      "keyword_group": "欠债 失败",
-      "match_count": 2,
+      "keyword_group": "失业 创业",
+      "match_count": 1,
       "titles": [
         {
-          "title": "小哈梅内伊：伊朗海军已做好准备，将给敌方造成“新的惨痛失败”",
-          "url": "https://wallstreetcn.com/articles/3770329",
-          "source": "华尔街见闻",
+          "title": "低情商演员失业 高情商更多休息",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%8E%E6%83%85%E5%95%86%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%20%E9%AB%98%E6%83%85%E5%95%86%E6%9B%B4%E5%A4%9A%E4%BC%91%E6%81%AF&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 18时32分]"
-        },
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "伊朗最高领袖：伊朗海军已做好准备，将给敌方“新的惨痛失败”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33001079",
-          "source": "澎湃新闻",
+          "title": "遭家暴俏黄蓉离婚给了前夫25万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%81%AD%E5%AE%B6%E6%9A%B4%E4%BF%8F%E9%BB%84%E8%93%89%E7%A6%BB%E5%A9%9A%E7%BB%99%E4%BA%86%E5%89%8D%E5%A4%AB25%E4%B8%87%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            12
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 18时32分]"
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十期货4月20日讯，据马来西亚独立检验机构AmSpec，马来西亚4月1-20日棕榈油出口量为868281吨，较上月同期出口的1166586吨减少25.6%。",
+          "url": "https://flash.jin10.com/detail/20260420141303840800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Mac MacBook 苹果笔记本",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "库克都没想到 MacBookNeo 卖爆，官网交付已排到 5 月，它有哪些吸引力？",
+          "url": "https://www.zhihu.com/question/2028447293876052281",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价博主曝光的苹果首款折叠屏 iPhone Fold 最终版设计？此时入局折叠屏领域还有优势吗？",
+          "url": "https://www.zhihu.com/question/2027410498283414838",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "线城市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "四大一线城市房价全线上涨，这代表楼市回暖吗？这是入场的信号，还是短暂的市场反弹？",
+          "url": "https://www.zhihu.com/question/2028419848833708708",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     }
