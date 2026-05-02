@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T18:43:57.140987+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-05-02T22:51:58.311851+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
@@ -8,38 +8,40 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "人民日报评景区NPC“擦边”：背离初衷，拉低格调",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091746",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时08分 ~ 22时51分]"
+        },
+        {
           "title": "被指擦边 NPC“小黄鱼”公开致歉",
           "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%8C%87%E6%93%A6%E8%BE%B9+NPC%E2%80%9C%E5%B0%8F%E9%BB%84%E9%B1%BC%E2%80%9D%E5%85%AC%E5%BC%80%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
-        },
-        {
-          "title": "人民日报评景区NPC“擦边”：背离初衷，拉低格调",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091746",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 18时43分]"
         },
         {
           "title": "人民日报：景区NPC别再“擦边”了",
           "url": "https://www.toutiao.com/trending/7634732867230125631/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 22时51分]"
         },
         {
           "title": "NPC擦边互动惹争议 景区通报整改",
@@ -48,7 +50,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         }
@@ -76,7 +78,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         }
@@ -104,7 +106,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         }
@@ -122,8 +124,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[14时08分 ~ 22时51分]"
         }
       ]
     },
@@ -137,11 +139,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[14时08分 ~ 22时51分]"
         }
       ]
     },
