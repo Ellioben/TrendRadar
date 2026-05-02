@@ -1,163 +1,22 @@
 {
-  "generated_at": "2026-05-01T22:58:17.371922+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-05-02T14:09:04.226095+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "张真源唱在加纳共和国离婚",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%94%B1%E5%9C%A8%E5%8A%A0%E7%BA%B3%E5%85%B1%E5%92%8C%E5%9B%BD%E7%A6%BB%E5%A9%9A&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时57分 ~ 22时58分]"
-        },
-        {
-          "title": "《一吻定情》女主结婚",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%80%E5%90%BB%E5%AE%9A%E6%83%85%E3%80%8B%E5%A5%B3%E4%B8%BB%E7%BB%93%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时57分 ~ 22时58分]"
-        },
-        {
-          "title": "一吻定情女主结婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%BB%E5%AE%9A%E6%83%85%E5%A5%B3%E4%B8%BB%E7%BB%93%E5%A9%9A%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "结婚6小时新郎出车祸 妻子照顾19年",
-          "url": "https://www.toutiao.com/trending/7634765492869988395/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "00后夫妻不收彩礼办农村火锅婚礼",
-          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%A4%AB%E5%A6%BB%E4%B8%8D%E6%94%B6%E5%BD%A9%E7%A4%BC%E5%8A%9E%E5%86%9C%E6%9D%91%E7%81%AB%E9%94%85%E5%A9%9A%E7%A4%BC",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "35",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国国债收益率继续下跌，10年期收益率最新报4.35%。",
-          "url": "https://flash.jin10.com/detail/20260501221701535800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
-          "title": "极地气候警报：北极海冰创47年最低，南极35年来首次十月降雨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082444",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 19时02分]"
-        },
-        {
-          "title": "蔚来公司4月交付29,356台，同比增长22.8%",
-          "url": "https://wallstreetcn.com/livenews/3097792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "标普500指数高开25.53点，涨幅0.35%，报7234.54点； 道琼斯工业平均指数高开180.43点，涨幅0.36%，报49832.57点； 纳斯达克综合指数高开85.48点，涨幅0.34%，报24977.79点。",
-          "url": "https://wallstreetcn.com/livenews/3097915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "线城市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "聪明人扎堆住进一线城市五星酒店",
-          "url": "https://www.baidu.com/s?wd=%E8%81%AA%E6%98%8E%E4%BA%BA%E6%89%8E%E5%A0%86%E4%BD%8F%E8%BF%9B%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%BA%94%E6%98%9F%E9%85%92%E5%BA%97",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "聪明人五一扎堆捡漏一线城市五星酒店",
-          "url": "https://www.toutiao.com/trending/7633767565236617235/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 22时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国达拉斯联储主席洛根：越来越担心通胀前景。 反对美联储政策声明中隐含的降息倾向。 劳动力市场保持稳定，失业率在低水平。 冲突可能导致供应中断情况长期持续。 美联储接下来的举措很可能会是加息或降息。",
-          "url": "https://wallstreetcn.com/livenews/3097931",
-          "source": "华尔街见闻-快讯",
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1035.768吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260502102042473800",
+          "source": "金十数据",
           "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时58分"
+          "time_info": "14时09分"
         }
       ]
     },
@@ -166,32 +25,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "国际足联撮合巴以握手合影失败",
-          "url": "https://www.toutiao.com/trending/7634859566219677211/",
-          "source": "今日头条",
+          "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
+          "url": "https://news.ifeng.com/c/8smcP2ejt6D",
+          "source": "凤凰网",
           "ranks": [
-            30
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
         }
       ]
     },
     {
-      "keyword_group": "Apple iPhone",
+      "keyword_group": "Mac MacBook 苹果笔记本",
       "match_count": 1,
       "titles": [
         {
-          "title": "苹果上季在华收入继续两位数大增，iPhone收入创同期新高，本季营收指引意外强劲 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771430",
-          "source": "华尔街见闻",
+          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
+          "url": "https://flash.jin10.com/detail/20260502095648869800",
+          "source": "金十数据",
           "ranks": [
-            10
+            19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时57分 ~ 22时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     },
@@ -204,11 +63,79 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353939&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%A4%A7%E5%8E%82%E7%9B%98%E7%82%B9%2C%E9%A9%AC%E8%B6%B4%E9%A3%9E%E7%A2%9F%E5%B4%9B%E8%B5%B7",
           "source": "贴吧",
           "ranks": [
-            4
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时57分 ~ 22时58分]"
+          "time_info": "[14时08分 ~ 14时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赚钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普将美国封锁伊朗港口比作海盗行为：是“非常赚钱的生意”",
+          "url": "https://flash.jin10.com/detail/20260502105413404800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "擦边",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人民日报评景区NPC“擦边”：背离初衷，拉低格调",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091746",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "线城市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "聪明人五一扎堆捡漏一线城市五星酒店",
+          "url": "https://www.toutiao.com/trending/7633767565236617235/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "奋斗 躺平",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "躺平阴谋",
+          "url": "https://s.weibo.com/weibo?q=%E8%BA%BA%E5%B9%B3%E9%98%B4%E8%B0%8B&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
         }
       ]
     }
