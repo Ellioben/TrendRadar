@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T14:28:18.873846+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-03T18:46:17.097629+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "擦边",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "景区NPC擦边涉嫌违法违规",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "被指擦边的NPC“小黄鱼”互动改送簪花？葛仙村景区：确有调整",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33094761",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "被批“擦边”NPC互动改为送簪花",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%89%B9%E2%80%9C%E6%93%A6%E8%BE%B9%E2%80%9DNPC%E4%BA%92%E5%8A%A8%E6%94%B9%E4%B8%BA%E9%80%81%E7%B0%AA%E8%8A%B1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "湃用场｜ NPC“小黄鱼”被点名擦边，江西葛仙村景区及本人致歉",
@@ -44,35 +66,76 @@
     },
     {
       "keyword_group": "35",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "申花主场对阵蓉城创上座人数纪录，带动消费1.35亿元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33093584",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 18时46分]"
+        },
+        {
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         }
       ]
     },
     {
       "keyword_group": "大厂",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "日本动画大厂盘点,马趴飞碟崛起",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353939&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%A4%A7%E5%8E%82%E7%9B%98%E7%82%B9%2C%E9%A9%AC%E8%B6%B4%E9%A3%9E%E7%A2%9F%E5%B4%9B%E8%B5%B7",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 18时46分]"
+        },
+        {
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谈没谈过恋爱一眼就能看出来",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%88%E6%B2%A1%E8%B0%88%E8%BF%87%E6%81%8B%E7%88%B1%E4%B8%80%E7%9C%BC%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         }
       ]
     }
