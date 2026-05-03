@@ -1,131 +1,61 @@
 {
-  "generated_at": "2026-05-02T22:51:58.311851+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-05-03T14:28:18.873846+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "擦边",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "人民日报评景区NPC“擦边”：背离初衷，拉低格调",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091746",
-          "source": "澎湃新闻",
+          "title": "景区NPC擦边涉嫌违法违规",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BANPC%E6%93%A6%E8%BE%B9%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 22时51分]"
-        },
-        {
-          "title": "被指擦边 NPC“小黄鱼”公开致歉",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%8C%87%E6%93%A6%E8%BE%B9+NPC%E2%80%9C%E5%B0%8F%E9%BB%84%E9%B1%BC%E2%80%9D%E5%85%AC%E5%BC%80%E8%87%B4%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "14时28分"
+        },
+        {
+          "title": "湃用场｜ NPC“小黄鱼”被点名擦边，江西葛仙村景区及本人致歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092494",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "人民日报：景区NPC别再“擦边”了",
           "url": "https://www.toutiao.com/trending/7634732867230125631/",
           "source": "今日头条",
           "ranks": [
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 22时51分]"
-        },
-        {
-          "title": "NPC擦边互动惹争议 景区通报整改",
-          "url": "https://www.baidu.com/s?wd=NPC%E6%93%A6%E8%BE%B9%E4%BA%92%E5%8A%A8%E6%83%B9%E4%BA%89%E8%AE%AE+%E6%99%AF%E5%8C%BA%E9%80%9A%E6%8A%A5%E6%95%B4%E6%94%B9",
-          "source": "百度热搜",
-          "ranks": [
-            23
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "14时28分"
         }
       ]
     },
     {
       "keyword_group": "35",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1035.768吨，较前一个交易日维持不变。",
-          "url": "https://flash.jin10.com/detail/20260502102042473800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "东航 A350 撞击廊桥并反复开反推，大家怎么看？",
-          "url": "https://www.zhihu.com/question/2033903658098742923",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Mac MacBook 苹果笔记本",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
-          "url": "https://flash.jin10.com/detail/20260502095648869800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "基础款Macmini停售",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9F%BA%E7%A1%80%E6%AC%BEMacmini%E5%81%9C%E5%94%AE%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
       "match_count": 1,
       "titles": [
         {
-          "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
-          "url": "https://news.ifeng.com/c/8smcP2ejt6D",
-          "source": "凤凰网",
+          "title": "申花主场对阵蓉城创上座人数纪录，带动消费1.35亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093584",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 22时51分]"
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -138,64 +68,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353939&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%A4%A7%E5%8E%82%E7%9B%98%E7%82%B9%2C%E9%A9%AC%E8%B6%B4%E9%A3%9E%E7%A2%9F%E5%B4%9B%E8%B5%B7",
           "source": "贴吧",
           "ranks": [
-            13,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 22时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赚钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普将美国封锁伊朗港口比作海盗行为：是“非常赚钱的生意”",
-          "url": "https://flash.jin10.com/detail/20260502105413404800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "线城市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "聪明人五一扎堆捡漏一线城市五星酒店",
-          "url": "https://www.toutiao.com/trending/7633767565236617235/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "奋斗 躺平",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "躺平阴谋",
-          "url": "https://s.weibo.com/weibo?q=%E8%BA%BA%E5%B9%B3%E9%98%B4%E8%B0%8B&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
+          "time_info": "14时28分"
         }
       ]
     }
