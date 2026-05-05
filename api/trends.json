@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T00:03:46.248068+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-05T14:18:42.730722+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "法国CAC40指数5月4日（周一）收盘下跌138.72点，跌幅1.71%，报7976.12点；<br/>欧洲斯托克50指数5月4日（周一）收盘下跌128.15点，跌幅2.18%，报5753.36点；<br/>西班牙IBEX35指数5月4日（周一）收盘下跌444.04点，跌幅2.5%，报17336.96点；<br/>意大利富时MIB指数5月4日（周一）收盘下跌767.62点，涨幅1.59%，报47478.5点。",
@@ -28,13 +28,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "【澳洲联储加息25个基点，符合预期】澳洲联储加息25个基点至4.35%，符合市场预期，为连续第三次加息。",
+          "url": "https://wallstreetcn.com/livenews/3098710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "澳洲联储主席布洛克：如果经济形势发生变化，我们将作出调整。 此次石油冲击使通胀与增长之间的权衡更加恶化。即使冲突迅速解决，成本全年仍将上升。 今天的加息决策经过了激烈的讨论。 希望失业率的攀升速度不超过必要水平。",
+          "url": "https://wallstreetcn.com/livenews/3098720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
         {
           "title": "青年在上海｜免租金助创业，“巨富长”街区有个青春经济试验场",
           "url": "https://m.thepaper.cn/newsDetail_forward_33084440",
@@ -45,6 +67,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "30岁老哥忠告:存钱结婚别躺平",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354009&amp;topic_name=30%E5%B2%81%E8%80%81%E5%93%A5%E5%BF%A0%E5%91%8A%3A%E5%AD%98%E9%92%B1%E7%BB%93%E5%A9%9A%E5%88%AB%E8%BA%BA%E5%B9%B3",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧洲政治共同体领导人会议举行 寻求战略自主与安全独立",
+          "url": "https://wallstreetcn.com/livenews/3098691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
@@ -74,11 +130,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33096387",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 14时18分]"
         }
       ]
     }
