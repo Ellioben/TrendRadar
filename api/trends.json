@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T14:38:07.658232+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-05-07T19:53:33.560841+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "三亚多方回应“4只皮皮虾1035元”",
@@ -19,6 +19,17 @@
           "time_info": "[14时37分 ~ 14时38分]"
         },
         {
+          "title": "市监局称4只皮皮虾1035元价格合规",
+          "url": "https://www.toutiao.com/trending/7635881630292430377/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "网友曝三亚4只皮皮虾收费1035元",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E4%B8%89%E4%BA%9A4%E5%8F%AA%E7%9A%AE%E7%9A%AE%E8%99%BE%E6%94%B6%E8%B4%B91035%E5%85%83%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -28,6 +39,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "网友曝三亚 4 只皮皮虾收费 1035 元远超市场价，店家回应称「明码标价」，这定价合规吗？算宰客吗？",
+          "url": "https://www.zhihu.com/question/2035480301774664656",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 19时53分]"
         },
         {
           "title": "4只皮皮虾1035元 涉事海鲜店回应",
@@ -46,17 +69,6 @@
           "source": "微博",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
-        },
-        {
-          "title": "网友曝三亚 4 只皮皮虾收费 1035 元远超市场价，店家回应称「明码标价」，这定价合规吗？算宰客吗？",
-          "url": "https://www.zhihu.com/question/2035480301774664656",
-          "source": "知乎",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -99,18 +111,19 @@
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "女子跟房东结婚 新郎真叫“房东”",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B7%9F%E6%88%BF%E4%B8%9C%E7%BB%93%E5%A9%9A+%E6%96%B0%E9%83%8E%E7%9C%9F%E5%8F%AB%E2%80%9C%E6%88%BF%E4%B8%9C%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 19时53分]"
         },
         {
           "title": "殷世航傲娇美宣布结婚",
@@ -146,6 +159,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "女律师谈女性生育损伤在彩礼案中缺位",
+          "url": "https://www.toutiao.com/trending/7637083094587018806/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "30岁老哥忠告:存钱结婚别躺平",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354009&amp;topic_name=30%E5%B2%81%E8%80%81%E5%93%A5%E5%BF%A0%E5%91%8A%3A%E5%AD%98%E9%92%B1%E7%BB%93%E5%A9%9A%E5%88%AB%E8%BA%BA%E5%B9%B3",
           "source": "贴吧",
@@ -160,7 +184,7 @@
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】创业板指涨2.75%续创11年新高，算力芯片双龙总市值一度突破8000亿",
@@ -174,13 +198,24 @@
           "time_info": "00时03分"
         },
         {
+          "title": "【每日收评】创业板指涨超1%续创近11年新高，全市场连续两日超百股涨停，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2364991",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "A股深证成指、创业板指午后双双涨超1%，上证指数涨0.37%，两市超3300家个股上涨。",
           "url": "https://flash.jin10.com/detail/20260507134718555800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -191,7 +226,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         }
@@ -208,7 +243,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         }
