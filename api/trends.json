@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:59:56.503851+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-05-08T19:04:48.705096+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "4只皮皮虾1035元店主事发次日病逝",
@@ -14,9 +14,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "歼35“0001编号”亮相 瞄准国际市场",
+          "url": "https://www.toutiao.com/trending/7636291776265650182/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 19时04分]"
         },
         {
           "title": "市监局称4只皮皮虾1035元价格合规",
@@ -37,18 +49,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "歼35“0001编号”亮相 瞄准国际市场",
-          "url": "https://www.toutiao.com/trending/7636291776265650182/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -70,9 +71,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "“4只皮皮虾1035元”店主病逝",
+          "url": "https://www.douyin.com/hot/2492152",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "德国DAX30指数5月7日（周四）收盘下跌285.75点，跌幅1.15%，报24663.50点；<br/>英国富时100指数5月7日（周四）收盘下跌167.29点，跌幅1.60%，报10271.37点；<br/>法国CAC40指数5月7日（周四）收盘下跌97.34点，跌幅1.17%，报8202.08点；<br/>欧洲斯托克50指数5月7日（周四）收盘下跌61.68点，跌幅1.02%，报5965.45点；<br/>西班牙IBEX35指数5月7日（周四）收盘下跌57.50点，跌幅0.32%，报18046.80点；<br/>意大利富时MIB指数5月7日（周四）收盘下跌458.25点，跌幅0.92%，报49238.50点。",
@@ -92,7 +104,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
@@ -109,7 +121,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -120,9 +132,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 19时04分]"
         },
         {
           "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
@@ -145,17 +169,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "新娘结婚当天沉浸式抢红包",
+          "url": "https://www.toutiao.com/trending/7636763395357835302/",
+          "source": "今日头条",
           "ranks": [
-            15
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "19时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝小米汽车将推独立子品牌寻天",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E6%8E%A8%E7%8B%AC%E7%AB%8B%E5%AD%90%E5%93%81%E7%89%8C%E5%AF%BB%E5%A4%A9%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     },
@@ -168,11 +215,29 @@
           "url": "https://www.zhihu.com/question/34937519",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 19时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大厂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "钱江摩托发布声明：“国内摩托车大厂围剿张雪机车”系不实言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120361",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "19时04分"
         }
       ]
     }
