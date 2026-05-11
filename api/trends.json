@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-05-11T15:44:18.076500+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-11T20:35:39.920286+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "AI芯片公司Cerebras目前寻求最高48亿美元的IPO融资，此前计划融资35亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3101639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "孙颖莎11350分女单世一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E11350%E5%88%86%E5%A5%B3%E5%8D%95%E4%B8%96%E4%B8%80%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "35家机构2025年合计营收484.45亿元 比上年增长14.9%",
+          "url": "https://flash.jin10.com/detail/20260511200907901800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
         {
           "title": "农发行发行5年期债券，规模90亿元，发行利率1.5514%，预期1.5600%，投标倍数4.35倍，边际倍数2.83倍。",
           "url": "https://wallstreetcn.com/livenews/3101427",
@@ -39,12 +72,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "中国金茂(00817.HK)：2026年4月份，本公司及其附属公司取得签约销售金额人民币88.06亿元，签约销售建筑面积351,476.23平方米。",
+          "url": "https://flash.jin10.com/detail/20260511200142184800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "创业板涨超3%，科创50狂飙5%创历史新高，芯片、半导体集体爆发，恒科指翻红，存储逆势大涨",
@@ -56,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
+          "url": "https://www.cls.cn/detail/2367989",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "上证指数收报4225.02点，涨1.08%。 深证成指收报15899.30点，涨2.16%。 创业板指收报3928.97点，涨3.50%。 沪深300收报4951.84点，涨1.64%。 科创50收报1716.69点，涨4.65%。 中证500收报8839.74点，涨1.67%。 中证1000收报8866.78点，涨1.44%。",
@@ -72,8 +127,19 @@
     },
     {
       "keyword_group": "欠债 失败",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "女子离婚多年被判共还前夫百万欠债",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A4%9A%E5%B9%B4%E8%A2%AB%E5%88%A4%E5%85%B1%E8%BF%98%E5%89%8D%E5%A4%AB%E7%99%BE%E4%B8%87%E6%AC%A0%E5%80%BA%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
         {
           "title": "女子离婚多年被告知要承担前夫欠债",
           "url": "https://www.toutiao.com/trending/7638275188557185030/",
@@ -84,6 +150,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "吴京发文庆祝与谢楠结婚十四周年",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%AC%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E4%B8%8E%E8%B0%A2%E6%A5%A0%E7%BB%93%E5%A9%9A%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
@@ -99,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 20时35分]"
         }
       ]
     }
