@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T14:50:55.562953+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-05-13T19:56:46.222238+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "创业板指创历史新高",
@@ -14,7 +14,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "【每日收评】创业板指涨2.63%，科技赛道持续爆发，绿电板块领涨",
+          "url": "https://www.cls.cn/detail/2370165",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "创业板指突破4037.96点 创历史新高",
@@ -36,7 +47,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -123,11 +134,80 @@
           "url": "https://wallstreetcn.com/articles/3772126",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 19时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女子反对生娃再领证被诉返30万彩礼",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8D%E5%AF%B9%E7%94%9F%E5%A8%83%E5%86%8D%E9%A2%86%E8%AF%81%E8%A2%AB%E8%AF%89%E8%BF%9430%E4%B8%87%E5%BD%A9%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时50分"
+          "time_info": "19时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "用不用心谈恋爱真的很明显",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8D%E7%94%A8%E5%BF%83%E8%B0%88%E6%81%8B%E7%88%B1%E7%9C%9F%E7%9A%84%E5%BE%88%E6%98%8E%E6%98%BE&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "刘晓庆谈女性独立",
+          "url": "https://www.douyin.com/hot/2496971",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大厂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI超节点放量元年？国内大厂相继押注 OEM环节或成下一受益方向",
+          "url": "https://www.cls.cn/detail/2369967",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         }
       ]
     },
@@ -140,11 +220,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354221&amp;topic_name=%E7%8E%A9%E5%AE%B6%E4%BA%92%E5%92%AC%2C%E4%B9%99%E6%B8%B8%E6%93%A6%E8%BE%B9%E9%81%AD%E4%B8%BE%E6%8A%A5",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 19时56分]"
         }
       ]
     },
