@@ -1,158 +1,95 @@
 {
-  "generated_at": "2026-05-14T19:45:55.986447+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-05-15T00:11:05.249114+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "失业 创业",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指涨2.63%，科技赛道持续爆发，绿电板块领涨",
-          "url": "https://www.cls.cn/detail/2370165",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
-        },
-        {
-          "title": "美联储Collins：一直预期生产率将持续增长，且这不仅仅是由人工智能（A.I.）驱动的。 失业率仍保持在相对较低的水平。 近期发生了一系列供应冲击，目前正密切关注供应端问题。 美联储的通胀目标涵盖了所有驱动价格的因素。 强劲的生产率增长应有助于减轻通胀压力。",
-          "url": "https://wallstreetcn.com/livenews/3103140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "美联储柯林斯：失业率目前保持相对较低。",
-          "url": "https://flash.jin10.com/detail/20260514000901639800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "加拿大央行：大约12%的受访加拿大企业使用人工智能（AI），在各行业的分部并不均衡。 诸多迹象表明，AI正带来生产力的小幅增长。 AI具备提振生产力、提高生活标准的潜力。 AI可能会改变人们的工作，但不会造成就业机会缩水。 AI尚未造成加拿大大规模失业。",
-          "url": "https://wallstreetcn.com/livenews/3103116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "35",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "以色列国防部发表声明称，已与埃尔比特系统公司（Elbit Systems）签署价值3400万美元的协议，以延长F-35战斗机的航程和续航能力。",
-          "url": "https://flash.jin10.com/detail/20260514144443401800",
-          "source": "金十数据",
+          "title": "反复提示溢价风险意味着什么？5月来35只基金有动作",
+          "url": "https://www.cls.cn/detail/2371483",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "德国DAX30指数5月14日（周四）收盘上涨352.70点，涨幅1.46%，报24454.43点；<br/>英国富时100指数5月14日（周四）收盘上涨42.34点，涨幅0.41%，报10367.69点；<br/>法国CAC40指数5月14日（周四）收盘上涨74.30点，涨幅0.93%，报8082.27点；<br/>欧洲斯托克50指数5月14日（周四）收盘上涨69.68点，涨幅1.19%，报5930.75点；<br/>西班牙IBEX35指数5月14日（周四）收盘上涨146.60点，涨幅0.83%，报17801.50点；<br/>意大利富时MIB指数5月14日（周四）收盘上涨560.80点，涨幅1.13%，报50041.50点。",
+          "url": "https://flash.jin10.com/detail/20260514233819241800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时58分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
       "keyword_group": "欠债 失败",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "伊朗海军上将西亚里：美国在伊朗战争中的失败将载入史册。",
-          "url": "https://flash.jin10.com/detail/20260514000152843800",
-          "source": "金十数据",
+          "title": "马化腾说「不能别人做什么就也跨过去，过去『抢别人地盘』基本失败了」，如何解读？腾讯都在哪些地方失败过？",
+          "url": "https://www.zhihu.com/question/2038038863252125208",
+          "source": "知乎",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
         {
-          "title": "结婚后无实质夫妻生活 男子欲讨彩礼",
-          "url": "https://www.toutiao.com/trending/7639408401180966966/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果2028款iPhone曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C2028%E6%AC%BEiPhone%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top",
+          "title": "男孩幽门螺杆菌阳性治疗4次全失败",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E9%98%B3%E6%80%A7%E6%B2%BB%E7%96%974%E6%AC%A1%E5%85%A8%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         }
       ]
     },
     {
-      "keyword_group": "大厂",
+      "keyword_group": "中年",
       "match_count": 1,
       "titles": [
         {
-          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
-          "url": "https://www.cls.cn/detail/2370802",
+          "title": "人到中年，如何去注重自已的身心健康？",
+          "url": "https://www.zhihu.com/question/2036685548291617157",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2371414",
           "source": "财联社热门",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "擦边",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "玩家互咬,乙游擦边遭举报",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354221&amp;topic_name=%E7%8E%A9%E5%AE%B6%E4%BA%92%E5%92%AC%2C%E4%B9%99%E6%B8%B8%E6%93%A6%E8%BE%B9%E9%81%AD%E4%B8%BE%E6%8A%A5",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 14时58分]"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         }
       ]
     }
