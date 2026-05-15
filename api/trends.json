@@ -1,200 +1,128 @@
 {
-  "generated_at": "2026-05-15T19:48:45.639056+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-05-16T00:04:34.547926+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "35",
-      "match_count": 6,
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 4,
       "titles": [
         {
-          "title": "【沪指、深成指均跌超1%，机器人概念股逆势走强】市场全天宽幅震荡，三大指数集体下挫。机器人概念股逆势走强，三丰智能、方正电机、奇精机械等多股涨停。氟化工板块大涨，多氟多、中欣氟材、金石资源等涨停。体育概念股活跃，双象股份、共创草坪、粤传媒涨停。下跌方面，贵金属板块下挫，兴业银锡跌超8%。个股跌多涨少，沪深京三市超3500股飘绿，成交连续第8个交易日突破3万亿。截止收盘沪指跌1.02%，深成指跌1.17%，创业板指跌0.56%。",
-          "url": "https://wallstreetcn.com/livenews/3104195",
-          "source": "华尔街见闻-快讯",
+          "title": "男人结婚两年变化能有多大",
+          "url": "https://www.toutiao.com/trending/7639283281661968422/",
+          "source": "今日头条",
           "ranks": [
-            1
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时11分"
+          "time_info": "00时04分"
         },
         {
-          "title": "反复提示溢价风险意味着什么？5月来35只基金有动作",
-          "url": "https://www.cls.cn/detail/2371483",
-          "source": "财联社热门",
+          "title": "61岁总裁离婚持股98%分前妻",
+          "url": "https://s.weibo.com/weibo?q=%2361%E5%B2%81%E6%80%BB%E8%A3%81%E7%A6%BB%E5%A9%9A%E6%8C%81%E8%82%A198%25%E5%88%86%E5%89%8D%E5%A6%BB%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "日本存储巨头铠侠：第四季度营业利润为5968亿日元，市场预期为5193.3亿日元。 第四季度净利润为4077.3亿日元，市场预期为3582.1亿日元。 第四季度净销售额为1万亿日元，市场预期为9209亿日元。 预计第一季度预计营业利润为1.30万亿日元，市场预期为8740.9亿日元。 预计第一季度净利润为8690亿日元，市场预期为6127.1亿日元。 预计第一季度净销售额为1.75万亿日元，市场预期为1.33万亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3104183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时11分"
+          "time_info": "00时04分"
+        },
+        {
+          "title": "曝蒋毅离婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%92%8B%E6%AF%85%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "61岁总裁离婚将98%股票过户给前妻",
+          "url": "https://www.baidu.com/s?wd=61%E5%B2%81%E6%80%BB%E8%A3%81%E7%A6%BB%E5%A9%9A%E5%B0%8698%25%E8%82%A1%E7%A5%A8%E8%BF%87%E6%88%B7%E7%BB%99%E5%89%8D%E5%A6%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德国DAX30指数5月15日（周五）收盘下跌497.63点，跌幅2.04%，报23954.99点；<br/>英国富时100指数5月15日（周五）收盘下跌185.27点，跌幅1.79%，报10187.66点；<br/>法国CAC40指数5月15日（周五）收盘下跌129.72点，跌幅1.60%，报7952.55点；<br/>欧洲斯托克50指数5月15日（周五）收盘下跌97.80点，跌幅1.65%，报5828.95点；<br/>西班牙IBEX35指数5月15日（周五）收盘下跌190.61点，跌幅1.07%，报17618.59点；<br/>意大利富时MIB指数5月15日（周五）收盘下跌911.77点，跌幅1.82%，报49138.50点。",
+          "url": "https://flash.jin10.com/detail/20260515233634838800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
           "title": "【每日收评】沪指与深成指双双跌超1%，全市场超3500股飘绿，机器人概念股逆势爆发",
           "url": "https://www.cls.cn/detail/2372554",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "德国DAX30指数5月14日（周四）收盘上涨352.70点，涨幅1.46%，报24454.43点；<br/>英国富时100指数5月14日（周四）收盘上涨42.34点，涨幅0.41%，报10367.69点；<br/>法国CAC40指数5月14日（周四）收盘上涨74.30点，涨幅0.93%，报8082.27点；<br/>欧洲斯托克50指数5月14日（周四）收盘上涨69.68点，涨幅1.19%，报5930.75点；<br/>西班牙IBEX35指数5月14日（周四）收盘上涨146.60点，涨幅0.83%，报17801.50点；<br/>意大利富时MIB指数5月14日（周四）收盘上涨560.80点，涨幅1.13%，报50041.50点。",
-          "url": "https://flash.jin10.com/detail/20260514233819241800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "日本40年期国债收益率上升8.5个基点，达到4.235%，创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20260515142217595800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马化腾说「不能别人做什么就也跨过去，过去『抢别人地盘』基本失败了」，如何解读？腾讯都在哪些地方失败过？",
-          "url": "https://www.zhihu.com/question/2038038863252125208",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "男孩幽门螺杆菌阳性治疗4次全失败",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E9%98%B3%E6%80%A7%E6%B2%BB%E7%96%974%E6%AC%A1%E5%85%A8%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "股价大跌因“谈价失败”？胜宏科技回应：不实信息",
-          "url": "https://wallstreetcn.com/livenews/3104153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时11分"
+          "time_info": "00时04分"
         }
       ]
     },
     {
       "keyword_group": "Apple iPhone",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "苹果深夜降价：iPhone17上市后首次降价",
-          "url": "https://www.cls.cn/detail/2371883",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 15时11分]"
-        },
-        {
-          "title": "iPhone17系列大降价",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17%E7%B3%BB%E5%88%97%E5%A4%A7%E9%99%8D%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 15时11分]"
-        },
-        {
-          "title": "第一批iPhone17降价受害者发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9iPhone17%E9%99%8D%E4%BB%B7%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 15时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
       "match_count": 2,
       "titles": [
         {
-          "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2371414",
-          "source": "财联社热门",
+          "title": "部分降价千元！苹果华为开启促销，iPhone17Pro最低6999元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181501",
+          "source": "澎湃新闻",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "沪指午后再度跌超1%，深成指现跌1.3%，创业板指跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3104145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时11分"
+          "time_info": "00时04分"
+        },
+        {
+          "title": "iPhone一年一换比三年一换更省钱",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone%E4%B8%80%E5%B9%B4%E4%B8%80%E6%8D%A2%E6%AF%94%E4%B8%89%E5%B9%B4%E4%B8%80%E6%8D%A2%E6%9B%B4%E7%9C%81%E9%92%B1%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     },
     {
-      "keyword_group": "中年",
+      "keyword_group": "欠债 失败",
       "match_count": 1,
       "titles": [
         {
-          "title": "人到中年，如何去注重自已的身心健康？",
-          "url": "https://www.zhihu.com/question/2036685548291617157",
-          "source": "知乎",
+          "title": "拉扯失败!doinb官宣停播",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354329&amp;topic_name=%E6%8B%89%E6%89%AF%E5%A4%B1%E8%B4%A5%21doinb%E5%AE%98%E5%AE%A3%E5%81%9C%E6%92%AD",
+          "source": "贴吧",
           "ranks": [
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     }
