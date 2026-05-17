@@ -1,175 +1,11 @@
 {
-  "generated_at": "2026-05-16T22:58:47.376584+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-05-17T14:47:17.647113+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "上市公司总裁离婚 前妻分走98%股份",
-          "url": "https://www.toutiao.com/trending/7639985730673459243/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
-          "title": "61岁总裁离婚将98%股票过户给前妻",
-          "url": "https://www.baidu.com/s?wd=61%E5%B2%81%E6%80%BB%E8%A3%81%E7%A6%BB%E5%A9%9A%E5%B0%8698%25%E8%82%A1%E7%A5%A8%E8%BF%87%E6%88%B7%E7%BB%99%E5%89%8D%E5%A6%BB",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 14时24分]"
-        },
-        {
-          "title": "曾经在一起四年的前男朋友结婚已经两年了，但我还是走不出来，怎么办？",
-          "url": "https://www.zhihu.com/question/1975280202390205761",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "牛冠凯宣布结婚",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%9B%E5%86%A0%E5%87%AF%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "男人结婚两年变化能有多大",
-          "url": "https://www.toutiao.com/trending/7639283281661968422/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "61岁总裁离婚持股98%分前妻",
-          "url": "https://s.weibo.com/weibo?q=%2361%E5%B2%81%E6%80%BB%E8%A3%81%E7%A6%BB%E5%A9%9A%E6%8C%81%E8%82%A198%25%E5%88%86%E5%89%8D%E5%A6%BB%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "曝蒋毅离婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%92%8B%E6%AF%85%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "姑姑养大侄女却扣下16万彩礼拒返还",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A7%91%E5%85%BB%E5%A4%A7%E4%BE%84%E5%A5%B3%E5%8D%B4%E6%89%A3%E4%B8%8B16%E4%B8%87%E5%BD%A9%E7%A4%BC%E6%8B%92%E8%BF%94%E8%BF%98%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "iPhone17降价,安卓被打懵",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354336&amp;topic_name=iPhone17%E9%99%8D%E4%BB%B7%2C%E5%AE%89%E5%8D%93%E8%A2%AB%E6%89%93%E6%87%B5",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 22时58分]"
-        },
-        {
-          "title": "部分降价千元！苹果华为开启促销，iPhone17Pro最低6999元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181501",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "iPhone一年一换比三年一换更省钱",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone%E4%B8%80%E5%B9%B4%E4%B8%80%E6%8D%A2%E6%AF%94%E4%B8%89%E5%B9%B4%E4%B8%80%E6%8D%A2%E6%9B%B4%E7%9C%81%E9%92%B1%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "德国DAX30指数5月15日（周五）收盘下跌497.63点，跌幅2.04%，报23954.99点；<br/>英国富时100指数5月15日（周五）收盘下跌185.27点，跌幅1.79%，报10187.66点；<br/>法国CAC40指数5月15日（周五）收盘下跌129.72点，跌幅1.60%，报7952.55点；<br/>欧洲斯托克50指数5月15日（周五）收盘下跌97.80点，跌幅1.65%，报5828.95点；<br/>西班牙IBEX35指数5月15日（周五）收盘下跌190.61点，跌幅1.07%，报17618.59点；<br/>意大利富时MIB指数5月15日（周五）收盘下跌911.77点，跌幅1.82%，报49138.50点。",
-          "url": "https://flash.jin10.com/detail/20260515233634838800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "【每日收评】沪指与深成指双双跌超1%，全市场超3500股飘绿，机器人概念股逆势爆发",
-          "url": "https://www.cls.cn/detail/2372554",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "独立",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -178,20 +14,81 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时58分"
+          "time_info": "14时47分"
+        },
+        {
+          "title": "多家银行关停独立信用卡App，有何影响？",
+          "url": "https://flash.jin10.com/detail/20260517132651273800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
+          "url": "https://www.zhihu.com/question/2039077052658049213",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
           "url": "https://www.toutiao.com/trending/7640462139869630015/",
           "source": "今日头条",
           "ranks": [
-            12
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时58分"
+          "time_info": "14时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "央视调查乡村彩礼之困",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E4%B9%A1%E6%9D%91%E5%BD%A9%E7%A4%BC%E4%B9%8B%E5%9B%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "姑姑养大侄女 扣16万彩礼拒还被起诉",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E5%85%BB%E5%A4%A7%E4%BE%84%E5%A5%B3+%E6%89%A316%E4%B8%87%E5%BD%A9%E7%A4%BC%E6%8B%92%E8%BF%98%E8%A2%AB%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "男子新婚不久确诊胃癌晚期提离婚",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%96%B0%E5%A9%9A%E4%B8%8D%E4%B9%85%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E6%8F%90%E7%A6%BB%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
@@ -204,32 +101,28 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354329&amp;topic_name=%E6%8B%89%E6%89%AF%E5%A4%B1%E8%B4%A5%21doinb%E5%AE%98%E5%AE%A3%E5%81%9C%E6%92%AD",
           "source": "贴吧",
           "ranks": [
-            6,
-            13,
-            15,
-            19
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 22时58分]"
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
     {
-      "keyword_group": "大厂",
+      "keyword_group": "Apple iPhone",
       "match_count": 1,
       "titles": [
         {
-          "title": "“Token工厂”开启真实落地：运营商启动百亿级集采 大厂加速卡位",
-          "url": "https://www.cls.cn/detail/2372332",
-          "source": "财联社热门",
+          "title": "iPhone17降价,安卓被打懵",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354336&amp;topic_name=iPhone17%E9%99%8D%E4%BB%B7%2C%E5%AE%89%E5%8D%93%E8%A2%AB%E6%89%93%E6%87%B5",
+          "source": "贴吧",
           "ranks": [
-            9,
-            13
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 18时56分]"
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     }
