@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T18:59:59.638673+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-05-17T22:59:12.789363+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
@@ -104,11 +104,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 22时59分]"
         },
         {
           "title": "iPhone降价 胖东来联系顾客退差价",
@@ -117,7 +118,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         }
@@ -133,11 +134,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 22时59分]"
         }
       ]
     }
