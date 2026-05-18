@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-18T16:06:42.183370+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-18T21:02:02.643619+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "线城市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国家统计局：4月份一线城市商品住宅销售价格环比上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33192383",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 21时02分]"
+        },
+        {
+          "title": "4月70城房价：一线城市二手房价环比连续第二个月上涨，二三线城市房价环比降幅收窄或持平",
+          "url": "https://wallstreetcn.com/articles/3772478",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "4 月一线城市房价环比上涨，二三线降幅收窄，怎样解读？楼市真稳住了吗？二三线城市何时跟涨？",
+          "url": "https://www.zhihu.com/question/2039647734639108645",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        }
+      ]
+    },
     {
       "keyword_group": "彩礼 结婚 离婚",
       "match_count": 2,
@@ -36,22 +75,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "iPhone17降价,安卓被打懵",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354336&amp;topic_name=iPhone17%E9%99%8D%E4%BB%B7%2C%E5%AE%89%E5%8D%93%E8%A2%AB%E6%89%93%E6%87%B5",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 21时02分]"
+        },
+        {
           "title": "iPhone18Pro系列手机壳曝光",
           "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "iPhone17降价,安卓被打懵",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354336&amp;topic_name=iPhone17%E9%99%8D%E4%BB%B7%2C%E5%AE%89%E5%8D%93%E8%A2%AB%E6%89%93%E6%87%B5",
-          "source": "贴吧",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -68,11 +108,12 @@
           "url": "https://www.zhihu.com/question/2039630692439384740",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 21时02分]"
         }
       ]
     },
@@ -103,23 +144,6 @@
           "source": "百度热搜",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "线城市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家统计局：4月份一线城市商品住宅销售价格环比上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33192383",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
