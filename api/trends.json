@@ -1,96 +1,33 @@
 {
-  "generated_at": "2026-05-17T22:59:12.789363+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-05-18T16:06:42.183370+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "独立",
-      "match_count": 4,
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 2,
       "titles": [
         {
-          "title": "特朗普：不希望看到台湾有人闹“独立”",
-          "url": "https://news.ifeng.com/c/8tBHQ0gcJR0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 18时59分]"
-        },
-        {
-          "title": "多家银行关停独立信用卡App，有何影响？",
-          "url": "https://flash.jin10.com/detail/20260517132651273800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
-          "url": "https://www.zhihu.com/question/2039077052658049213",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "特朗普警告台湾不要试图走向“独立”",
-          "url": "https://www.toutiao.com/trending/7640462139869630015/",
+          "title": "毛巾老板直播被骂晒结婚证自证清白",
+          "url": "https://www.toutiao.com/trending/7640622493820010502/",
           "source": "今日头条",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "央视调查乡村彩礼之困",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E4%B9%A1%E6%9D%91%E5%BD%A9%E7%A4%BC%E4%B9%8B%E5%9B%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 18时59分]"
+          "time_info": "16时06分"
         },
         {
-          "title": "姑姑养大侄女 扣16万彩礼拒还被起诉",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E5%85%BB%E5%A4%A7%E4%BE%84%E5%A5%B3+%E6%89%A316%E4%B8%87%E5%BD%A9%E7%A4%BC%E6%8B%92%E8%BF%98%E8%A2%AB%E8%B5%B7%E8%AF%89",
+          "title": "毛巾老板直播被骂晒结婚证自证清白",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E5%B7%BE%E8%80%81%E6%9D%BF%E7%9B%B4%E6%92%AD%E8%A2%AB%E9%AA%82%E6%99%92%E7%BB%93%E5%A9%9A%E8%AF%81%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD",
           "source": "百度热搜",
           "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 18时59分]"
-        },
-        {
-          "title": "男子新婚不久确诊胃癌晚期提离婚",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%96%B0%E5%A9%9A%E4%B8%8D%E4%B9%85%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E6%8F%90%E7%A6%BB%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时47分"
+          "time_info": "16时06分"
         }
       ]
     },
@@ -99,28 +36,43 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "iPhone18Pro系列手机壳曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "iPhone17降价,安卓被打懵",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354336&amp;topic_name=iPhone17%E9%99%8D%E4%BB%B7%2C%E5%AE%89%E5%8D%93%E8%A2%AB%E6%89%93%E6%87%B5",
           "source": "贴吧",
           "ranks": [
-            14,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时47分 ~ 22时59分]"
-        },
-        {
-          "title": "iPhone降价 胖东来联系顾客退差价",
-          "url": "https://www.baidu.com/s?wd=iPhone%E9%99%8D%E4%BB%B7+%E8%83%96%E4%B8%9C%E6%9D%A5%E8%81%94%E7%B3%BB%E9%A1%BE%E5%AE%A2%E9%80%80%E5%B7%AE%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            20
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "16时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国股市开盘闪崩，瞬间暴跌 350 点，启动熔断机制，背后原因是什么？应如何理解其市场信号？",
+          "url": "https://www.zhihu.com/question/2039630692439384740",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
@@ -133,13 +85,45 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354329&amp;topic_name=%E6%8B%89%E6%89%AF%E5%A4%B1%E8%B4%A5%21doinb%E5%AE%98%E5%AE%A3%E5%81%9C%E6%92%AD",
           "source": "贴吧",
           "ranks": [
-            20,
-            22,
-            23
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时47分 ~ 22时59分]"
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "擦边",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“娜塔莎”娃娃爆火 被批暴力擦边",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%9C%E5%A1%94%E8%8E%8E%E2%80%9D%E5%A8%83%E5%A8%83%E7%88%86%E7%81%AB+%E8%A2%AB%E6%89%B9%E6%9A%B4%E5%8A%9B%E6%93%A6%E8%BE%B9",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "线城市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家统计局：4月份一线城市商品住宅销售价格环比上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33192383",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     }
