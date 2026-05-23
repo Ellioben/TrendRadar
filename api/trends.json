@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-23T19:05:27.082306+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-05-23T23:03:07.490392+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
+          "url": "https://www.cls.cn/detail/2379778",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
+          "title": "创业板涨超2%，算力硬件集体爆发，PCB、光模块齐涨，恒科指涨超2%，联想暴涨20%，智谱狂飙斤30%",
+          "url": "https://wallstreetcn.com/articles/3772886",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
     {
       "keyword_group": "独立",
       "match_count": 3,
@@ -27,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 19时05分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 23时03分]"
         },
         {
           "title": "美国总统特朗普：预计凯文·沃什将是一位伟大的美联储主席。 沃什将从今天开始领导美联储。 没有人比沃什更适合领导美联储。 沃什对美联储的尊重是最深的。 希望沃什完全是独立的。 （告诉沃什）别看我，做好你自己的工作。 希望沃什独立，做一个伟大的工作。 沃什理解、知道何时经济繁荣，那很好。 美联储是全球金融体系的支柱。",
@@ -54,7 +93,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -83,34 +122,6 @@
       ]
     },
     {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "创业板涨超2%，算力硬件集体爆发，PCB、光模块齐涨，恒科指涨超2%，联想暴涨20%，智谱狂飙斤30%",
-          "url": "https://wallstreetcn.com/articles/3772886",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
-          "url": "https://www.cls.cn/detail/2379110",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "奋斗 躺平",
       "match_count": 2,
       "titles": [
@@ -124,8 +135,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 19时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 23时03分]"
         },
         {
           "title": "霸凌模式·开!鹿丸只想躺平",
@@ -185,7 +196,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         }
