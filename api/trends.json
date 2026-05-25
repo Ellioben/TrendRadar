@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-05-25T16:23:33.752062+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-25T20:57:02.313471+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "创业板涨超2%，科创50狂飙近6%，芯片半导体大爆发，中芯国际涨停、寒武纪创历史新高，“双焦”强势涨停",
+          "url": "https://wallstreetcn.com/articles/3773021",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指涨逾2%收复4000点，全市场连续2日超百股涨停，科创芯片股批量创历史新高",
+          "url": "https://www.cls.cn/detail/2380774",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "妈妈离婚当日遇害姐妹俩惧怕婚姻",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%A6%BB%E5%A9%9A%E5%BD%93%E6%97%A5%E9%81%87%E5%AE%B3%E5%A7%90%E5%A6%B9%E4%BF%A9%E6%83%A7%E6%80%95%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "林小宅黑泽疑似恋爱",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B0%8F%E5%AE%85%E9%BB%91%E6%B3%BD%E7%96%91%E4%BC%BC%E6%81%8B%E7%88%B1%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        }
+      ]
+    },
     {
       "keyword_group": "996",
       "match_count": 1,
@@ -38,6 +100,23 @@
       ]
     },
     {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone20原型机偷跑",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone20%E5%8E%9F%E5%9E%8B%E6%9C%BA%E5%81%B7%E8%B7%91%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "赚钱",
       "match_count": 1,
       "titles": [
@@ -46,11 +125,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33205033",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 20时57分]"
         }
       ]
     }
