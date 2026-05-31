@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T15:48:15.177430+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-31T19:29:14.517875+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354720&amp;topic_name=%E6%BE%84%E6%B8%85%E5%A4%B1%E8%B4%A5%2C%E4%B8%89%E4%B9%9D%E8%A2%AB%E9%AA%82%E5%88%B0%E7%A0%B4%E9%98%B2%E5%88%A0%E5%B8%96",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 19时29分]"
         }
       ]
     },
@@ -55,6 +56,23 @@
       ]
     },
     {
+      "keyword_group": "WINDOWS",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋预告“PC新时代”：英伟达不想只卖GPU了，开始抢下一代Windows入口",
+          "url": "https://wallstreetcn.com/articles/3773517",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "擦边",
       "match_count": 1,
       "titles": [
@@ -63,11 +81,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354696&amp;topic_name=B%E7%AB%99%E5%95%86%E5%9F%8E%E6%93%A6%E8%BE%B9%E4%BA%A7%E5%93%81%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 19时29分]"
         }
       ]
     }
