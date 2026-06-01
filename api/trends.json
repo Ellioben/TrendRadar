@@ -1,129 +1,44 @@
 {
-  "generated_at": "2026-06-01T23:49:35.097963+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-06-02T03:21:38.075731+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "杭州两名 9 岁女孩被困电梯近 2 小时求助超 35 次，保安无动于衷称别再按电梯玩，产生这种情况的根源是什么？",
           "url": "https://www.zhihu.com/question/2044442679405172363",
           "source": "知乎",
           "ranks": [
-            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 23时49分]"
-        },
-        {
-          "title": "德国DAX30指数6月1日（周一）收盘下跌90.74点，跌幅0.36%，报25022.32点；<br/>英国富时100指数6月1日（周一）收盘下跌69.45点，跌幅0.67%，报10339.83点；<br/>法国CAC40指数6月1日（周一）收盘下跌36.75点，跌幅0.45%，报8146.59点；<br/>欧洲斯托克50指数6月1日（周一）收盘下跌16.18点，跌幅0.27%，报6034.36点；<br/>西班牙IBEX35指数6月1日（周一）收盘下跌178.44点，跌幅0.97%，报18189.86点；<br/>意大利富时MIB指数6月1日（周一）收盘下跌255.25点，跌幅0.51%，报49781.50点。",
-          "url": "https://flash.jin10.com/detail/20260601233743296800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "理想汽车5月交付新车33350辆",
-          "url": "https://wallstreetcn.com/livenews/3112299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "巴基斯坦需要加速购买歼-35吗？",
-          "url": "https://news.ifeng.com/c/8tb0NpH460c",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "03时21分"
         },
         {
           "title": "比亚迪5月销量38.35万辆",
           "url": "https://www.toutiao.com/trending/7646298562599239689/",
           "source": "今日头条",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧元区4月失业率 6.3%，预期 6.2%，前值 6.2%。",
-          "url": "https://wallstreetcn.com/livenews/3112313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "03时21分"
         },
         {
-          "title": "欧元区4月失业率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260601165000001800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "锤娜丽莎公开和李川恋爱时间线",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E5%85%AC%E5%BC%80%E5%92%8C%E6%9D%8E%E5%B7%9D%E6%81%8B%E7%88%B1%E6%97%B6%E9%97%B4%E7%BA%BF%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开发者",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：微软将在Build开发者大会发布全新AI模型与Windows升级内容",
-          "url": "https://wallstreetcn.com/livenews/3112528",
+          "title": "国际铜夜盘收涨1.10%，沪铜收涨1.12%，沪铝收涨0.49%，沪锌收涨0.26%，沪铅收跌0.09%，沪镍收涨1.26%，沪锡收涨2.46%。 氧化铝夜盘收跌0.69%，铝合金收涨0.35%。 不锈钢夜盘收涨1.52%。",
+          "url": "https://wallstreetcn.com/livenews/3112591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "03时21分"
         }
       ]
     },
@@ -138,9 +53,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "03时21分"
         }
       ]
     },
@@ -153,11 +68,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33282612",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "03时21分"
         }
       ]
     }
