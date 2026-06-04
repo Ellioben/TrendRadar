@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-04T02:24:16.070892+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-04T16:23:15.063102+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "35",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
+          "url": "https://wallstreetcn.com/articles/3773813",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "全球首位万亿美元富豪本月诞生？SpaceX披露IPO细节 敲定135美元发行价",
+          "url": "https://www.cls.cn/detail/2390224",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "周三（6月3日），韩元兑美元最终跌1.13%，报1535.14韩元。 北京时间13:18，韩元初夏一波加速下跌行情，14:00以来持续震荡走低。",
+          "url": "https://wallstreetcn.com/livenews/3113958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "周三（6月3日），美联储隔夜逆回购协议（RRP）使用规模为20.62亿美元（交易对手35家），上个交易日报25.02亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3113953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了35个对手方的20.62亿美元。",
+          "url": "https://flash.jin10.com/detail/20260604012229134800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "上证指数收报4057.78点，跌0.64%。 深证成指收报15661.57点，跌0.27%。 创业板指收报4088.88点，跌0.83%。 沪深300收报4904.75点，跌0.69%。 科创50收报1738.06点，涨0.69%。 中证500收报8356.74点，跌0.06%。 中证1000收报8420.09点，跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3114261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "彩礼 结婚 离婚",
       "match_count": 5,
@@ -65,45 +137,6 @@
       ]
     },
     {
-      "keyword_group": "35",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周三（6月3日），韩元兑美元最终跌1.13%，报1535.14韩元。 北京时间13:18，韩元初夏一波加速下跌行情，14:00以来持续震荡走低。",
-          "url": "https://wallstreetcn.com/livenews/3113958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "周三（6月3日），美联储隔夜逆回购协议（RRP）使用规模为20.62亿美元（交易对手35家），上个交易日报25.02亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3113953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了35个对手方的20.62亿美元。",
-          "url": "https://flash.jin10.com/detail/20260604012229134800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "失业 创业",
       "match_count": 2,
       "titles": [
@@ -140,11 +173,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33302306",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 16时23分]"
         },
         {
           "title": "压抑了?洛克摄影现擦边图",
@@ -156,6 +190,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 02时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "从怀孕到生娃能领7笔钱",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E6%80%80%E5%AD%95%E5%88%B0%E7%94%9F%E5%A8%83%E8%83%BD%E9%A2%867%E7%AC%94%E9%92%B1",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         }
       ]
     },
@@ -190,6 +241,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 02时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝iPhone18Pro首发第二代灵动岛",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E9%A6%96%E5%8F%91%E7%AC%AC%E4%BA%8C%E4%BB%A3%E7%81%B5%E5%8A%A8%E5%B2%9B%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         }
       ]
     }
