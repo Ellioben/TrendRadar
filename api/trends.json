@@ -1,8 +1,124 @@
 {
-  "generated_at": "2026-06-05T16:09:39.287650+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-06-05T20:32:56.746057+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美国劳工统计局：失业率保持在4.3%，自2025年7月以来一直维持在4.3%至4.5%的窄幅区间内。失业总人数为730万。",
+          "url": "https://flash.jin10.com/detail/20260605203150929800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "美国5月失业率继续持稳 符合预期",
+          "url": "https://flash.jin10.com/detail/20260605203034715800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "美国5月U6失业率 8.1%，前值8.20%。",
+          "url": "https://flash.jin10.com/detail/20260605203005270800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "美国5月失业率 4.3%，预期4.30%，前值4.30%。",
+          "url": "https://flash.jin10.com/detail/20260605203005263800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "A股收评：创业板指放量跌超3%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%94%BE%E9%87%8F%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "加拿大5月失业率 6.6%，预期6.90%，前值6.90%。",
+          "url": "https://flash.jin10.com/detail/20260605203002858800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "国务院常务会议：审议通过《退役军人就业创业促进条例（草案）》",
+          "url": "https://wallstreetcn.com/livenews/3115088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "创业板指放量跌超3%，机器人概念股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3114877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "上证指数收报4027.74点，跌0.74%。 深证成指收报15314.70点，跌2.21%。 创业板指收报3957.93点，跌3.20%。 沪深300收报4816.92点，跌1.79%。 科创50收报1668.33点，跌4.01%。 中证500收报8251.14点，跌1.26%。 中证1000收报8340.96点，跌0.94%。",
+          "url": "https://wallstreetcn.com/livenews/3114876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        }
+      ]
+    },
     {
       "keyword_group": "35",
       "match_count": 4,
@@ -36,7 +152,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -50,45 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股收评：创业板指放量跌超3%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%94%BE%E9%87%8F%E8%B7%8C%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "创业板指放量跌超3%，机器人概念股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3114877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "上证指数收报4027.74点，跌0.74%。 深证成指收报15314.70点，跌2.21%。 创业板指收报3957.93点，跌3.20%。 沪深300收报4816.92点，跌1.79%。 科创50收报1668.33点，跌4.01%。 中证500收报8251.14点，跌1.26%。 中证1000收报8340.96点，跌0.94%。",
-          "url": "https://wallstreetcn.com/livenews/3114876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
         }
       ]
     },
@@ -133,8 +210,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 16时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 20时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纪检部门介入离婚牵出近亿财产",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%AA%E6%A3%80%E9%83%A8%E9%97%A8%E4%BB%8B%E5%85%A5%E7%A6%BB%E5%A9%9A%E7%89%B5%E5%87%BA%E8%BF%91%E4%BA%BF%E8%B4%A2%E4%BA%A7%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
