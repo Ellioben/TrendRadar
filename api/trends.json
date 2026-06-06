@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T19:18:18.709294+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-06-06T23:18:44.493676+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英镑/美元日内跌幅达0.5%，报1.3352。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "黎巴嫩卫生部：自3月2日以来，以色列的攻击已造成3593人遇难，10990人受伤。",
+          "url": "https://flash.jin10.com/detail/20260606224509858800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "LME期铜跌3%，报13514美元。",
@@ -66,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 23时18分]"
         },
         {
           "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
@@ -125,7 +136,7 @@
     },
     {
       "keyword_group": "欠债 失败",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "男子3天领证9天后才知妻子欠债10万",
@@ -137,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "9 年救助 5 万只猫导致欠债，个人救助与流浪动物难题如何平衡？",
+          "url": "https://www.zhihu.com/question/2042942576928494112",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
