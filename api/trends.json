@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-07T19:43:38.113517+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-06-07T23:26:07.410518+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彩礼 结婚 离婚",
       "match_count": 3,
       "titles": [
+        {
+          "title": "广东26岁女子欲离婚遭丈夫杀害案二审将开庭，丈夫此前被判死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33326367",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 23时26分]"
+        },
         {
           "title": "李晨妹妹结婚",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E5%A6%B9%E5%A6%B9%E7%BB%93%E5%A9%9A%23&t=31&band_rank=21&Refer=top",
@@ -29,23 +41,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时00分 ~ 16时02分]"
-        },
-        {
-          "title": "广东26岁女子欲离婚遭丈夫杀害案二审将开庭，丈夫此前被判死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33326367",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
         }
       ]
     },
     {
       "keyword_group": "35",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "华为 PuraXMax 首月销量近 35 万台，典藏版卖得更好，这释放了哪些市场信号？",
@@ -53,11 +54,23 @@
           "source": "知乎",
           "ranks": [
             20,
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时00分 ~ 19时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时00分 ~ 23时26分]"
+        },
+        {
+          "title": "国际航空运输协会：航空业今年的燃料总支出将达到3500亿美元，较2025年的2520亿美元有所上升。",
+          "url": "https://flash.jin10.com/detail/20260607210305392800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
@@ -72,9 +85,26 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "奋斗 躺平",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "致敬奋斗时光 2026高考场外图鉴",
+          "url": "https://www.toutiao.com/trending/7647819562624323114/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         }
       ]
     }
