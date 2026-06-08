@@ -1,76 +1,84 @@
 {
-  "generated_at": "2026-06-07T23:26:07.410518+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-06-08T16:57:31.139152+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
+      "keyword_group": "开发者",
+      "match_count": 2,
       "titles": [
         {
-          "title": "广东26岁女子欲离婚遭丈夫杀害案二审将开庭，丈夫此前被判死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33326367",
-          "source": "澎湃新闻",
+          "title": "微信发布关于开发者接入微信AI生态的指引",
+          "url": "https://flash.jin10.com/detail/20260608162805734800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 23时26分]"
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
-          "title": "李晨妹妹结婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E5%A6%B9%E5%A6%B9%E7%BB%93%E5%A9%9A%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "微信宣布面向开发者提供接入微信AI生态的能力",
+          "url": "https://wallstreetcn.com/livenews/3115998",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            22
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时00分 ~ 16时02分]"
-        },
-        {
-          "title": "“大黑牛”李晨妹妹结婚",
-          "url": "https://www.toutiao.com/trending/7648258431979175979/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时00分 ~ 16时02分]"
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     },
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "华为 PuraXMax 首月销量近 35 万台，典藏版卖得更好，这释放了哪些市场信号？",
-          "url": "https://www.zhihu.com/question/2045967359232448046",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时00分 ~ 23时26分]"
-        },
-        {
-          "title": "国际航空运输协会：航空业今年的燃料总支出将达到3500亿美元，较2025年的2520亿美元有所上升。",
-          "url": "https://flash.jin10.com/detail/20260607210305392800",
+          "title": "香港恒生指数6月8日（周一）收盘下跌304.89点，跌幅1.22%，报24657.06点；<br/>香港恒生科技指数6月8日（周一）收盘下跌132.48点，跌幅2.71%，报4755.91点；<br/>国企指数6月8日（周一）收盘下跌95.27点，跌幅1.13%，报8341.36点；<br/>红筹指数6月8日（周一）收盘下跌17.98点，跌幅0.41%，报4335.39点。",
+          "url": "https://flash.jin10.com/detail/20260608161221472800",
           "source": "金十数据",
           "ranks": [
-            27
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时26分"
+          "time_info": "16时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当有人问你不谈恋爱每天都在干什么",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%9C%89%E4%BA%BA%E9%97%AE%E4%BD%A0%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "WINDOWS",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Windows 笔记本集体重回 8GB 内存，当前配置还够用吗？",
+          "url": "https://www.zhihu.com/question/2046537171251869369",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     },
@@ -79,32 +87,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "iPhone用户的崩溃瞬间",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=6&Refer=top",
+          "title": "iPhone18ProMax电池容量",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "奋斗 躺平",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "致敬奋斗时光 2026高考场外图鉴",
-          "url": "https://www.toutiao.com/trending/7647819562624323114/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时26分]"
+          "time_info": "16时57分"
         }
       ]
     }
