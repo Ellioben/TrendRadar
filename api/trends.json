@@ -1,44 +1,61 @@
 {
-  "generated_at": "2026-06-08T22:02:36.080791+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-06-09T01:24:27.247222+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "标普500指数高开56.83点，涨幅0.77%，报7440.57点； 道琼斯工业平均指数高开130.45点，涨幅0.26%，报50997.23点； 纳斯达克综合指数高开355.64点，涨幅1.38%，报26065.07点。",
-          "url": "https://wallstreetcn.com/livenews/3116208",
+          "title": "LME期铜收涨96美元，报13616美元/吨。 LME期铝收涨12美元，报3604美元/吨。 LME期锌收涨7美元，报3537美元/吨。 LME期铅收跌15美元，报1990美元/吨。 LME期镍收跌240美元，报18341美元/吨。 LME期锡收跌656美元，报52279美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3116282",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "菲律宾南部地震已造成35人死亡",
+          "url": "https://wallstreetcn.com/livenews/3116254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
+          "url": "https://wallstreetcn.com/articles/3774065",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "01时24分"
         },
         {
-          "title": "香港天文台晚上9时35分改发红色暴雨警告信号。",
-          "url": "https://flash.jin10.com/detail/20260608213716439800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "香港恒生指数6月8日（周一）收盘下跌304.89点，跌幅1.22%，报24657.06点；<br/>香港恒生科技指数6月8日（周一）收盘下跌132.48点，跌幅2.71%，报4755.91点；<br/>国企指数6月8日（周一）收盘下跌95.27点，跌幅1.13%，报8341.36点；<br/>红筹指数6月8日（周一）收盘下跌17.98点，跌幅0.41%，报4335.39点。",
-          "url": "https://flash.jin10.com/detail/20260608161221472800",
-          "source": "金十数据",
+          "title": "美国纽约联储最新调查结果显示，美国5月一年期通胀预期下降至3.46%，前值3.64%。 5月三年期通胀预期持稳于3.1%，五年期通胀预期持稳于3%。 5月家庭财务前景创2022年以来最差。 5月失业预期上升，求职预期下滑。 5月离职率预期创2023年2月份以来新高。 5月房价涨幅预期创2022年7月份以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3116248",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "01时24分"
         }
       ]
     },
@@ -47,77 +64,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "微信发布关于开发者接入微信AI生态的指引",
-          "url": "https://flash.jin10.com/detail/20260608162805734800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "微信宣布面向开发者提供接入微信AI生态的能力",
-          "url": "https://wallstreetcn.com/livenews/3115998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
-          "url": "https://wallstreetcn.com/articles/3774065",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "当有人问你不谈恋爱每天都在干什么",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%9C%89%E4%BA%BA%E9%97%AE%E4%BD%A0%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88&t=31&band_rank=18&Refer=top",
+          "title": "苹果开发者大会",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "金十提示：苹果(AAPL.O) WWDC 2026开发者大会已开始。",
+          "url": "https://flash.jin10.com/detail/20260609010233896800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
     {
-      "keyword_group": "WINDOWS",
+      "keyword_group": "MACOS",
       "match_count": 1,
       "titles": [
         {
-          "title": "Windows 笔记本集体重回 8GB 内存，当前配置还够用吗？",
-          "url": "https://www.zhihu.com/question/2046537171251869369",
-          "source": "知乎",
+          "title": "苹果(AAPL.O)：下一个版本的macOS名为Golden Gate。",
+          "url": "https://flash.jin10.com/detail/20260609010533403800",
+          "source": "金十数据",
           "ranks": [
-            13
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "01时24分"
         }
       ]
     },
@@ -126,15 +109,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "iPhone18ProMax电池容量",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "苹果(AAPL.O)：iOS 27将支持iPhone 11系列机型。",
+          "url": "https://flash.jin10.com/detail/20260609011349319800",
+          "source": "金十数据",
           "ranks": [
-            20
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "01时24分"
         }
       ]
     }
