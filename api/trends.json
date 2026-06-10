@@ -1,135 +1,45 @@
 {
-  "generated_at": "2026-06-10T20:50:07.932762+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-06-11T01:22:01.281621+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "伊朗称摧毁约旦美军基地F-35机库",
-          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
-          "source": "凤凰网",
+          "title": "LME期铜收跌100美元，报13516美元/吨。 LME期铝收跌82美元，报3466美元/吨。 LME期锌收跌64美元，报3491美元/吨。 LME期铅收跌22美元，报1962美元/吨。 LME期镍收跌386美元，报17678美元/吨。 LME期锡收跌542美元，报51960美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3117633",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            3
+            13
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 20时50分]"
-        },
-        {
-          "title": "复盘happywei35杀DRG",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98happywei35%E6%9D%80DRG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 20时50分]"
-        },
-        {
-          "title": "花旗预测金价或跌至3500美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%97%97%E9%A2%84%E6%B5%8B%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33500%E7%BE%8E%E5%85%83%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
-        },
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
-        },
-        {
-          "title": "现货白银跌破65美元/盎司，日内跌4.63%。纽约期银日内大跌5%，现报65.16美元/盎司。现货黄金现报4255.35美元/盎司，日内下跌1.7%。",
-          "url": "https://flash.jin10.com/detail/20260610002042392800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "女警赊账356万 这笔账谁来还",
-          "url": "https://www.toutiao.com/trending/7649039166839226377/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
           "url": "https://www.cls.cn/detail/2396047",
           "source": "财联社热门",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
-          "url": "https://www.cls.cn/detail/2394851",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "A股收盘：深成指、创业板指均跌超2%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B7%B1%E6%88%90%E6%8C%87%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%9D%87%E8%B7%8C%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "创业板涨近4%但缩量2000亿说明啥",
-          "url": "https://www.toutiao.com/trending/7649355765777452580/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "[01时21分 ~ 01时22分]"
         }
       ]
     },
     {
       "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "怀孕到生娃能领7笔钱 谁能领？",
@@ -140,85 +50,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
-        },
-        {
-          "title": "男子恋爱2个月女友全家“倒霉”",
-          "url": "https://www.toutiao.com/trending/7649173520966058011/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "2小时60通电话 女子确诊过度恋爱脑",
-          "url": "https://www.baidu.com/s?wd=2%E5%B0%8F%E6%97%B660%E9%80%9A%E7%94%B5%E8%AF%9D+%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%BF%87%E5%BA%A6%E6%81%8B%E7%88%B1%E8%84%91",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "男子恋爱2个月女友全家“倒霉”",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%81%8B%E7%88%B12%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%8F%8B%E5%85%A8%E5%AE%B6%E2%80%9C%E5%80%92%E9%9C%89%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "人形机器人价格大跳水，比iPhone还便宜",
-          "url": "https://wallstreetcn.com/articles/3774234",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "母亲离婚当天遇害女儿指认藏尸地",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E7%A6%BB%E5%A9%9A%E5%BD%93%E5%A4%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E5%84%BF%E6%8C%87%E8%AE%A4%E8%97%8F%E5%B0%B8%E5%9C%B0%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "[01时21分 ~ 01时22分]"
         }
       ]
     }
