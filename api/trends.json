@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-06-10T00:32:49.698276+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-10T16:10:59.135244+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "35",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗称摧毁约旦美军基地F-35机库",
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "现货白银跌破65美元/盎司，日内跌4.63%。纽约期银日内大跌5%，现报65.16美元/盎司。现货黄金现报4255.35美元/盎司，日内下跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260610002042392800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "女警赊账356万 这笔账谁来还",
+          "url": "https://www.toutiao.com/trending/7649039166839226377/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "复盘happywei35杀DRG",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98happywei35%E6%9D%80DRG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
+          "url": "https://www.cls.cn/detail/2394851",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "A股收盘：深成指、创业板指均跌超2%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B7%B1%E6%88%90%E6%8C%87%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%9D%87%E8%B7%8C%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "创业板涨近4%但缩量2000亿说明啥",
+          "url": "https://www.toutiao.com/trending/7649355765777452580/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "生娃 丁克 恋爱 单身",
       "match_count": 3,
@@ -43,58 +132,30 @@
       ]
     },
     {
-      "keyword_group": "35",
+      "keyword_group": "Apple iPhone",
       "match_count": 2,
       "titles": [
         {
-          "title": "现货白银跌破65美元/盎司，日内跌4.63%。纽约期银日内大跌5%，现报65.16美元/盎司。现货黄金现报4255.35美元/盎司，日内下跌1.7%。",
-          "url": "https://flash.jin10.com/detail/20260610002042392800",
-          "source": "金十数据",
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
         {
-          "title": "女警赊账356万 这笔账谁来还",
-          "url": "https://www.toutiao.com/trending/7649039166839226377/",
-          "source": "今日头条",
+          "title": "人形机器人价格大跳水，比iPhone还便宜",
+          "url": "https://wallstreetcn.com/articles/3774234",
+          "source": "华尔街见闻",
           "ranks": [
-            26
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
-          "url": "https://www.cls.cn/detail/2394851",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "创业板涨近4%但缩量2000亿说明啥",
-          "url": "https://www.toutiao.com/trending/7649355765777452580/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "16时10分"
         }
       ]
     },
@@ -108,23 +169,6 @@
           "source": "微博",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
