@@ -1,22 +1,57 @@
 {
-  "generated_at": "2026-06-10T16:10:59.135244+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-06-10T20:50:07.932762+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗称摧毁约旦美军基地F-35机库",
           "url": "https://news.ifeng.com/c/8tq2f02mk4u",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 20时50分]"
+        },
+        {
+          "title": "复盘happywei35杀DRG",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98happywei35%E6%9D%80DRG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 20时50分]"
+        },
+        {
+          "title": "花旗预测金价或跌至3500美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%97%97%E9%A2%84%E6%B5%8B%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33500%E7%BE%8E%E5%85%83%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
+        },
+        {
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
         },
         {
           "title": "现货白银跌破65美元/盎司，日内跌4.63%。纽约期银日内大跌5%，现报65.16美元/盎司。现货黄金现报4255.35美元/盎司，日内下跌1.7%。",
@@ -39,24 +74,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "复盘happywei35杀DRG",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98happywei35%E6%9D%80DRG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
+          "url": "https://www.cls.cn/detail/2396047",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
+        },
         {
           "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
           "url": "https://www.cls.cn/detail/2394851",
@@ -75,7 +110,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -94,8 +129,19 @@
     },
     {
       "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "怀孕到生娃能领7笔钱 谁能领？",
+          "url": "https://www.baidu.com/s?wd=%E6%80%80%E5%AD%95%E5%88%B0%E7%94%9F%E5%A8%83%E8%83%BD%E9%A2%867%E7%AC%94%E9%92%B1+%E8%B0%81%E8%83%BD%E9%A2%86%EF%BC%9F",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
+        },
         {
           "title": "男子恋爱2个月女友全家“倒霉”",
           "url": "https://www.toutiao.com/trending/7649173520966058011/",
@@ -153,7 +199,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         }
