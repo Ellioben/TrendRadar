@@ -1,134 +1,61 @@
 {
-  "generated_at": "2026-06-11T21:53:40.817813+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-06-12T01:38:00.830718+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "失业 创业",
-      "match_count": 5,
+      "keyword_group": "35",
+      "match_count": 2,
       "titles": [
         {
-          "title": "四部门：推进“科技成果+创业”、“民生需求+创业”等模式引领",
-          "url": "https://flash.jin10.com/detail/20260611164256493800",
-          "source": "金十数据",
+          "title": "WTI原油期货涨幅收窄至0.36%，报90.35美元。",
+          "url": "https://wallstreetcn.com/livenews/3118333",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时48分"
+          "time_info": "01时38分"
         },
         {
-          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
-          "url": "https://www.cls.cn/detail/2396047",
-          "source": "财联社热门",
+          "title": "LME期铜收跌33美元，报13482美元/吨。 LME期铝收涨36美元，报3502美元/吨。 LME期锌收涨5美元，报3496美元/吨。 LME期铅收跌18美元，报1944美元/吨。 LME期镍收涨15美元，报17693美元/吨。 LME期锡收涨888美元，报52848美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3118323",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
-        },
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 2,
+      "titles": [
         {
           "title": "大学生返乡创业12年：从“省标杆家庭农场”到被强制清退，行政诉讼被驳后上诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33331622",
           "source": "澎湃新闻",
           "ranks": [
-            14,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时48分 ~ 21时53分]"
+          "time_info": "[01时37分 ~ 01时38分]"
         },
         {
           "title": "【每日收评】创业板震荡调整跌超1%， 半导体材料持续爆发，小金属概念逆势活跃",
           "url": "https://www.cls.cn/detail/2397208",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "创业怎么选赛道？国家推出四种创业模式 精准帮扶",
-          "url": "https://wallstreetcn.com/livenews/3118019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "江西发行10年期一般债地方债，规模9.0100亿元，发行利率1.7800%，边际倍数6.32倍，倍数预期1.78； 江西发行10年期一般债地方债，规模111.5203亿元，发行利率1.7800%，边际倍数1.62倍，倍数预期1.79； 江西发行10年期普通专项地方债，规模33.5105亿元，发行利率1.7800%，边际倍数1.35倍，倍数预期1.79。",
-          "url": "https://wallstreetcn.com/livenews/3118050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.7773，较上一交易日官方收盘价涨1点，较上日夜盘收盘跌35点。",
-          "url": "https://wallstreetcn.com/livenews/3118040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "LME期铜收跌100美元，报13516美元/吨。 LME期铝收跌82美元，报3466美元/吨。 LME期锌收跌64美元，报3491美元/吨。 LME期铅收跌22美元，报1962美元/吨。 LME期镍收跌386美元，报17678美元/吨。 LME期锡收跌542美元，报51960美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3117633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "男子生意失败离家30年后团圆",
-          "url": "https://www.toutiao.com/trending/7649920539368538155/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "美国财长贝森特：伊朗正在玩的零和游戏最终会失败。 伊朗的攻击行为将加深其金融后果。 对海湾盟友的任何损害将由伊朗资金支付。",
-          "url": "https://wallstreetcn.com/livenews/3118200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
         }
       ]
     },
@@ -141,45 +68,28 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33358561",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "怀孕到生娃能领7笔钱 谁能领？",
-          "url": "https://www.baidu.com/s?wd=%E6%80%80%E5%AD%95%E5%88%B0%E7%94%9F%E5%A8%83%E8%83%BD%E9%A2%867%E7%AC%94%E9%92%B1+%E8%B0%81%E8%83%BD%E9%A2%86%EF%BC%9F",
-          "source": "百度热搜",
-          "ranks": [
-            3
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "time_info": "[01时37分 ~ 01时38分]"
         }
       ]
     },
     {
-      "keyword_group": "奋斗 躺平",
+      "keyword_group": "Apple iPhone",
       "match_count": 1,
       "titles": [
         {
-          "title": "宁德时代董事长谈奋斗还是生活",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E8%91%A3%E4%BA%8B%E9%95%BF%E8%B0%88%E5%A5%8B%E6%96%97%E8%BF%98%E6%98%AF%E7%94%9F%E6%B4%BB%23&t=31&band_rank=9&Refer=top",
+          "title": "iPhone18标准版爆料汇总",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E6%A0%87%E5%87%86%E7%89%88%E7%88%86%E6%96%99%E6%B1%87%E6%80%BB%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 01时38分]"
         }
       ]
     }
