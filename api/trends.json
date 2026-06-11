@@ -1,29 +1,23 @@
 {
-  "generated_at": "2026-06-11T01:22:01.281621+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-11T16:48:46.949214+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "35",
-      "match_count": 1,
+      "keyword_group": "失业 创业",
+      "match_count": 4,
       "titles": [
         {
-          "title": "LME期铜收跌100美元，报13516美元/吨。 LME期铝收跌82美元，报3466美元/吨。 LME期锌收跌64美元，报3491美元/吨。 LME期铅收跌22美元，报1962美元/吨。 LME期镍收跌386美元，报17678美元/吨。 LME期锡收跌542美元，报51960美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3117633",
-          "source": "华尔街见闻-快讯",
+          "title": "四部门：推进“科技成果+创业”、“民生需求+创业”等模式引领",
+          "url": "https://flash.jin10.com/detail/20260611164256493800",
+          "source": "金十数据",
           "ranks": [
-            13
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 1,
-      "titles": [
+          "time_info": "16时48分"
+        },
         {
           "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
           "url": "https://www.cls.cn/detail/2396047",
@@ -34,6 +28,84 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 01时22分]"
+        },
+        {
+          "title": "大学生返乡创业12年：从“省标杆家庭农场”到被强制清退，行政诉讼被驳后上诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331622",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "创业怎么选赛道？国家推出四种创业模式 精准帮扶",
+          "url": "https://wallstreetcn.com/livenews/3118019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "江西发行10年期一般债地方债，规模9.0100亿元，发行利率1.7800%，边际倍数6.32倍，倍数预期1.78； 江西发行10年期一般债地方债，规模111.5203亿元，发行利率1.7800%，边际倍数1.62倍，倍数预期1.79； 江西发行10年期普通专项地方债，规模33.5105亿元，发行利率1.7800%，边际倍数1.35倍，倍数预期1.79。",
+          "url": "https://wallstreetcn.com/livenews/3118050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7773，较上一交易日官方收盘价涨1点，较上日夜盘收盘跌35点。",
+          "url": "https://wallstreetcn.com/livenews/3118040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "LME期铜收跌100美元，报13516美元/吨。 LME期铝收跌82美元，报3466美元/吨。 LME期锌收跌64美元，报3491美元/吨。 LME期铅收跌22美元，报1962美元/吨。 LME期镍收跌386美元，报17678美元/吨。 LME期锡收跌542美元，报51960美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3117633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欠债 失败",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男子生意失败离家30年后团圆",
+          "url": "https://www.toutiao.com/trending/7649920539368538155/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         }
       ]
     },
@@ -51,6 +123,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 01时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "奋斗 躺平",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宁德时代董事长谈奋斗还是生活",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E8%91%A3%E4%BA%8B%E9%95%BF%E8%B0%88%E5%A5%8B%E6%96%97%E8%BF%98%E6%98%AF%E7%94%9F%E6%B4%BB%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         }
       ]
     }
