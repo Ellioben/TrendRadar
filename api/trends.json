@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T01:38:00.830718+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-12T16:27:41.933217+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "WTI原油期货涨幅收窄至0.36%，报90.35美元。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -25,9 +25,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "河北发行10年期普通专项地方债，规模25.2100亿元，发行利率1.7900%，边际倍数1.76倍，倍数预期1.79； 河北发行10年期高质发展专项地方债，规模0.6000亿元，发行利率1.7900%，边际倍数1.00倍，倍数预期1.79； 河北发行15年期高质发展专项地方债，规模5.1500亿元，发行利率2.1800%，边际倍数8.00倍，倍数预期2.13； 河北发行20年期高质发展专项地方债，规模4.0300亿元，发行利率2.4000%，边际倍数1.50倍，倍数预期2.35； 河北发行30年期高质发展专项地方债，规模5.3000亿元，发行利率2.4500%，边际倍数3.84倍，倍数预期2.41。",
+          "url": "https://wallstreetcn.com/livenews/3118715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "香港恒生指数6月12日（周五）收盘上涨468.81点，涨幅1.93%，报24718.1点；<br/>香港恒生科技指数6月12日（周五）收盘上涨49.46点，涨幅1.06%，报4705.2点；<br/>国企指数6月12日（周五）收盘上涨157.35点，涨幅1.91%，报8374.43点；<br/>红筹指数6月12日（周五）收盘上涨55.06点，涨幅1.29%，报4315.81点。",
+          "url": "https://flash.jin10.com/detail/20260612161305458800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
@@ -68,11 +90,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33358561",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 16时27分]"
         }
       ]
     },
