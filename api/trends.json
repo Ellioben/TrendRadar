@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T16:48:43.709215+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-06-18T21:22:02.838064+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国家禁毒办：新发现35岁以下青少年吸毒人数同比下降超四成",
@@ -39,6 +39,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "我每个月工资不高，三千左右，现在存了一万块钱，要不要花掉 3500 元买个新手机？",
+          "url": "https://www.zhihu.com/question/2048362789551576432",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 21时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国首次申请失业救济人数下降 表明劳动力市场具有韧性",
+          "url": "https://wallstreetcn.com/livenews/3121713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美国6月6日当周续请失业救济人数 181万人，预期 179万人，前值 179.5万人。",
+          "url": "https://wallstreetcn.com/livenews/3121704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美国6月13日当周首次申请失业救济人数 22.6万人，预期 22.5万人，前值 22.9万人。",
+          "url": "https://wallstreetcn.com/livenews/3121705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "提醒：北京时间20:30，将公布美国6月13日当周首次申请失业救济人数，美国6月费城联储制造业指数。",
+          "url": "https://wallstreetcn.com/livenews/3121697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         }
       ]
     },
@@ -78,6 +139,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "太吾绘卷与中国独立游戏的八年",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E5%90%BE%E7%BB%98%E5%8D%B7%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E7%9A%84%E5%85%AB%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 21时22分]"
         }
       ]
     }
