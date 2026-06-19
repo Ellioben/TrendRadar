@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-06-19T21:28:58.233240+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-06-20T00:32:58.063258+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "35",
+      "keyword_group": "欠债 失败",
       "match_count": 3,
       "titles": [
         {
-          "title": "伦敦金属交易所（LME）：锌库存增加2875吨，镍库存减少90吨，铝库存减少225吨，铜库存减少3575吨，铅库存减少1375吨，锡库存减少50吨。",
-          "url": "https://wallstreetcn.com/livenews/3122035",
-          "source": "华尔街见闻-快讯",
+          "title": "黎巴嫩真主党领导人卡西姆：摧毁真主党的计划已经失败，以色列的阴谋已经走到了尽头，最终的胜利——意味着将占领者彻底、永久地驱逐出黎巴嫩的每一寸土地——势在必行。",
+          "url": "https://flash.jin10.com/detail/20260620001141132800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
+          "url": "https://flash.jin10.com/detail/20260619235405420800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "市场消息：特朗普对伊朗协议定调，意在驳斥美国失败论。",
+          "url": "https://flash.jin10.com/detail/20260619235253993800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.12%，报636.35点，连续两个交易日撤离收盘历史最高位，本周累涨约0.5%。 欧元区STOXX 50指数初步收跌0.16%，报6313.37点，也撤离收盘历史最高位，本周累涨约2%。 富时泛欧绩优300指数初步收跌0.10%，报2547点。",
+          "url": "https://wallstreetcn.com/livenews/3122143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "我每个月工资不高，三千左右，现在存了一万块钱，要不要花掉 3500 元买个新手机？",
-          "url": "https://www.zhihu.com/question/2048362789551576432",
-          "source": "知乎",
+          "title": "德国DAX30指数6月19日（周五）收盘下跌38.88点，跌幅0.16%，报24989.18点；<br/>英国富时100指数6月19日（周五）收盘下跌32.80点，跌幅0.32%，报10366.90点；<br/>法国CAC40指数6月19日（周五）收盘下跌46.84点，跌幅0.55%，报8421.14点；<br/>欧洲斯托克50指数6月19日（周五）收盘下跌29.32点，跌幅0.46%，报6293.95点；<br/>西班牙IBEX35指数6月19日（周五）收盘下跌68.29点，跌幅0.35%，报19335.81点；<br/>意大利富时MIB指数6月19日（周五）收盘上涨162.28点，涨幅0.31%，报52850.50点。",
+          "url": "https://flash.jin10.com/detail/20260619233741310800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）：锌库存增加2875吨，镍库存减少90吨，铝库存减少225吨，铜库存减少3575吨，铅库存减少1375吨，锡库存减少50吨。",
-          "url": "https://flash.jin10.com/detail/20260619160131536800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "00时32分"
         }
       ]
     },
@@ -75,15 +75,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "20周年版iPhone被曝独享台积电制程",
-          "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4%E7%89%88iPhone%E8%A2%AB%E6%9B%9D%E7%8B%AC%E4%BA%AB%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%88%B6%E7%A8%8B%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
+          "url": "https://www.zhihu.com/question/2050884243694118342",
+          "source": "知乎",
           "ranks": [
-            10
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "00时32分"
         }
       ]
     }
