@@ -1,344 +1,101 @@
 {
-  "generated_at": "2026-06-26T20:07:29.535341+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-06-27T00:19:44.621152+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "失业 创业",
-      "match_count": 6,
+      "keyword_group": "赚钱",
+      "match_count": 2,
       "titles": [
         {
-          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3775467",
+          "title": "美光长协的含金量：客户先押220亿美元，合同不可取消，还锁定“史上最赚钱”的毛利率！",
+          "url": "https://wallstreetcn.com/articles/3775569",
           "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 15时56分]"
-        },
-        {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2409159",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "短剧男主自曝因AI失业已返乡卖菜",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "A股收盘：创业板指低开低走跌超4%，全市场下跌个股超4600只",
-          "url": "https://wallstreetcn.com/livenews/3125104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "上证指数收报4027.26点，跌2.26%。 深证成指收报15782.22点，跌3.44%。 创业板指收报4194.21点，跌4.07%。 沪深300收报4868.22点，跌3.03%。 科创50收报2032.28点，跌1.65%。 中证500收报8703.57点，跌2.62%。 中证1000收报8601.41点，跌2.54%。",
-          "url": "https://wallstreetcn.com/livenews/3125102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "苹果有产品一夜涨了3500元",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%89%E4%BA%A7%E5%93%81%E4%B8%80%E5%A4%9C%E6%B6%A8%E4%BA%863500%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "德国DAX30指数6月25日（周四）收盘上涨296.72点，涨幅1.20%，报25012.96点；<br/>英国富时100指数6月25日（周四）收盘上涨73.68点，涨幅0.70%，报10535.31点；<br/>法国CAC40指数6月25日（周四）收盘上涨46.12点，涨幅0.55%，报8431.61点；<br/>欧洲斯托克50指数6月25日（周四）收盘上涨54.66点，涨幅0.88%，报6269.36点；<br/>西班牙IBEX35指数6月25日（周四）收盘上涨135.00点，涨幅0.70%，报19524.50点；<br/>意大利富时MIB指数6月25日（周四）收盘上涨155.56点，涨幅0.30%，报51794.50点。",
-          "url": "https://flash.jin10.com/detail/20260625233915231800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "沪深两市今日成交额合计35524.10亿元",
-          "url": "https://wallstreetcn.com/livenews/3125106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "富满微：预计上半年净利润9000万元-1.1亿元，上年同期亏损3576.75万元。",
-          "url": "https://wallstreetcn.com/livenews/3125258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "贵金属空头压力尚未充分释放 3500并非国际金回调终点？ | Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260626190005654800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Mac MacBook 苹果笔记本",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 20时07分]"
-        },
-        {
-          "title": "苹果官宣涨价，Mac 及 iPad 多款产品调价幅度达 20%，此次涨价影响有多大？你能接受吗？",
-          "url": "https://www.zhihu.com/question/2053590927633900087",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "苹果官宣涨价：iPad和Mac率先调价",
-          "url": "https://www.douyin.com/hot/2547734",
-          "source": "抖音",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 15时56分]"
-        },
-        {
-          "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
-          "url": "https://www.cls.cn/detail/2409516",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "iPhone18Pro起售价或9999元",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E8%B5%B7%E5%94%AE%E4%BB%B7%E6%88%969999%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "00时19分"
         },
         {
-          "title": "苹果涨价iPhone未涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "烧光5000亿后京东方开始给股民赚钱",
+          "url": "https://www.toutiao.com/trending/7655672397231558163/",
+          "source": "今日头条",
           "ranks": [
-            9
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时27分"
-        },
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "曝iPhone18Pro定价9999元起",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9DiPhone18Pro%E5%AE%9A%E4%BB%B79999%E5%85%83%E8%B5%B7",
-          "source": "百度热搜",
+          "title": "德国DAX30指数6月26日（周五）收盘下跌328.90点，跌幅1.32%，报24671.64点；<br/>英国富时100指数6月26日（周五）收盘下跌19.23点，跌幅0.18%，报10510.66点；<br/>法国CAC40指数6月26日（周五）收盘下跌46.74点，跌幅0.55%，报8384.87点；<br/>欧洲斯托克50指数6月26日（周五）收盘下跌45.53点，跌幅0.73%，报6222.00点；<br/>西班牙IBEX35指数6月26日（周五）收盘下跌75.13点，跌幅0.39%，报19438.47点；<br/>意大利富时MIB指数6月26日（周五）收盘下跌480.41点，跌幅0.93%，报51302.50点。",
+          "url": "https://flash.jin10.com/detail/20260626233728281800",
+          "source": "金十数据",
           "ranks": [
-            29
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时07分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "中年",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "中年叛逆期的黄毛觉醒",
           "url": "https://www.douyin.com/hot/2547188",
           "source": "抖音",
           "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 20时07分]"
-        },
-        {
-          "title": "中年再品《父母爱情》，看见全网大量批判之声，这份争议究竟源于观众苛责，还是剧集本身存在叙事局限？",
-          "url": "https://www.zhihu.com/question/2053380323078099637",
-          "source": "知乎",
-          "ranks": [
-            7
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
-      "keyword_group": "欠债 失败",
+      "keyword_group": "失业 创业",
       "match_count": 1,
       "titles": [
         {
-          "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：谅解备忘录是美国和以色列正式宣告失败的声明。",
-          "url": "https://flash.jin10.com/detail/20260626154214256800",
-          "source": "金十数据",
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
-      "keyword_group": "彩礼 结婚 离婚",
+      "keyword_group": "Apple iPhone",
       "match_count": 1,
       "titles": [
         {
-          "title": "男子24万彩礼娶妻 领证后新娘找男友",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9024%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A8%B6%E5%A6%BB+%E9%A2%86%E8%AF%81%E5%90%8E%E6%96%B0%E5%A8%98%E6%89%BE%E7%94%B7%E5%8F%8B",
-          "source": "百度热搜",
+          "title": "iPhone17以旧换新增超3倍",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%A2%9E%E8%B6%853%E5%80%8D%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            26
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "996",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "德国DAX 30指数初步收涨1.03%，报24996.31点。 法国股指初步收涨0.54%，意大利股指初步收涨0.03%、银行指数跌0.63%，英国股指初步收涨0.72%。",
-          "url": "https://wallstreetcn.com/livenews/3124763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "复星医药：建议分拆复星安特金并于香港联合交易所有限公司主板独立上市。",
-          "url": "https://wallstreetcn.com/livenews/3125257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赚钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股这轮牛市你赚钱了吗",
-          "url": "https://www.toutiao.com/trending/7655278728469024299/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "00时19分"
         }
       ]
     }
