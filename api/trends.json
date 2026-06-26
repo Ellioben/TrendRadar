@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T15:56:37.381465+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-06-26T20:07:29.535341+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "失业 创业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 15时56分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
@@ -37,7 +48,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -48,7 +59,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -59,9 +70,70 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "苹果有产品一夜涨了3500元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%89%E4%BA%A7%E5%93%81%E4%B8%80%E5%A4%9C%E6%B6%A8%E4%BA%863500%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "德国DAX30指数6月25日（周四）收盘上涨296.72点，涨幅1.20%，报25012.96点；<br/>英国富时100指数6月25日（周四）收盘上涨73.68点，涨幅0.70%，报10535.31点；<br/>法国CAC40指数6月25日（周四）收盘上涨46.12点，涨幅0.55%，报8431.61点；<br/>欧洲斯托克50指数6月25日（周四）收盘上涨54.66点，涨幅0.88%，报6269.36点；<br/>西班牙IBEX35指数6月25日（周四）收盘上涨135.00点，涨幅0.70%，报19524.50点；<br/>意大利富时MIB指数6月25日（周四）收盘上涨155.56点，涨幅0.30%，报51794.50点。",
+          "url": "https://flash.jin10.com/detail/20260625233915231800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "沪深两市今日成交额合计35524.10亿元",
+          "url": "https://wallstreetcn.com/livenews/3125106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "富满微：预计上半年净利润9000万元-1.1亿元，上年同期亏损3576.75万元。",
+          "url": "https://wallstreetcn.com/livenews/3125258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "贵金属空头压力尚未充分释放 3500并非国际金回调终点？ | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260626190005654800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         }
       ]
     },
@@ -78,8 +150,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 15时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 20时07分]"
         },
         {
           "title": "苹果官宣涨价，Mac 及 iPad 多款产品调价幅度达 20%，此次涨价影响有多大？你能接受吗？",
@@ -118,64 +190,8 @@
       ]
     },
     {
-      "keyword_group": "35",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "德国DAX30指数6月25日（周四）收盘上涨296.72点，涨幅1.20%，报25012.96点；<br/>英国富时100指数6月25日（周四）收盘上涨73.68点，涨幅0.70%，报10535.31点；<br/>法国CAC40指数6月25日（周四）收盘上涨46.12点，涨幅0.55%，报8431.61点；<br/>欧洲斯托克50指数6月25日（周四）收盘上涨54.66点，涨幅0.88%，报6269.36点；<br/>西班牙IBEX35指数6月25日（周四）收盘上涨135.00点，涨幅0.70%，报19524.50点；<br/>意大利富时MIB指数6月25日（周四）收盘上涨155.56点，涨幅0.30%，报51794.50点。",
-          "url": "https://flash.jin10.com/detail/20260625233915231800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "沪深两市今日成交额合计35524.10亿元",
-          "url": "https://wallstreetcn.com/livenews/3125106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中年",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中年再品《父母爱情》，看见全网大量批判之声，这份争议究竟源于观众苛责，还是剧集本身存在叙事局限？",
-          "url": "https://www.zhihu.com/question/2053380323078099637",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "中年叛逆期的黄毛觉醒",
-          "url": "https://www.douyin.com/hot/2547188",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Apple iPhone",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "iPhone18Pro起售价或9999元",
@@ -184,7 +200,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -198,6 +214,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "曝iPhone18Pro定价9999元起",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DiPhone18Pro%E5%AE%9A%E4%BB%B79999%E5%85%83%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中年",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中年叛逆期的黄毛觉醒",
+          "url": "https://www.douyin.com/hot/2547188",
+          "source": "抖音",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 20时07分]"
+        },
+        {
+          "title": "中年再品《父母爱情》，看见全网大量批判之声，这份争议究竟源于观众苛责，还是剧集本身存在叙事局限？",
+          "url": "https://www.zhihu.com/question/2053380323078099637",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         }
       ]
     },
@@ -212,7 +268,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         }
@@ -249,6 +305,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "复星医药：建议分拆复星安特金并于香港联合交易所有限公司主板独立上市。",
+          "url": "https://wallstreetcn.com/livenews/3125257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         }
       ]
     },
