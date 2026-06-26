@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-06-26T00:27:19.366413+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-26T15:56:37.381465+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3775467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 15时56分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "短剧男主自曝因AI失业已返乡卖菜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "A股收盘：创业板指低开低走跌超4%，全市场下跌个股超4600只",
+          "url": "https://wallstreetcn.com/livenews/3125104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "上证指数收报4027.26点，跌2.26%。 深证成指收报15782.22点，跌3.44%。 创业板指收报4194.21点，跌4.07%。 沪深300收报4868.22点，跌3.03%。 科创50收报2032.28点，跌1.65%。 中证500收报8703.57点，跌2.62%。 中证1000收报8601.41点，跌2.54%。",
+          "url": "https://wallstreetcn.com/livenews/3125102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "Mac MacBook 苹果笔记本",
       "match_count": 4,
@@ -12,11 +74,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 15时56分]"
         },
         {
           "title": "苹果官宣涨价，Mac 及 iPad 多款产品调价幅度达 20%，此次涨价影响有多大？你能接受吗？",
@@ -30,6 +93,18 @@
           "time_info": "00时27分"
         },
         {
+          "title": "苹果官宣涨价：iPad和Mac率先调价",
+          "url": "https://www.douyin.com/hot/2547734",
+          "source": "抖音",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 15时56分]"
+        },
+        {
           "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
           "url": "https://www.cls.cn/detail/2409516",
           "source": "财联社热门",
@@ -39,51 +114,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "苹果官宣涨价：iPad和Mac率先调价",
-          "url": "https://www.douyin.com/hot/2547734",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3775467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2409159",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "35",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "德国DAX30指数6月25日（周四）收盘上涨296.72点，涨幅1.20%，报25012.96点；<br/>英国富时100指数6月25日（周四）收盘上涨73.68点，涨幅0.70%，报10535.31点；<br/>法国CAC40指数6月25日（周四）收盘上涨46.12点，涨幅0.55%，报8431.61点；<br/>欧洲斯托克50指数6月25日（周四）收盘上涨54.66点，涨幅0.88%，报6269.36点；<br/>西班牙IBEX35指数6月25日（周四）收盘上涨135.00点，涨幅0.70%，报19524.50点；<br/>意大利富时MIB指数6月25日（周四）收盘上涨155.56点，涨幅0.30%，报51794.50点。",
@@ -95,6 +131,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "沪深两市今日成交额合计35524.10亿元",
+          "url": "https://wallstreetcn.com/livenews/3125106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中年",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中年再品《父母爱情》，看见全网大量批判之声，这份争议究竟源于观众苛责，还是剧集本身存在叙事局限？",
+          "url": "https://www.zhihu.com/question/2053380323078099637",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "中年叛逆期的黄毛觉醒",
+          "url": "https://www.douyin.com/hot/2547188",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "iPhone18Pro起售价或9999元",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E8%B5%B7%E5%94%AE%E4%BB%B7%E6%88%969999%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "苹果涨价iPhone未涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欠债 失败",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：谅解备忘录是美国和以色列正式宣告失败的声明。",
+          "url": "https://flash.jin10.com/detail/20260626154214256800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         }
       ]
     },
@@ -125,23 +245,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果涨价iPhone未涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
