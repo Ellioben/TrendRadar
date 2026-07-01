@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-07-01T00:24:48.719134+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-01T16:16:03.319573+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "泰山疑被135公里刀片铁丝网围住",
+          "url": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%B1%B1%E7%96%91%E8%A2%AB135%E5%85%AC%E9%87%8C%E5%88%80%E7%89%87%E9%93%81%E4%B8%9D%E7%BD%91%E5%9B%B4%E4%BD%8F&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
         {
           "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
           "url": "https://wallstreetcn.com/articles/3775807",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 16时16分]"
         },
         {
           "title": "A 股上半年收官，科创 50 涨近 64%，创业板指涨超 35%，有牛股年内涨近 8 倍，哪些信息值得关注？",
@@ -55,8 +67,19 @@
     },
     {
       "keyword_group": "独立",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "哈尔滨独立研发手术机器人",
+          "url": "https://www.toutiao.com/trending/7656826620321562667/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
         {
           "title": "据总部位于伦敦的独立研究机构官方货币与金融机构论坛（OMFIF）调查，地缘政治风险的上升正推动黄金需求上涨。尽管金价较一年前已飙升逾20%，但表示计划增加黄金投资的央行比例仍创下历史新高。",
           "url": "https://flash.jin10.com/detail/20260701000005099800",
@@ -94,7 +117,7 @@
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【焦点复盘】创业板指高开高走涨近3%，全市场超270股涨超10%，3200亿玻璃基板龙头创历史天量",
@@ -117,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "上证指数收报4112.45点，涨0.44%。 深证成指收报16119.17点，跌0.53%。 创业板指收报4260.72点，跌1.89%。 沪深300收报4958.98点，跌0.41%。 科创50收报2153.04点，跌2.48%。 中证500收报9028.93点，跌0.03%。 中证1000收报8876.63点，涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3127221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
@@ -145,6 +179,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欠债 失败",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "竞价失败！约2万人围观，0人报名，大通证券超51%股权流拍，二拍火速开始",
+          "url": "https://wallstreetcn.com/livenews/3127243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
