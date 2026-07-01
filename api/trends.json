@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T16:16:03.319573+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-07-01T20:28:28.224332+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "泰山疑被135公里刀片铁丝网围住",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 16时16分]"
+        },
+        {
+          "title": "泰山景区建 135 公里刀片刺绳隔离网，出于哪些考虑？为何争议这么大？这会对当地生态造成影响吗？",
+          "url": "https://www.zhihu.com/question/2055221922401719448",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "A 股上半年收官，科创 50 涨近 64%，创业板指涨超 35%，有牛股年内涨近 8 倍，哪些信息值得关注？",
@@ -148,7 +159,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
@@ -193,9 +204,26 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当上幼儿园的女儿说，想要跟某某同学结婚，你会怎么回应？",
+          "url": "https://www.zhihu.com/question/660503579",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     },
@@ -217,6 +245,23 @@
       ]
     },
     {
+      "keyword_group": "大厂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "985毕业大厂离职玄学月入10万感悟",
+          "url": "https://s.weibo.com/weibo?q=985%E6%AF%95%E4%B8%9A%E5%A4%A7%E5%8E%82%E7%A6%BB%E8%81%8C%E7%8E%84%E5%AD%A6%E6%9C%88%E5%85%A510%E4%B8%87%E6%84%9F%E6%82%9F&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "赚钱",
       "match_count": 1,
       "titles": [
@@ -230,6 +275,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "擦边",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "绿源电动车 擦边",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%BF%E6%BA%90%E7%94%B5%E5%8A%A8%E8%BD%A6%20%E6%93%A6%E8%BE%B9&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     }
