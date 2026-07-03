@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-03T15:22:54.518708+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-07-03T20:02:39.121047+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
       "match_count": 5,
       "titles": [
+        {
+          "title": "检察日报：千年泰山插入135公里刀片刺绳，项目是否科学要经得起追问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33508601",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 20时02分]"
+        },
         {
           "title": "造车新势力上半年销量分化加剧：零跑超35万辆，“蔚小理”均不及20万辆",
           "url": "https://m.thepaper.cn/newsDetail_forward_33501276",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "检察日报：千年泰山插入135公里刀片刺绳，项目是否科学要经得起追问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33508601",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "八毛八一只 有家庭一晚捉蝉350只",
@@ -58,7 +59,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -73,11 +74,12 @@
           "url": "https://wallstreetcn.com/articles/3776083",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 20时02分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -109,7 +111,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -120,7 +122,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -128,18 +130,19 @@
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "纯正傲娇!结婚15年还嘴硬",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355845&amp;topic_name=%E7%BA%AF%E6%AD%A3%E5%82%B2%E5%A8%87%21%E7%BB%93%E5%A9%9A15%E5%B9%B4%E8%BF%98%E5%98%B4%E7%A1%AC",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 20时02分]"
         },
         {
           "title": "月薪5千男子为结婚给女友转账141万",
@@ -162,6 +165,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "山新皇贞季宣布离婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%96%B0%E7%9A%87%E8%B4%9E%E5%AD%A3%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "买超回应没有离婚只有丧偶",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%B6%85%E5%9B%9E%E5%BA%94%E6%B2%A1%E6%9C%89%E7%A6%BB%E5%A9%9A%E5%8F%AA%E6%9C%89%E4%B8%A7%E5%81%B6%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Apple iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2055321023403095974",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "曝iPhone 18 Pro Max电池容量",
+          "url": "https://www.toutiao.com/trending/7657744813042991114/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
@@ -200,23 +253,6 @@
       ]
     },
     {
-      "keyword_group": "Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2055321023403095974",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大厂",
       "match_count": 1,
       "titles": [
@@ -244,9 +280,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 20时02分]"
         }
       ]
     },
