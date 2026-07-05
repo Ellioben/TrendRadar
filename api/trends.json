@@ -1,169 +1,95 @@
 {
-  "generated_at": "2026-07-04T23:07:14.449374+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-07-05T15:29:02.840814+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "独立",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "热浪搅乱独立日，美国多地取消相关庆祝活动",
-          "url": "https://news.ifeng.com/c/8uTptd6bGr6",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时48分 ~ 19时19分]"
-        },
         {
           "title": "瓶子君炮轰女帝:啃老装独立",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355888&amp;topic_name=%E7%93%B6%E5%AD%90%E5%90%9B%E7%82%AE%E8%BD%B0%E5%A5%B3%E5%B8%9D%3A%E5%95%83%E8%80%81%E8%A3%85%E7%8B%AC%E7%AB%8B",
           "source": "贴吧",
           "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时48分 ~ 23时07分]"
-        },
-        {
-          "title": "明阳包头威俊150万千瓦独立储能电站500千伏汇集站正式投运",
-          "url": "https://wallstreetcn.com/livenews/3128925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时19分 ~ 23时07分]"
+          "time_info": "[15时28分 ~ 15时29分]"
         },
         {
-          "title": "明阳包头威俊150万千瓦独立储能电站500千伏汇集站正式投运",
-          "url": "https://flash.jin10.com/detail/20260704164933326800",
+          "title": "特朗普在美国独立250周年庆典演讲 强调“美国例外论”",
+          "url": "https://flash.jin10.com/detail/20260705124923131800",
           "source": "金十数据",
           "ranks": [
-            14
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "15时29分"
         },
         {
-          "title": "市场消息：因极端高温，在华盛顿特区举行的美国独立日游行取消。",
-          "url": "https://flash.jin10.com/detail/20260704102609141800",
+          "title": "独立投资研究平台HFI Research：过去24小时，许多原本计划经阿曼航道通行的船只，转而选择了伊朗一侧航道。",
+          "url": "https://flash.jin10.com/detail/20260705120323119800",
           "source": "金十数据",
           "ranks": [
-            25
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
-        },
+          "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "35",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "华盛顿特区美国独立日游行因极端高温天气而取消。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3128876",
-          "source": "华尔街见闻-快讯",
+          "title": "泰山135公里刀片铁丝网被质疑影响动物迁徙，一泰安市民称多次看到动物挂网死亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518570",
+          "source": "澎湃新闻",
           "ranks": [
-            28
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
         }
       ]
     },
     {
       "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "山新离婚,配音圈佳偶体面分手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355885&amp;topic_name=%E5%B1%B1%E6%96%B0%E7%A6%BB%E5%A9%9A%2C%E9%85%8D%E9%9F%B3%E5%9C%88%E4%BD%B3%E5%81%B6%E4%BD%93%E9%9D%A2%E5%88%86%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            7,
-            12,
-            13
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时48分 ~ 23时07分]"
-        },
-        {
-          "title": "纯正傲娇!结婚15年还嘴硬",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355845&amp;topic_name=%E7%BA%AF%E6%AD%A3%E5%82%B2%E5%A8%87%21%E7%BB%93%E5%A9%9A15%E5%B9%B4%E8%BF%98%E5%98%B4%E7%A1%AC",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时48分 ~ 23时07分]"
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
         }
       ]
     },
     {
-      "keyword_group": "欠债 失败",
+      "keyword_group": "大厂",
       "match_count": 1,
       "titles": [
         {
-          "title": "输球责任在我！郭士强：年轻队伍，成长必然经历失败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33514765",
-          "source": "澎湃新闻",
+          "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
+          "url": "https://www.zhihu.com/question/2055415968537618014",
+          "source": "知乎",
           "ranks": [
-            9,
-            6,
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时48分 ~ 23时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谈恋爱之前的穿搭",
-          "url": "https://www.douyin.com/hot/2556908",
-          "source": "抖音",
-          "ranks": [
-            5,
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时48分 ~ 23时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度正调查泄密iPhone事件",
-          "url": "https://www.douyin.com/hot/2557979",
-          "source": "抖音",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 23时07分]"
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
         }
       ]
     }
