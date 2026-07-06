@@ -1,126 +1,105 @@
 {
-  "generated_at": "2026-07-05T23:14:58.547109+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-07-06T16:23:20.087056+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "独立",
-      "match_count": 5,
+      "keyword_group": "失业 创业",
+      "match_count": 6,
       "titles": [
         {
-          "title": "瓶子君炮轰女帝:啃老装独立",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355888&amp;topic_name=%E7%93%B6%E5%AD%90%E5%90%9B%E7%82%AE%E8%BD%B0%E5%A5%B3%E5%B8%9D%3A%E5%95%83%E8%80%81%E8%A3%85%E7%8B%AC%E7%AB%8B",
-          "source": "贴吧",
+          "title": "创业板跌近2%，PCB、CPO领跌，机器人板块调整，创新药再爆发，恒科指涨超1%",
+          "url": "https://wallstreetcn.com/articles/3776252",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            24,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "创业板指跌1.77% 医药板块走强",
+          "url": "https://www.toutiao.com/trending/7659265115790966826/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "A股收盘：创业板指缩量跌1.77%，机器人概念股集体调整",
+          "url": "https://wallstreetcn.com/livenews/3129221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "上证指数收报4041.24点，跌0.06%。 深证成指收报15416.80点，跌1.16%。 创业板指收报3948.86点，跌1.77%。 沪深300收报4842.00点，跌0.00%。 科创50收报1996.10点，涨1.04%。 中证500收报8651.13点，跌1.08%。 中证1000收报8472.60点，跌1.72%。",
+          "url": "https://wallstreetcn.com/livenews/3129220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "瑞士6月未季调失业率 2.9%，前值 3%。",
+          "url": "https://wallstreetcn.com/livenews/3129215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "瑞士6月季调后失业率 3.1%，前值 3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3129214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "外交部发言人就美国独立250周年答记者问",
+          "url": "https://wallstreetcn.com/livenews/3129236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "霉霉被曝冠夫姓,独立人设崩塌",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355915&amp;topic_name=%E9%9C%89%E9%9C%89%E8%A2%AB%E6%9B%9D%E5%86%A0%E5%A4%AB%E5%A7%93%2C%E7%8B%AC%E7%AB%8B%E4%BA%BA%E8%AE%BE%E5%B4%A9%E5%A1%8C",
           "source": "贴吧",
           "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 23时14分]"
-        },
-        {
-          "title": "美国“独立日”发生枪击事件 8人受伤",
-          "url": "https://flash.jin10.com/detail/20260705175626412800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "特朗普在美国独立250周年庆典演讲 强调“美国例外论”",
-          "url": "https://flash.jin10.com/detail/20260705124923131800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "独立投资研究平台HFI Research：过去24小时，许多原本计划经阿曼航道通行的船只，转而选择了伊朗一侧航道。",
-          "url": "https://flash.jin10.com/detail/20260705120323119800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "女子签“非全日制”用工合同被辞退后索赔失败上诉，实际用工情况成案件焦点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518913",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 23时14分]"
-        },
-        {
-          "title": "老三国演义电视剧哪里拍得最失败？",
-          "url": "https://www.zhihu.com/question/424245378",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "奋斗 躺平",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "男子中692万怕儿子躺平只告诉老婆",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD692%E4%B8%87%E6%80%95%E5%84%BF%E5%AD%90%E8%BA%BA%E5%B9%B3%E5%8F%AA%E5%91%8A%E8%AF%89%E8%80%81%E5%A9%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "男子中了692万怕儿子躺平没敢告诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD%E4%BA%86692%E4%B8%87%E6%80%95%E5%84%BF%E5%AD%90%E8%BA%BA%E5%B9%B3%E6%B2%A1%E6%95%A2%E5%91%8A%E8%AF%89%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "time_info": "16时23分"
         }
       ]
     },
@@ -129,16 +108,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "泰山135公里刀片铁丝网被质疑影响动物迁徙，一泰安市民称多次看到动物挂网死亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518570",
-          "source": "澎湃新闻",
+          "title": "香港恒生指数7月6日（周一）收盘上涨266.29点，涨幅1.14%，报23616.32点；<br/>香港恒生科技指数7月6日（周一）收盘上涨42.23点，涨幅0.94%，报4541.23点；<br/>国企指数7月6日（周一）收盘上涨112.59点，涨幅1.46%，报7812.35点；<br/>红筹指数7月6日（周一）收盘上涨47.16点，涨幅1.24%，报3854.58点。",
+          "url": "https://flash.jin10.com/detail/20260706161133645800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            13
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 19时24分]"
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
@@ -147,17 +125,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "山新离婚,配音圈佳偶体面分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355885&amp;topic_name=%E5%B1%B1%E6%96%B0%E7%A6%BB%E5%A9%9A%2C%E9%85%8D%E9%9F%B3%E5%9C%88%E4%BD%B3%E5%81%B6%E4%BD%93%E9%9D%A2%E5%88%86%E6%89%8B",
-          "source": "贴吧",
+          "title": "邹市明妻子冉莹颖曾多次想离婚",
+          "url": "https://www.toutiao.com/trending/7659262436880580644/",
+          "source": "今日头条",
           "ranks": [
-            21,
-            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开发者",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Karpathy最新Agent观点：大厂并没有掌握智能体核心技术，个人开发者正称霸前沿",
+          "url": "https://wallstreetcn.com/articles/3776229",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Mac MacBook 苹果笔记本",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "保时捷停止接收纯电Macan、Taycan新车个性化定制订单",
+          "url": "https://wallstreetcn.com/livenews/3129213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
@@ -166,15 +176,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
-          "url": "https://www.zhihu.com/question/2056716909140354522",
-          "source": "知乎",
+          "title": "iPhoneUltra和18ProMax对比",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E5%92%8C18ProMax%E5%AF%B9%E6%AF%94%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "16时23分"
         }
       ]
     },
@@ -183,15 +193,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
-          "url": "https://www.zhihu.com/question/2055415968537618014",
-          "source": "知乎",
+          "title": "机构：AI高端MLCC激励日韩大厂订单出货比创新高，下半年缺货风险提升",
+          "url": "https://wallstreetcn.com/livenews/3129218",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     }
