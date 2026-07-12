@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:05:58.744562+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-07-12T22:58:57.292716+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2057515225566242609",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 19时05分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 22时58分]"
         },
         {
           "title": "32万彩礼女方到手仅12万，婚后发现近20万被婚介所人员截留",
@@ -42,7 +43,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         }
