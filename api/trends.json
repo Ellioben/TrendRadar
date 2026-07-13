@@ -1,98 +1,8 @@
 {
-  "generated_at": "2026-07-13T20:27:02.133104+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-07-14T00:36:15.154132+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "35",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "深成指、科创50均跌超4%，沪指跌2.35%，创业板指跌3.89%，沪深京三市下跌个股近4800只，其中近630股跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/3132657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "集运指数（欧线）主力合约日内跌幅达2.00%，现报2352.0点。",
-          "url": "https://flash.jin10.com/detail/20260713143540483800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "金安国纪：预计上半年净利润7.3亿元-8.2亿元，同比增长935.75%-1,063.45%。",
-          "url": "https://wallstreetcn.com/livenews/3132875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "外资抛售致韩股失守7000点 暴涨暴跌频繁年内累计35次触发“侧车”机制",
-          "url": "https://flash.jin10.com/detail/20260713140658518800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "曝李小冉徐佳宁离婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E5%B0%8F%E5%86%89%E5%BE%90%E4%BD%B3%E5%AE%81%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 20时27分]"
-        },
-        {
-          "title": "32万彩礼到手仅12万婚介所截留20万",
-          "url": "https://www.baidu.com/s?wd=32%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%88%B0%E6%89%8B%E4%BB%8512%E4%B8%87%E5%A9%9A%E4%BB%8B%E6%89%80%E6%88%AA%E7%95%9920%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "冉莹颖自曝曾多次想离婚，如何看待明星夫妇对外公开婚姻中的挣扎？",
-          "url": "https://www.zhihu.com/question/2059234779497772975",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        }
-      ]
-    },
     {
       "keyword_group": "失业 创业",
       "match_count": 2,
@@ -102,50 +12,39 @@
           "url": "https://wallstreetcn.com/articles/3776758",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "time_info": "[00时35分 ~ 00时36分]"
         },
         {
-          "title": "创业板指失守3700点，日内跌幅3.73%，指数创4月30日以来新低。",
-          "url": "https://flash.jin10.com/detail/20260713143310747800",
-          "source": "金十数据",
+          "title": "邹市明为何退役后创业赔成这样",
+          "url": "https://www.toutiao.com/trending/7662023831711649307/",
+          "source": "今日头条",
           "ranks": [
-            6
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     },
     {
-      "keyword_group": "Apple iPhone",
-      "match_count": 2,
+      "keyword_group": "35",
+      "match_count": 1,
       "titles": [
         {
-          "title": "曝iPhone 20系列将回归玻璃材质",
-          "url": "https://www.toutiao.com/trending/7661625304379031588/",
-          "source": "今日头条",
+          "title": "德国DAX30指数7月13日（周一）收盘上涨22.95点，涨幅0.09%，报25108.37点；<br/>英国富时100指数7月13日（周一）收盘下跌5.86点，跌幅0.06%，报10491.43点；<br/>法国CAC40指数7月13日（周一）收盘上涨25.68点，涨幅0.31%，报8364.65点；<br/>欧洲斯托克50指数7月13日（周一）收盘下跌1.51点，跌幅0.02%，报6268.46点；<br/>西班牙IBEX35指数7月13日（周一）收盘下跌59.80点，跌幅0.31%，报19324.90点；<br/>意大利富时MIB指数7月13日（周一）收盘上涨188.33点，涨幅0.36%，报52802.50点。",
+          "url": "https://flash.jin10.com/detail/20260713233658256800",
+          "source": "金十数据",
           "ranks": [
-            29
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "iPhone20再曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone20%E5%86%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     },
@@ -162,7 +61,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     }
