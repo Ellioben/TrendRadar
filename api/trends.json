@@ -1,69 +1,89 @@
 {
-  "generated_at": "2026-07-12T22:58:57.292716+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-07-13T14:55:28.840081+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "35",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "深成指、科创50均跌超4%，沪指跌2.35%，创业板指跌3.89%，沪深京三市下跌个股近4800只，其中近630股跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3132657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内跌幅达2.00%，现报2352.0点。",
+          "url": "https://flash.jin10.com/detail/20260713143540483800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "外资抛售致韩股失守7000点 暴涨暴跌频繁年内累计35次触发“侧车”机制",
+          "url": "https://flash.jin10.com/detail/20260713140658518800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        }
+      ]
+    },
     {
       "keyword_group": "彩礼 结婚 离婚",
       "match_count": 2,
       "titles": [
         {
-          "title": "冉莹颖称曾多次想离婚，录综艺本想救赎婚姻，录完「不再执着于改造对方」，透露出怎样的婚姻相处智慧？",
-          "url": "https://www.zhihu.com/question/2057515225566242609",
-          "source": "知乎",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 22时58分]"
-        },
-        {
-          "title": "32万彩礼女方到手仅12万，婚后发现近20万被婚介所人员截留",
-          "url": "https://news.ifeng.com/c/8uhFrtGXlRN",
-          "source": "凤凰网",
+          "title": "曝李小冉徐佳宁离婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E5%B0%8F%E5%86%89%E5%BE%90%E4%BD%B3%E5%AE%81%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
         {
-          "title": "长鑫有员工年薪35万月加班80小时",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E6%9C%89%E5%91%98%E5%B7%A5%E5%B9%B4%E8%96%AA35%E4%B8%87%E6%9C%88%E5%8A%A0%E7%8F%AD80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "冉莹颖自曝曾多次想离婚，如何看待明星夫妇对外公开婚姻中的挣扎？",
+          "url": "https://www.zhihu.com/question/2059234779497772975",
+          "source": "知乎",
           "ranks": [
-            8
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时05分"
+          "time_info": "14时55分"
         }
       ]
     },
     {
-      "keyword_group": "欠债 失败",
+      "keyword_group": "失业 创业",
       "match_count": 1,
       "titles": [
         {
-          "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
-          "url": "https://wallstreetcn.com/articles/3776707",
-          "source": "华尔街见闻",
+          "title": "创业板指失守3700点，日内跌幅3.73%，指数创4月30日以来新低。",
+          "url": "https://flash.jin10.com/detail/20260713143310747800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 19时05分]"
+          "appearance_count": 1,
+          "time_info": "14时55分"
         }
       ]
     }
