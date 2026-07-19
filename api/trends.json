@@ -1,140 +1,61 @@
 {
-  "generated_at": "2026-07-18T22:55:53.056299+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-07-19T14:32:18.981669+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "据华尔街日报：土耳其计划出售俄罗斯防空系统，同时寻求采购美国F-35战机。",
-          "url": "https://flash.jin10.com/detail/20260718220950056800",
-          "source": "金十数据",
+          "title": "五角大楼加紧向中东地区增派F-16、F-35战机",
+          "url": "https://news.ifeng.com/c/8usjU705glc",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时55分"
+          "time_info": "14时32分"
         },
         {
           "title": "韩股大屠杀,35万散户亏光",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356295&amp;topic_name=%E9%9F%A9%E8%82%A1%E5%A4%A7%E5%B1%A0%E6%9D%80%2C35%E4%B8%87%E6%95%A3%E6%88%B7%E4%BA%8F%E5%85%89",
           "source": "贴吧",
           "ranks": [
-            5
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时55分"
+          "time_info": "14时32分"
         },
         {
-          "title": "据美国官员与中东地区官员透露，土耳其洽谈向阿联酋输送俄罗斯防空系统。 土方希望，移交俄罗斯S-400反导系统能有助于购买美制F-35战斗机。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3136054",
+          "title": "美媒爆料：美伊冲突加剧，五角大楼加紧向中东地区增派F-16、F-35战机",
+          "url": "https://wallstreetcn.com/livenews/3136122",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "韩国35万散户被强制平仓",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD35%E4%B8%87%E6%95%A3%E6%88%B7%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%B9%B3%E4%BB%93%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 创业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2429653",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "14时32分"
         }
       ]
     },
     {
       "keyword_group": "欠债 失败",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "《功夫女足》票房破 10 亿，豆瓣评分仅 6.6，如何评价其口碑与票房「倒挂」现象？这到底算成功还是失败？",
-          "url": "https://www.zhihu.com/question/2060529589093511823",
-          "source": "知乎",
+          "title": "谢师宴变砸锅饭，只有姆巴佩满意的失败达成了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615281",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 22时55分]"
-        },
-        {
-          "title": "26岁女子双子宫双阴道备孕3年失败",
-          "url": "https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%AD%90%E5%8F%8C%E5%AD%90%E5%AE%AB%E5%8F%8C%E9%98%B4%E9%81%93%E5%A4%87%E5%AD%953%E5%B9%B4%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
-          "url": "https://wallstreetcn.com/livenews/3135966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
-          "url": "https://flash.jin10.com/detail/20260718115729560800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "14时32分"
         }
       ]
     },
@@ -147,47 +68,11 @@
           "url": "https://www.cls.cn/detail/2430101",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 22时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果上调日本部分iPhone售价",
-          "url": "https://wallstreetcn.com/livenews/3135983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赚钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "这轮科技牛市谁在赚钱",
-          "url": "https://www.toutiao.com/trending/7663680114462297626/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "14时32分"
         }
       ]
     }
