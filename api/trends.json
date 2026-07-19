@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T14:32:18.981669+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-19T19:06:01.135005+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://news.ifeng.com/c/8usjU705glc",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 19时06分]"
         },
         {
           "title": "韩股大屠杀,35万散户亏光",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356295&amp;topic_name=%E9%9F%A9%E8%82%A1%E5%A4%A7%E5%B1%A0%E6%9D%80%2C35%E4%B8%87%E6%95%A3%E6%88%B7%E4%BA%8F%E5%85%89",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 19时06分]"
         },
         {
           "title": "美媒爆料：美伊冲突加剧，五角大楼加紧向中东地区增派F-16、F-35战机",
@@ -43,6 +45,23 @@
       ]
     },
     {
+      "keyword_group": "失业 创业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "5家创业板公司发布业绩预告，天孚通信上半年净利最高预增45%",
+          "url": "https://www.cls.cn/detail/2430360",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 19时06分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "欠债 失败",
       "match_count": 1,
       "titles": [
@@ -51,11 +70,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33615281",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 19时06分]"
         }
       ]
     },
@@ -68,11 +88,12 @@
           "url": "https://www.cls.cn/detail/2430101",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 19时06分]"
         }
       ]
     }
