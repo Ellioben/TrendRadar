@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T19:46:18.150553+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-07-23T23:56:57.763930+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货钯金日内跌超2.00%，现报1264.35美元/盎司。",
@@ -14,9 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "德国DAX30指数7月23日（周四）收盘下跌419.90点，跌幅1.67%，报24754.20点；<br/>英国富时100指数7月23日（周四）收盘下跌77.81点，跌幅0.73%，报10639.16点；<br/>法国CAC40指数7月23日（周四）收盘下跌138.80点，跌幅1.64%，报8299.09点；<br/>欧洲斯托克50指数7月23日（周四）收盘下跌107.64点，跌幅1.70%，报6209.35点；<br/>西班牙IBEX35指数7月23日（周四）收盘下跌326.19点，跌幅1.67%，报19245.11点；<br/>意大利富时MIB指数7月23日（周四）收盘下跌1470.04点，跌幅2.78%，报51322.00点。",
+          "url": "https://flash.jin10.com/detail/20260723233805430800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "洛克希德马丁第二季度净销售额200.6亿美元，预期193.3亿美元 第二季度每股收益7.94美元，去年同期1.46美元。 洛克希德马丁预计全年净销售额797.5亿至817.5亿美元，市场预期791.3亿美元。 洛克希德马丁预计全年营业利润85亿至87亿美元。 洛克希德马丁预计全年每股收益29.95至30.65美元，此前预期29.35至30.25美元。 洛克希德马丁美股盘前涨7.5%。",
@@ -25,7 +36,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         }
@@ -52,11 +63,40 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356433&amp;topic_name=%E7%BE%8E%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%8D%A2%E8%A1%80%E6%B1%82%E6%B0%B8%E7%94%9F%E5%A4%B1%E8%B4%A5",
           "source": "贴吧",
           "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 23时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比韩剧还刺激！SK掌门人“天价离婚案”明日宣判 狂飙的股价会如何算？",
+          "url": "https://www.cls.cn/detail/2434929",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时45分 ~ 19时46分]"
+        },
+        {
+          "title": "多地发钱奖励结婚",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%91%E9%92%B1%E5%A5%96%E5%8A%B1%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
@@ -89,42 +129,8 @@
       ]
     },
     {
-      "keyword_group": "彩礼 结婚 离婚",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比韩剧还刺激！SK掌门人“天价离婚案”明日宣判 狂飙的股价会如何算？",
-          "url": "https://www.cls.cn/detail/2434929",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生娃 丁克 恋爱 单身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "女子恋爱体检,性别竟为男性",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356436&amp;topic_name=%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E4%BD%93%E6%A3%80%2C%E6%80%A7%E5%88%AB%E7%AB%9F%E4%B8%BA%E7%94%B7%E6%80%A7",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "大厂",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大厂 HR 直接进入高校实验室劝说博士生放弃学位，并开出百万年薪，如何看待这种抢人模式？放弃学位是否值得？",
@@ -137,6 +143,35 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时31分 ~ 19时46分]"
+        },
+        {
+          "title": "腾讯被曝三队同步赛马，落败项目直接清零无复盘，员工担责，公司几乎零成本试错，如何评价大厂这种赛马机制？",
+          "url": "https://www.zhihu.com/question/2063648831908966811",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生娃 丁克 恋爱 单身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女子恋爱体检,性别竟为男性",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356436&amp;topic_name=%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E4%BD%93%E6%A3%80%2C%E6%80%A7%E5%88%AB%E7%AB%9F%E4%B8%BA%E7%94%B7%E6%80%A7",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 23时56分]"
         }
       ]
     },
