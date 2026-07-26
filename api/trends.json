@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T19:17:53.948470+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-07-26T23:07:20.834159+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赚钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "年客流1800万的顶流IP为何不赚钱",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E5%AE%A2%E6%B5%811800%E4%B8%87%E7%9A%84%E9%A1%B6%E6%B5%81IP%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%B5%9A%E9%92%B1",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         }
       ]
     }
