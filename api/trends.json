@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T00:06:46.275637+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-29T14:33:25.733810+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国地震台网正式测定：07月28日23时38分在青海海南州兴海县（北纬35.35度，东经99.52度）发生3.7级地震，震源深度9千米。",
@@ -19,6 +19,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "德国DAX30指数7月28日（周二）收盘上涨60.80点，涨幅0.24%，报25485.21点；<br/>英国富时100指数7月28日（周二）收盘上涨95.01点，涨幅0.88%，报10876.76点；<br/>法国CAC40指数7月28日（周二）收盘上涨52.72点，涨幅0.63%，报8458.78点；<br/>欧洲斯托克50指数7月28日（周二）收盘上涨13.04点，涨幅0.21%，报6295.25点；<br/>西班牙IBEX35指数7月28日（周二）收盘上涨1.34点，涨幅0.01%，报19742.64点；<br/>意大利富时MIB指数7月28日（周二）收盘下跌344.95点，跌幅0.66%，报51710.00点。",
           "url": "https://flash.jin10.com/detail/20260728233737482800",
           "source": "金十数据",
@@ -28,12 +39,117 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "埃尼（Eni）第二季度调整后净利润23.3亿欧元，市场预估21.1亿欧元。 第二季度调整后营业利润35.2亿欧元，市场预估35.3亿欧元。 第二季度净利润33.2亿欧元。 埃尼将2026年股份回购规模提高至最高34亿欧元，此前为28亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3141485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3141455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "瑞银第二季度净利润28.0亿美元，同比+17%，预估24.7亿美元。 第二季度总营收137.0亿美元，同比+13%，预估132.6亿美元。 第二季度除税前利润35.9亿美元，同比+64%，预估32.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "彩礼 结婚 离婚",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "宇泽沐沐官宣结婚",
+          "url": "https://www.douyin.com/hot/2589253",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "“总统千金天价离婚”，分到43亿",
+          "url": "https://news.ifeng.com/c/8v9PoYbh4AL",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "“小恩熙”官宣结婚",
+          "url": "https://www.toutiao.com/trending/7667753673543909395/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "如何看待房主任离婚选择净身出户后，现在申请独立户口遭拒一事及其在节目中的表现？",
+          "url": "https://www.zhihu.com/question/2059388918152304542",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "三甲医院凭假结婚证通过试管审核，患癌妻子申请销毁婚外胚胎遭拒，各方责任如何划定？胚胎处置伦理边界在哪？",
+          "url": "https://www.zhihu.com/question/2065473757326435859",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "文根英结婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E6%A0%B9%E8%8B%B1%E7%BB%93%E5%A9%9A%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
     {
       "keyword_group": "失业 创业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
@@ -51,11 +167,23 @@
           "url": "https://wallstreetcn.com/articles/3778088",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 14时33分]"
+        },
+        {
+          "title": "创业板指涨超2%，早盘一度跌超2%，食品饮料、零售等方向涨幅居前，全市场超4300家个股上涨。",
+          "url": "https://wallstreetcn.com/livenews/3141478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "14时33分"
         }
       ]
     },
