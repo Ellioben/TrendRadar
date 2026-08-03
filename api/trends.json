@@ -1,78 +1,50 @@
 {
-  "generated_at": "2026-08-03T20:51:07.044526+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-08-04T00:27:58.245268+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "失业 创业",
-      "match_count": 3,
+      "keyword_group": "35",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国为何留不住杨植麟？杨植麟美国博导：他毅然拒绝苹果，选择回国创业，Kimi K3最独特优势在开源，但判断其实际能力还为时过早",
-          "url": "https://wallstreetcn.com/livenews/3143974",
-          "source": "华尔街见闻-快讯",
+          "title": "伊拉克国家石油营销组织SOMO负责人：伊拉克7月从南部港口售出3550万桶原油，从杰伊汉码头售出700万桶。",
+          "url": "https://flash.jin10.com/detail/20260803234200290800",
+          "source": "金十数据",
           "ranks": [
-            4
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "00时27分"
         },
+        {
+          "title": "德国DAX30指数8月3日（周一）收盘上涨386.44点，涨幅1.51%，报26017.22点；<br/>英国富时100指数8月3日（周一）收盘下跌13.15点，跌幅0.12%，报10854.90点；<br/>法国CAC40指数8月3日（周一）收盘上涨104.18点，涨幅1.22%，报8613.82点；<br/>欧洲斯托克50指数8月3日（周一）收盘上涨72.34点，涨幅1.14%，报6430.35点；<br/>西班牙IBEX35指数8月3日（周一）收盘上涨186.21点，涨幅0.94%，报19969.11点；<br/>意大利富时MIB指数8月3日（周一）收盘上涨684.47点，涨幅1.31%，报52857.00点。",
+          "url": "https://flash.jin10.com/detail/20260803233722792800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 创业",
+      "match_count": 1,
+      "titles": [
         {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
           "url": "https://www.cls.cn/detail/2444244",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
-        },
-        {
-          "title": "上证指数收报3809.66点，跌0.59%。 深证成指收报13448.29点，跌0.96%。 创业板指收报3302.55点，跌1.24%。 沪深300收报4543.18点，跌0.98%。 科创50收报1552.89点，跌5.08%。 中证500收报7414.52点，跌1.06%。 中证1000收报7079.78点，涨0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3143963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "35",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "曝iPhone将涨价 最高或涨1350元",
-          "url": "https://www.toutiao.com/trending/7669636418002714630/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欠债 失败",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "杨幂挑战单手单脚平板支撑1秒失败",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E6%8C%91%E6%88%98%E5%8D%95%E6%89%8B%E5%8D%95%E8%84%9A%E5%B9%B3%E6%9D%BF%E6%94%AF%E6%92%911%E7%A7%92%E5%A4%B1%E8%B4%A5",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
+          "time_info": "00时27分"
         }
       ]
     },
@@ -81,49 +53,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "婚外胚胎案妻子称丈夫想最低成本离婚",
-          "url": "https://www.toutiao.com/trending/7668625966495039507/",
-          "source": "今日头条",
+          "title": "米切尔结婚现场曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%B1%B3%E5%88%87%E5%B0%94%E7%BB%93%E5%A9%9A%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
           "ranks": [
-            5
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "白宫国家经济委员会主任哈塞特：美联储主席沃什正在朝着积极的方向推动事态发展。我们尊重美联储的独立性。",
-          "url": "https://flash.jin10.com/detail/20260803204239706800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "奋斗 躺平",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马上评｜守住“三支一扶”考试底线，让奋斗者有前途",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33709947",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
+          "time_info": "00时27分"
         }
       ]
     }
