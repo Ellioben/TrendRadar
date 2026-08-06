@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-06T00:10:43.249009+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-06T14:32:54.778035+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "35",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "人大教授被曝主持国家社科基金重点项目，6 年花 35 万考证莫言家世，研究有意义吗？纳税人的钱该不该这样花？",
+          "url": "https://www.zhihu.com/question/2068364859402450214",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
         {
           "title": "德国DAX30指数8月5日（周三）收盘下跌83.97点，跌幅0.32%，报26139.29点；<br/>英国富时100指数8月5日（周三）收盘上涨10.68点，涨幅0.10%，报10890.06点；<br/>法国CAC40指数8月5日（周三）收盘上涨2.67点，涨幅0.03%，报8669.30点；<br/>欧洲斯托克50指数8月5日（周三）收盘下跌7.45点，跌幅0.11%，报6479.25点；<br/>西班牙IBEX35指数8月5日（周三）收盘上涨31.20点，涨幅0.16%，报20054.80点；<br/>意大利富时MIB指数8月5日（周三）收盘下跌99.50点，跌幅0.19%，报53441.00点。",
           "url": "https://flash.jin10.com/detail/20260805234014214800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "35 岁女子 1 天 5 瓶可乐喝成 60 岁脸，可乐危害真有这么大吗？高糖饮食为何会加速健康恶化？",
+          "url": "https://www.zhihu.com/question/2068241594126267915",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     }
