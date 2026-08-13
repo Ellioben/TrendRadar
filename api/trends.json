@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-08-13T13:42:19.191270+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-13T18:54:36.067119+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彩礼 结婚 离婚",
       "match_count": 5,
       "titles": [
+        {
+          "title": "C罗结婚,十年恋情终圆满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357188&amp;topic_name=C%E7%BD%97%E7%BB%93%E5%A9%9A%2C%E5%8D%81%E5%B9%B4%E6%81%8B%E6%83%85%E7%BB%88%E5%9C%86%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 18时54分]"
+        },
+        {
+          "title": "银行能办结婚证了，天津开放首个银行网点婚姻登记处，这事只是「多一个领证地」这么简单吗？银行有什么盘算？",
+          "url": "https://www.zhihu.com/question/2070960876790572338",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 18时54分]"
+        },
         {
           "title": "银行能办结婚证了",
           "url": "https://www.toutiao.com/trending/7673168461392445446/",
@@ -24,28 +47,6 @@
           "source": "百度热搜",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "C罗结婚,十年恋情终圆满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357188&amp;topic_name=C%E7%BD%97%E7%BB%93%E5%A9%9A%2C%E5%8D%81%E5%B9%B4%E6%81%8B%E6%83%85%E7%BB%88%E5%9C%86%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "银行能办结婚证了，天津开放首个银行网点婚姻登记处，这事只是「多一个领证地」这么简单吗？银行有什么盘算？",
-          "url": "https://www.zhihu.com/question/2070960876790572338",
-          "source": "知乎",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
